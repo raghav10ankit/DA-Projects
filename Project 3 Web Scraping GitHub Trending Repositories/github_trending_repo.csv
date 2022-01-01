@@ -1,0 +1,25 @@
+user_name,repo_name,repo_desc,repo_stars,repo_count
+bytedance ,btrace,"🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.",654,86
+sindresorhus ,awesome,😎 Awesome lists about all kinds of interesting topics,"182,542","22,456"
+google ,log4jscanner,,561,45
+DataTalksClub ,data-engineering-zoomcamp,Code for Data Engineer Zoomcamp course,623,95
+PaddlePaddle ,PaddleDetection,"Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.","6,029","1,512"
+papers-we-love ,papers-we-love,Papers from the computer science community to read and discuss.,"51,388","4,340"
+google ,python-fire,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.,"21,467","1,255"
+donnemartin ,system-design-primer,Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.,"156,839","28,946"
+youngyangyang04 ,leetcode-master,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,"20,676","5,291"
+ja-netfilter ,ja-netfilter,A javaagent framework,"2,524",640
+angular ,angular,The modern web developer’s platform,"78,583","20,632"
+MicrosoftLearning ,AZ-204-DevelopingSolutionsforMicrosoftAzure,AZ-204: Developing solutions for Microsoft Azure,"1,245",967
+dfir-iris ,iris-web,Incident Response collaborative platform,151,11
+CleverRaven ,Cataclysm-DDA,Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.,"6,184","3,027"
+ZLMediaKit ,ZLMediaKit,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11,"5,377","1,492"
+element-plus ,element-plus,🎉 A Vue.js 3 UI Library made by Element team,"13,316","2,480"
+Mas0nShi ,typoraCracker,A extract & decryption and pack & encryption tools for typora.,645,230
+gatsbyjs ,gatsby,"Build blazing fast, modern apps and websites with React","52,062","10,073"
+google ,gvisor,Application Kernel for Containers,"12,233","1,010"
+facebook ,react-native,A framework for building native applications using React,"100,218","21,593"
+hibiken ,asynq,"Asynq: simple, reliable, and efficient distributed task queue in Go","2,237",175
+alibaba ,formily,Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3,"6,878",879
+skyline-emu ,skyline,Run Nintendo Switch homebrew & games on your Android device!,"2,531",475
+vnpy ,vnpy,基于Python的开源量化交易平台开发框架,"17,199","6,919"
