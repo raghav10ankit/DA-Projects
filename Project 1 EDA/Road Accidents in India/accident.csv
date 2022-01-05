@@ -1,0 +1,4911 @@
+State/UT,Year,Mode,Total
+A & N Islands,2001,Bicycle,0
+A & N Islands,2001,Bus,2
+A & N Islands,2001,Car,1
+A & N Islands,2001,Jeep,0
+A & N Islands,2001,Other Motor Vehicles,2
+A & N Islands,2001,Others,2
+A & N Islands,2001,Pedestrian,0
+A & N Islands,2001,Three Wheeler,1
+A & N Islands,2001,Truck/Lorry,5
+A & N Islands,2001,Two Wheeler,4
+A & N Islands,2002,Bicycle,0
+A & N Islands,2002,Bus,6
+A & N Islands,2002,Car,2
+A & N Islands,2002,Jeep,3
+A & N Islands,2002,Other Motor Vehicles,1
+A & N Islands,2002,Others,1
+A & N Islands,2002,Pedestrian,0
+A & N Islands,2002,Three Wheeler,0
+A & N Islands,2002,Truck/Lorry,4
+A & N Islands,2002,Two Wheeler,4
+A & N Islands,2003,Bicycle,0
+A & N Islands,2003,Bus,3
+A & N Islands,2003,Car,0
+A & N Islands,2003,Jeep,1
+A & N Islands,2003,Other Motor Vehicles,0
+A & N Islands,2003,Others,0
+A & N Islands,2003,Pedestrian,0
+A & N Islands,2003,Three Wheeler,0
+A & N Islands,2003,Truck/Lorry,2
+A & N Islands,2003,Two Wheeler,6
+A & N Islands,2004,Bicycle,0
+A & N Islands,2004,Bus,1
+A & N Islands,2004,Car,0
+A & N Islands,2004,Jeep,1
+A & N Islands,2004,Other Motor Vehicles,0
+A & N Islands,2004,Others,0
+A & N Islands,2004,Pedestrian,6
+A & N Islands,2004,Three Wheeler,2
+A & N Islands,2004,Truck/Lorry,1
+A & N Islands,2004,Two Wheeler,4
+A & N Islands,2005,Bicycle,0
+A & N Islands,2005,Bus,13
+A & N Islands,2005,Car,2
+A & N Islands,2005,Jeep,0
+A & N Islands,2005,Other Motor Vehicles,0
+A & N Islands,2005,Others,0
+A & N Islands,2005,Pedestrian,0
+A & N Islands,2005,Three Wheeler,1
+A & N Islands,2005,Truck/Lorry,3
+A & N Islands,2005,Two Wheeler,4
+A & N Islands,2006,Bicycle,0
+A & N Islands,2006,Bus,6
+A & N Islands,2006,Car,0
+A & N Islands,2006,Jeep,1
+A & N Islands,2006,Other Motor Vehicles,0
+A & N Islands,2006,Others,0
+A & N Islands,2006,Pedestrian,0
+A & N Islands,2006,Three Wheeler,2
+A & N Islands,2006,Truck/Lorry,13
+A & N Islands,2006,Two Wheeler,0
+A & N Islands,2007,Bicycle,0
+A & N Islands,2007,Bus,0
+A & N Islands,2007,Car,1
+A & N Islands,2007,Jeep,1
+A & N Islands,2007,Other Motor Vehicles,0
+A & N Islands,2007,Others,0
+A & N Islands,2007,Pedestrian,9
+A & N Islands,2007,Three Wheeler,2
+A & N Islands,2007,Truck/Lorry,3
+A & N Islands,2007,Two Wheeler,7
+A & N Islands,2008,Bicycle,0
+A & N Islands,2008,Bus,1
+A & N Islands,2008,Car,1
+A & N Islands,2008,Jeep,3
+A & N Islands,2008,Other Motor Vehicles,2
+A & N Islands,2008,Others,1
+A & N Islands,2008,Pedestrian,3
+A & N Islands,2008,Three Wheeler,0
+A & N Islands,2008,Truck/Lorry,6
+A & N Islands,2008,Two Wheeler,5
+A & N Islands,2009,Bicycle,0
+A & N Islands,2009,Bus,7
+A & N Islands,2009,Car,7
+A & N Islands,2009,Jeep,2
+A & N Islands,2009,Other Motor Vehicles,0
+A & N Islands,2009,Others,1
+A & N Islands,2009,Pedestrian,0
+A & N Islands,2009,Three Wheeler,3
+A & N Islands,2009,Truck/Lorry,4
+A & N Islands,2009,Two Wheeler,9
+A & N Islands,2010,Bicycle,1
+A & N Islands,2010,Bus,1
+A & N Islands,2010,Car,3
+A & N Islands,2010,Jeep,1
+A & N Islands,2010,Other Motor Vehicles,0
+A & N Islands,2010,Others,0
+A & N Islands,2010,Pedestrian,3
+A & N Islands,2010,Three Wheeler,3
+A & N Islands,2010,Truck/Lorry,4
+A & N Islands,2010,Two Wheeler,11
+A & N Islands,2011,Bicycle,0
+A & N Islands,2011,Bus,1
+A & N Islands,2011,Car,0
+A & N Islands,2011,Jeep,2
+A & N Islands,2011,Other Motor Vehicles,0
+A & N Islands,2011,Others,0
+A & N Islands,2011,Pedestrian,6
+A & N Islands,2011,Three Wheeler,1
+A & N Islands,2011,Truck/Lorry,0
+A & N Islands,2011,Two Wheeler,7
+A & N Islands,2012,Bicycle,0
+A & N Islands,2012,Bus,0
+A & N Islands,2012,Car,0
+A & N Islands,2012,Jeep,1
+A & N Islands,2012,Other Motor Vehicles,0
+A & N Islands,2012,Others,0
+A & N Islands,2012,Pedestrian,9
+A & N Islands,2012,Three Wheeler,2
+A & N Islands,2012,Truck/Lorry,3
+A & N Islands,2012,Two Wheeler,10
+A & N Islands,2013,Bicycle,0
+A & N Islands,2013,Bus,1
+A & N Islands,2013,Car,0
+A & N Islands,2013,Jeep,1
+A & N Islands,2013,Other Motor Vehicles,2
+A & N Islands,2013,Others,0
+A & N Islands,2013,Pedestrian,10
+A & N Islands,2013,Three Wheeler,1
+A & N Islands,2013,Truck/Lorry,8
+A & N Islands,2013,Two Wheeler,17
+A & N Islands,2014,Bicycle,0
+A & N Islands,2014,Bus,1
+A & N Islands,2014,Car,2
+A & N Islands,2014,Jeep,0
+A & N Islands,2014,Other Motor Vehicles,0
+A & N Islands,2014,Others,0
+A & N Islands,2014,Pedestrian,10
+A & N Islands,2014,Three Wheeler,1
+A & N Islands,2014,Truck/Lorry,0
+A & N Islands,2014,Two Wheeler,9
+Andhra Pradesh,2001,Bicycle,181
+Andhra Pradesh,2001,Bus,972
+Andhra Pradesh,2001,Car,569
+Andhra Pradesh,2001,Jeep,624
+Andhra Pradesh,2001,Other Motor Vehicles,396
+Andhra Pradesh,2001,Others,1064
+Andhra Pradesh,2001,Pedestrian,374
+Andhra Pradesh,2001,Three Wheeler,611
+Andhra Pradesh,2001,Truck/Lorry,2714
+Andhra Pradesh,2001,Two Wheeler,869
+Andhra Pradesh,2002,Bicycle,175
+Andhra Pradesh,2002,Bus,1102
+Andhra Pradesh,2002,Car,469
+Andhra Pradesh,2002,Jeep,548
+Andhra Pradesh,2002,Other Motor Vehicles,517
+Andhra Pradesh,2002,Others,897
+Andhra Pradesh,2002,Pedestrian,583
+Andhra Pradesh,2002,Three Wheeler,912
+Andhra Pradesh,2002,Truck/Lorry,3139
+Andhra Pradesh,2002,Two Wheeler,1009
+Andhra Pradesh,2003,Bicycle,168
+Andhra Pradesh,2003,Bus,1105
+Andhra Pradesh,2003,Car,645
+Andhra Pradesh,2003,Jeep,731
+Andhra Pradesh,2003,Other Motor Vehicles,421
+Andhra Pradesh,2003,Others,1152
+Andhra Pradesh,2003,Pedestrian,595
+Andhra Pradesh,2003,Three Wheeler,967
+Andhra Pradesh,2003,Truck/Lorry,3033
+Andhra Pradesh,2003,Two Wheeler,1351
+Andhra Pradesh,2004,Bicycle,140
+Andhra Pradesh,2004,Bus,1018
+Andhra Pradesh,2004,Car,576
+Andhra Pradesh,2004,Jeep,707
+Andhra Pradesh,2004,Other Motor Vehicles,625
+Andhra Pradesh,2004,Others,1276
+Andhra Pradesh,2004,Pedestrian,397
+Andhra Pradesh,2004,Three Wheeler,1530
+Andhra Pradesh,2004,Truck/Lorry,3153
+Andhra Pradesh,2004,Two Wheeler,1538
+Andhra Pradesh,2005,Bicycle,187
+Andhra Pradesh,2005,Bus,1040
+Andhra Pradesh,2005,Car,583
+Andhra Pradesh,2005,Jeep,615
+Andhra Pradesh,2005,Other Motor Vehicles,513
+Andhra Pradesh,2005,Others,1472
+Andhra Pradesh,2005,Pedestrian,577
+Andhra Pradesh,2005,Three Wheeler,1362
+Andhra Pradesh,2005,Truck/Lorry,3208
+Andhra Pradesh,2005,Two Wheeler,1387
+Andhra Pradesh,2006,Bicycle,180
+Andhra Pradesh,2006,Bus,1309
+Andhra Pradesh,2006,Car,763
+Andhra Pradesh,2006,Jeep,607
+Andhra Pradesh,2006,Other Motor Vehicles,492
+Andhra Pradesh,2006,Others,1595
+Andhra Pradesh,2006,Pedestrian,676
+Andhra Pradesh,2006,Three Wheeler,1838
+Andhra Pradesh,2006,Truck/Lorry,3311
+Andhra Pradesh,2006,Two Wheeler,1890
+Andhra Pradesh,2007,Bicycle,346
+Andhra Pradesh,2007,Bus,1278
+Andhra Pradesh,2007,Car,885
+Andhra Pradesh,2007,Jeep,656
+Andhra Pradesh,2007,Other Motor Vehicles,505
+Andhra Pradesh,2007,Others,1638
+Andhra Pradesh,2007,Pedestrian,864
+Andhra Pradesh,2007,Three Wheeler,2054
+Andhra Pradesh,2007,Truck/Lorry,3316
+Andhra Pradesh,2007,Two Wheeler,2220
+Andhra Pradesh,2008,Bicycle,267
+Andhra Pradesh,2008,Bus,1350
+Andhra Pradesh,2008,Car,1102
+Andhra Pradesh,2008,Jeep,775
+Andhra Pradesh,2008,Other Motor Vehicles,629
+Andhra Pradesh,2008,Others,1879
+Andhra Pradesh,2008,Pedestrian,742
+Andhra Pradesh,2008,Three Wheeler,1902
+Andhra Pradesh,2008,Truck/Lorry,3365
+Andhra Pradesh,2008,Two Wheeler,2147
+Andhra Pradesh,2009,Bicycle,171
+Andhra Pradesh,2009,Bus,1352
+Andhra Pradesh,2009,Car,902
+Andhra Pradesh,2009,Jeep,568
+Andhra Pradesh,2009,Other Motor Vehicles,1005
+Andhra Pradesh,2009,Others,2693
+Andhra Pradesh,2009,Pedestrian,508
+Andhra Pradesh,2009,Three Wheeler,2010
+Andhra Pradesh,2009,Truck/Lorry,3120
+Andhra Pradesh,2009,Two Wheeler,2187
+Andhra Pradesh,2010,Bicycle,195
+Andhra Pradesh,2010,Bus,1540
+Andhra Pradesh,2010,Car,1269
+Andhra Pradesh,2010,Jeep,862
+Andhra Pradesh,2010,Other Motor Vehicles,868
+Andhra Pradesh,2010,Others,1787
+Andhra Pradesh,2010,Pedestrian,519
+Andhra Pradesh,2010,Three Wheeler,2265
+Andhra Pradesh,2010,Truck/Lorry,3453
+Andhra Pradesh,2010,Two Wheeler,2579
+Andhra Pradesh,2011,Bicycle,137
+Andhra Pradesh,2011,Bus,1194
+Andhra Pradesh,2011,Car,1159
+Andhra Pradesh,2011,Jeep,841
+Andhra Pradesh,2011,Other Motor Vehicles,997
+Andhra Pradesh,2011,Others,1852
+Andhra Pradesh,2011,Pedestrian,523
+Andhra Pradesh,2011,Three Wheeler,1882
+Andhra Pradesh,2011,Truck/Lorry,3602
+Andhra Pradesh,2011,Two Wheeler,2971
+Andhra Pradesh,2012,Bicycle,181
+Andhra Pradesh,2012,Bus,1374
+Andhra Pradesh,2012,Car,1338
+Andhra Pradesh,2012,Jeep,617
+Andhra Pradesh,2012,Other Motor Vehicles,703
+Andhra Pradesh,2012,Others,2191
+Andhra Pradesh,2012,Pedestrian,695
+Andhra Pradesh,2012,Three Wheeler,1734
+Andhra Pradesh,2012,Truck/Lorry,3432
+Andhra Pradesh,2012,Two Wheeler,2701
+Andhra Pradesh,2013,Bicycle,181
+Andhra Pradesh,2013,Bus,1182
+Andhra Pradesh,2013,Car,1616
+Andhra Pradesh,2013,Jeep,614
+Andhra Pradesh,2013,Other Motor Vehicles,761
+Andhra Pradesh,2013,Others,1645
+Andhra Pradesh,2013,Pedestrian,960
+Andhra Pradesh,2013,Three Wheeler,1684
+Andhra Pradesh,2013,Truck/Lorry,2907
+Andhra Pradesh,2013,Two Wheeler,3097
+Andhra Pradesh,2014,Bicycle,49
+Andhra Pradesh,2014,Bus,519
+Andhra Pradesh,2014,Car,1009
+Andhra Pradesh,2014,Jeep,158
+Andhra Pradesh,2014,Other Motor Vehicles,542
+Andhra Pradesh,2014,Others,411
+Andhra Pradesh,2014,Pedestrian,335
+Andhra Pradesh,2014,Three Wheeler,1063
+Andhra Pradesh,2014,Truck/Lorry,1903
+Andhra Pradesh,2014,Two Wheeler,1919
+Arunachal Pradesh,2001,Bicycle,0
+Arunachal Pradesh,2001,Bus,8
+Arunachal Pradesh,2001,Car,0
+Arunachal Pradesh,2001,Jeep,4
+Arunachal Pradesh,2001,Other Motor Vehicles,4
+Arunachal Pradesh,2001,Others,0
+Arunachal Pradesh,2001,Pedestrian,1
+Arunachal Pradesh,2001,Three Wheeler,0
+Arunachal Pradesh,2001,Truck/Lorry,35
+Arunachal Pradesh,2001,Two Wheeler,8
+Arunachal Pradesh,2002,Bicycle,0
+Arunachal Pradesh,2002,Bus,6
+Arunachal Pradesh,2002,Car,0
+Arunachal Pradesh,2002,Jeep,15
+Arunachal Pradesh,2002,Other Motor Vehicles,2
+Arunachal Pradesh,2002,Others,0
+Arunachal Pradesh,2002,Pedestrian,0
+Arunachal Pradesh,2002,Three Wheeler,1
+Arunachal Pradesh,2002,Truck/Lorry,74
+Arunachal Pradesh,2002,Two Wheeler,16
+Arunachal Pradesh,2003,Bicycle,1
+Arunachal Pradesh,2003,Bus,44
+Arunachal Pradesh,2003,Car,0
+Arunachal Pradesh,2003,Jeep,15
+Arunachal Pradesh,2003,Other Motor Vehicles,3
+Arunachal Pradesh,2003,Others,0
+Arunachal Pradesh,2003,Pedestrian,0
+Arunachal Pradesh,2003,Three Wheeler,5
+Arunachal Pradesh,2003,Truck/Lorry,55
+Arunachal Pradesh,2003,Two Wheeler,12
+Arunachal Pradesh,2004,Bicycle,1
+Arunachal Pradesh,2004,Bus,77
+Arunachal Pradesh,2004,Car,5
+Arunachal Pradesh,2004,Jeep,5
+Arunachal Pradesh,2004,Other Motor Vehicles,7
+Arunachal Pradesh,2004,Others,0
+Arunachal Pradesh,2004,Pedestrian,6
+Arunachal Pradesh,2004,Three Wheeler,6
+Arunachal Pradesh,2004,Truck/Lorry,51
+Arunachal Pradesh,2004,Two Wheeler,23
+Arunachal Pradesh,2005,Bicycle,0
+Arunachal Pradesh,2005,Bus,6
+Arunachal Pradesh,2005,Car,2
+Arunachal Pradesh,2005,Jeep,9
+Arunachal Pradesh,2005,Other Motor Vehicles,9
+Arunachal Pradesh,2005,Others,0
+Arunachal Pradesh,2005,Pedestrian,2
+Arunachal Pradesh,2005,Three Wheeler,3
+Arunachal Pradesh,2005,Truck/Lorry,47
+Arunachal Pradesh,2005,Two Wheeler,11
+Arunachal Pradesh,2006,Bicycle,0
+Arunachal Pradesh,2006,Bus,5
+Arunachal Pradesh,2006,Car,4
+Arunachal Pradesh,2006,Jeep,18
+Arunachal Pradesh,2006,Other Motor Vehicles,3
+Arunachal Pradesh,2006,Others,1
+Arunachal Pradesh,2006,Pedestrian,0
+Arunachal Pradesh,2006,Three Wheeler,0
+Arunachal Pradesh,2006,Truck/Lorry,47
+Arunachal Pradesh,2006,Two Wheeler,38
+Arunachal Pradesh,2007,Bicycle,1
+Arunachal Pradesh,2007,Bus,6
+Arunachal Pradesh,2007,Car,15
+Arunachal Pradesh,2007,Jeep,14
+Arunachal Pradesh,2007,Other Motor Vehicles,0
+Arunachal Pradesh,2007,Others,5
+Arunachal Pradesh,2007,Pedestrian,0
+Arunachal Pradesh,2007,Three Wheeler,2
+Arunachal Pradesh,2007,Truck/Lorry,45
+Arunachal Pradesh,2007,Two Wheeler,20
+Arunachal Pradesh,2008,Bicycle,0
+Arunachal Pradesh,2008,Bus,15
+Arunachal Pradesh,2008,Car,7
+Arunachal Pradesh,2008,Jeep,19
+Arunachal Pradesh,2008,Other Motor Vehicles,0
+Arunachal Pradesh,2008,Others,0
+Arunachal Pradesh,2008,Pedestrian,5
+Arunachal Pradesh,2008,Three Wheeler,4
+Arunachal Pradesh,2008,Truck/Lorry,54
+Arunachal Pradesh,2008,Two Wheeler,21
+Arunachal Pradesh,2009,Bicycle,0
+Arunachal Pradesh,2009,Bus,15
+Arunachal Pradesh,2009,Car,7
+Arunachal Pradesh,2009,Jeep,19
+Arunachal Pradesh,2009,Other Motor Vehicles,0
+Arunachal Pradesh,2009,Others,0
+Arunachal Pradesh,2009,Pedestrian,5
+Arunachal Pradesh,2009,Three Wheeler,4
+Arunachal Pradesh,2009,Truck/Lorry,54
+Arunachal Pradesh,2009,Two Wheeler,21
+Arunachal Pradesh,2010,Bicycle,1
+Arunachal Pradesh,2010,Bus,5
+Arunachal Pradesh,2010,Car,11
+Arunachal Pradesh,2010,Jeep,9
+Arunachal Pradesh,2010,Other Motor Vehicles,2
+Arunachal Pradesh,2010,Others,10
+Arunachal Pradesh,2010,Pedestrian,4
+Arunachal Pradesh,2010,Three Wheeler,6
+Arunachal Pradesh,2010,Truck/Lorry,57
+Arunachal Pradesh,2010,Two Wheeler,34
+Arunachal Pradesh,2011,Bicycle,0
+Arunachal Pradesh,2011,Bus,6
+Arunachal Pradesh,2011,Car,27
+Arunachal Pradesh,2011,Jeep,9
+Arunachal Pradesh,2011,Other Motor Vehicles,4
+Arunachal Pradesh,2011,Others,3
+Arunachal Pradesh,2011,Pedestrian,0
+Arunachal Pradesh,2011,Three Wheeler,1
+Arunachal Pradesh,2011,Truck/Lorry,36
+Arunachal Pradesh,2011,Two Wheeler,40
+Arunachal Pradesh,2012,Bicycle,0
+Arunachal Pradesh,2012,Bus,6
+Arunachal Pradesh,2012,Car,13
+Arunachal Pradesh,2012,Jeep,16
+Arunachal Pradesh,2012,Other Motor Vehicles,3
+Arunachal Pradesh,2012,Others,0
+Arunachal Pradesh,2012,Pedestrian,20
+Arunachal Pradesh,2012,Three Wheeler,8
+Arunachal Pradesh,2012,Truck/Lorry,29
+Arunachal Pradesh,2012,Two Wheeler,41
+Arunachal Pradesh,2013,Bicycle,0
+Arunachal Pradesh,2013,Bus,14
+Arunachal Pradesh,2013,Car,14
+Arunachal Pradesh,2013,Jeep,20
+Arunachal Pradesh,2013,Other Motor Vehicles,10
+Arunachal Pradesh,2013,Others,25
+Arunachal Pradesh,2013,Pedestrian,2
+Arunachal Pradesh,2013,Three Wheeler,5
+Arunachal Pradesh,2013,Truck/Lorry,35
+Arunachal Pradesh,2013,Two Wheeler,30
+Arunachal Pradesh,2014,Bicycle,3
+Arunachal Pradesh,2014,Bus,3
+Arunachal Pradesh,2014,Car,26
+Arunachal Pradesh,2014,Jeep,0
+Arunachal Pradesh,2014,Other Motor Vehicles,13
+Arunachal Pradesh,2014,Others,2
+Arunachal Pradesh,2014,Pedestrian,2
+Arunachal Pradesh,2014,Three Wheeler,3
+Arunachal Pradesh,2014,Truck/Lorry,33
+Arunachal Pradesh,2014,Two Wheeler,27
+Assam,2001,Bicycle,29
+Assam,2001,Bus,300
+Assam,2001,Car,65
+Assam,2001,Jeep,37
+Assam,2001,Other Motor Vehicles,12
+Assam,2001,Others,18
+Assam,2001,Pedestrian,71
+Assam,2001,Three Wheeler,8
+Assam,2001,Truck/Lorry,194
+Assam,2001,Two Wheeler,42
+Assam,2002,Bicycle,23
+Assam,2002,Bus,297
+Assam,2002,Car,62
+Assam,2002,Jeep,34
+Assam,2002,Other Motor Vehicles,25
+Assam,2002,Others,52
+Assam,2002,Pedestrian,62
+Assam,2002,Three Wheeler,38
+Assam,2002,Truck/Lorry,265
+Assam,2002,Two Wheeler,51
+Assam,2003,Bicycle,8
+Assam,2003,Bus,420
+Assam,2003,Car,51
+Assam,2003,Jeep,48
+Assam,2003,Other Motor Vehicles,59
+Assam,2003,Others,33
+Assam,2003,Pedestrian,65
+Assam,2003,Three Wheeler,33
+Assam,2003,Truck/Lorry,313
+Assam,2003,Two Wheeler,107
+Assam,2004,Bicycle,9
+Assam,2004,Bus,419
+Assam,2004,Car,72
+Assam,2004,Jeep,56
+Assam,2004,Other Motor Vehicles,35
+Assam,2004,Others,52
+Assam,2004,Pedestrian,39
+Assam,2004,Three Wheeler,22
+Assam,2004,Truck/Lorry,229
+Assam,2004,Two Wheeler,79
+Assam,2005,Bicycle,28
+Assam,2005,Bus,534
+Assam,2005,Car,135
+Assam,2005,Jeep,97
+Assam,2005,Other Motor Vehicles,80
+Assam,2005,Others,57
+Assam,2005,Pedestrian,72
+Assam,2005,Three Wheeler,55
+Assam,2005,Truck/Lorry,282
+Assam,2005,Two Wheeler,116
+Assam,2006,Bicycle,55
+Assam,2006,Bus,649
+Assam,2006,Car,167
+Assam,2006,Jeep,86
+Assam,2006,Other Motor Vehicles,99
+Assam,2006,Others,18
+Assam,2006,Pedestrian,87
+Assam,2006,Three Wheeler,46
+Assam,2006,Truck/Lorry,338
+Assam,2006,Two Wheeler,195
+Assam,2007,Bicycle,76
+Assam,2007,Bus,488
+Assam,2007,Car,127
+Assam,2007,Jeep,110
+Assam,2007,Other Motor Vehicles,90
+Assam,2007,Others,34
+Assam,2007,Pedestrian,107
+Assam,2007,Three Wheeler,57
+Assam,2007,Truck/Lorry,344
+Assam,2007,Two Wheeler,171
+Assam,2008,Bicycle,82
+Assam,2008,Bus,536
+Assam,2008,Car,129
+Assam,2008,Jeep,56
+Assam,2008,Other Motor Vehicles,79
+Assam,2008,Others,37
+Assam,2008,Pedestrian,125
+Assam,2008,Three Wheeler,80
+Assam,2008,Truck/Lorry,361
+Assam,2008,Two Wheeler,236
+Assam,2009,Bicycle,40
+Assam,2009,Bus,504
+Assam,2009,Car,276
+Assam,2009,Jeep,72
+Assam,2009,Other Motor Vehicles,121
+Assam,2009,Others,61
+Assam,2009,Pedestrian,117
+Assam,2009,Three Wheeler,84
+Assam,2009,Truck/Lorry,427
+Assam,2009,Two Wheeler,281
+Assam,2010,Bicycle,66
+Assam,2010,Bus,395
+Assam,2010,Car,437
+Assam,2010,Jeep,65
+Assam,2010,Other Motor Vehicles,168
+Assam,2010,Others,43
+Assam,2010,Pedestrian,64
+Assam,2010,Three Wheeler,105
+Assam,2010,Truck/Lorry,403
+Assam,2010,Two Wheeler,284
+Assam,2011,Bicycle,40
+Assam,2011,Bus,331
+Assam,2011,Car,577
+Assam,2011,Jeep,52
+Assam,2011,Other Motor Vehicles,73
+Assam,2011,Others,201
+Assam,2011,Pedestrian,57
+Assam,2011,Three Wheeler,70
+Assam,2011,Truck/Lorry,555
+Assam,2011,Two Wheeler,386
+Assam,2012,Bicycle,55
+Assam,2012,Bus,260
+Assam,2012,Car,399
+Assam,2012,Jeep,64
+Assam,2012,Other Motor Vehicles,87
+Assam,2012,Others,330
+Assam,2012,Pedestrian,96
+Assam,2012,Three Wheeler,75
+Assam,2012,Truck/Lorry,455
+Assam,2012,Two Wheeler,470
+Assam,2013,Bicycle,29
+Assam,2013,Bus,278
+Assam,2013,Car,525
+Assam,2013,Jeep,94
+Assam,2013,Other Motor Vehicles,198
+Assam,2013,Others,116
+Assam,2013,Pedestrian,52
+Assam,2013,Three Wheeler,158
+Assam,2013,Truck/Lorry,455
+Assam,2013,Two Wheeler,536
+Assam,2014,Bicycle,38
+Assam,2014,Bus,246
+Assam,2014,Car,428
+Assam,2014,Jeep,128
+Assam,2014,Other Motor Vehicles,520
+Assam,2014,Others,0
+Assam,2014,Pedestrian,31
+Assam,2014,Three Wheeler,182
+Assam,2014,Truck/Lorry,417
+Assam,2014,Two Wheeler,532
+Bihar,2001,Bicycle,19
+Bihar,2001,Bus,470
+Bihar,2001,Car,99
+Bihar,2001,Jeep,271
+Bihar,2001,Other Motor Vehicles,114
+Bihar,2001,Others,343
+Bihar,2001,Pedestrian,17
+Bihar,2001,Three Wheeler,30
+Bihar,2001,Truck/Lorry,777
+Bihar,2001,Two Wheeler,130
+Bihar,2002,Bicycle,20
+Bihar,2002,Bus,432
+Bihar,2002,Car,98
+Bihar,2002,Jeep,324
+Bihar,2002,Other Motor Vehicles,156
+Bihar,2002,Others,347
+Bihar,2002,Pedestrian,42
+Bihar,2002,Three Wheeler,56
+Bihar,2002,Truck/Lorry,565
+Bihar,2002,Two Wheeler,104
+Bihar,2003,Bicycle,34
+Bihar,2003,Bus,270
+Bihar,2003,Car,114
+Bihar,2003,Jeep,336
+Bihar,2003,Other Motor Vehicles,220
+Bihar,2003,Others,214
+Bihar,2003,Pedestrian,84
+Bihar,2003,Three Wheeler,49
+Bihar,2003,Truck/Lorry,723
+Bihar,2003,Two Wheeler,149
+Bihar,2004,Bicycle,27
+Bihar,2004,Bus,318
+Bihar,2004,Car,108
+Bihar,2004,Jeep,326
+Bihar,2004,Other Motor Vehicles,187
+Bihar,2004,Others,317
+Bihar,2004,Pedestrian,108
+Bihar,2004,Three Wheeler,24
+Bihar,2004,Truck/Lorry,577
+Bihar,2004,Two Wheeler,107
+Bihar,2005,Bicycle,37
+Bihar,2005,Bus,367
+Bihar,2005,Car,142
+Bihar,2005,Jeep,317
+Bihar,2005,Other Motor Vehicles,115
+Bihar,2005,Others,422
+Bihar,2005,Pedestrian,44
+Bihar,2005,Three Wheeler,62
+Bihar,2005,Truck/Lorry,541
+Bihar,2005,Two Wheeler,101
+Bihar,2006,Bicycle,64
+Bihar,2006,Bus,367
+Bihar,2006,Car,136
+Bihar,2006,Jeep,262
+Bihar,2006,Other Motor Vehicles,282
+Bihar,2006,Others,313
+Bihar,2006,Pedestrian,56
+Bihar,2006,Three Wheeler,40
+Bihar,2006,Truck/Lorry,557
+Bihar,2006,Two Wheeler,154
+Bihar,2007,Bicycle,65
+Bihar,2007,Bus,440
+Bihar,2007,Car,158
+Bihar,2007,Jeep,421
+Bihar,2007,Other Motor Vehicles,219
+Bihar,2007,Others,332
+Bihar,2007,Pedestrian,101
+Bihar,2007,Three Wheeler,155
+Bihar,2007,Truck/Lorry,664
+Bihar,2007,Two Wheeler,249
+Bihar,2008,Bicycle,57
+Bihar,2008,Bus,365
+Bihar,2008,Car,126
+Bihar,2008,Jeep,513
+Bihar,2008,Other Motor Vehicles,235
+Bihar,2008,Others,697
+Bihar,2008,Pedestrian,115
+Bihar,2008,Three Wheeler,100
+Bihar,2008,Truck/Lorry,864
+Bihar,2008,Two Wheeler,399
+Bihar,2009,Bicycle,79
+Bihar,2009,Bus,474
+Bihar,2009,Car,194
+Bihar,2009,Jeep,550
+Bihar,2009,Other Motor Vehicles,454
+Bihar,2009,Others,763
+Bihar,2009,Pedestrian,278
+Bihar,2009,Three Wheeler,148
+Bihar,2009,Truck/Lorry,1062
+Bihar,2009,Two Wheeler,403
+Bihar,2010,Bicycle,105
+Bihar,2010,Bus,544
+Bihar,2010,Car,291
+Bihar,2010,Jeep,535
+Bihar,2010,Other Motor Vehicles,332
+Bihar,2010,Others,720
+Bihar,2010,Pedestrian,266
+Bihar,2010,Three Wheeler,287
+Bihar,2010,Truck/Lorry,1220
+Bihar,2010,Two Wheeler,393
+Bihar,2011,Bicycle,136
+Bihar,2011,Bus,755
+Bihar,2011,Car,350
+Bihar,2011,Jeep,455
+Bihar,2011,Other Motor Vehicles,381
+Bihar,2011,Others,862
+Bihar,2011,Pedestrian,152
+Bihar,2011,Three Wheeler,212
+Bihar,2011,Truck/Lorry,1146
+Bihar,2011,Two Wheeler,623
+Bihar,2012,Bicycle,95
+Bihar,2012,Bus,889
+Bihar,2012,Car,298
+Bihar,2012,Jeep,480
+Bihar,2012,Other Motor Vehicles,443
+Bihar,2012,Others,837
+Bihar,2012,Pedestrian,194
+Bihar,2012,Three Wheeler,210
+Bihar,2012,Truck/Lorry,972
+Bihar,2012,Two Wheeler,638
+Bihar,2013,Bicycle,42
+Bihar,2013,Bus,741
+Bihar,2013,Car,330
+Bihar,2013,Jeep,477
+Bihar,2013,Other Motor Vehicles,438
+Bihar,2013,Others,814
+Bihar,2013,Pedestrian,200
+Bihar,2013,Three Wheeler,231
+Bihar,2013,Truck/Lorry,1015
+Bihar,2013,Two Wheeler,701
+Bihar,2014,Bicycle,78
+Bihar,2014,Bus,583
+Bihar,2014,Car,567
+Bihar,2014,Jeep,386
+Bihar,2014,Other Motor Vehicles,342
+Bihar,2014,Others,428
+Bihar,2014,Pedestrian,85
+Bihar,2014,Three Wheeler,405
+Bihar,2014,Truck/Lorry,1157
+Bihar,2014,Two Wheeler,791
+Chandigarh,2001,Bicycle,28
+Chandigarh,2001,Bus,1
+Chandigarh,2001,Car,5
+Chandigarh,2001,Jeep,1
+Chandigarh,2001,Other Motor Vehicles,0
+Chandigarh,2001,Others,9
+Chandigarh,2001,Pedestrian,21
+Chandigarh,2001,Three Wheeler,1
+Chandigarh,2001,Truck/Lorry,3
+Chandigarh,2001,Two Wheeler,49
+Chandigarh,2002,Bicycle,19
+Chandigarh,2002,Bus,0
+Chandigarh,2002,Car,13
+Chandigarh,2002,Jeep,2
+Chandigarh,2002,Other Motor Vehicles,0
+Chandigarh,2002,Others,5
+Chandigarh,2002,Pedestrian,39
+Chandigarh,2002,Three Wheeler,4
+Chandigarh,2002,Truck/Lorry,0
+Chandigarh,2002,Two Wheeler,26
+Chandigarh,2003,Bicycle,26
+Chandigarh,2003,Bus,1
+Chandigarh,2003,Car,4
+Chandigarh,2003,Jeep,0
+Chandigarh,2003,Other Motor Vehicles,0
+Chandigarh,2003,Others,12
+Chandigarh,2003,Pedestrian,32
+Chandigarh,2003,Three Wheeler,4
+Chandigarh,2003,Truck/Lorry,0
+Chandigarh,2003,Two Wheeler,55
+Chandigarh,2004,Bicycle,2
+Chandigarh,2004,Bus,1
+Chandigarh,2004,Car,1
+Chandigarh,2004,Jeep,0
+Chandigarh,2004,Other Motor Vehicles,0
+Chandigarh,2004,Others,31
+Chandigarh,2004,Pedestrian,24
+Chandigarh,2004,Three Wheeler,3
+Chandigarh,2004,Truck/Lorry,3
+Chandigarh,2004,Two Wheeler,82
+Chandigarh,2005,Bicycle,23
+Chandigarh,2005,Bus,7
+Chandigarh,2005,Car,4
+Chandigarh,2005,Jeep,1
+Chandigarh,2005,Other Motor Vehicles,0
+Chandigarh,2005,Others,2
+Chandigarh,2005,Pedestrian,40
+Chandigarh,2005,Three Wheeler,2
+Chandigarh,2005,Truck/Lorry,0
+Chandigarh,2005,Two Wheeler,55
+Chandigarh,2006,Bicycle,28
+Chandigarh,2006,Bus,0
+Chandigarh,2006,Car,4
+Chandigarh,2006,Jeep,0
+Chandigarh,2006,Other Motor Vehicles,0
+Chandigarh,2006,Others,4
+Chandigarh,2006,Pedestrian,39
+Chandigarh,2006,Three Wheeler,9
+Chandigarh,2006,Truck/Lorry,0
+Chandigarh,2006,Two Wheeler,57
+Chandigarh,2007,Bicycle,24
+Chandigarh,2007,Bus,1
+Chandigarh,2007,Car,8
+Chandigarh,2007,Jeep,0
+Chandigarh,2007,Other Motor Vehicles,2
+Chandigarh,2007,Others,5
+Chandigarh,2007,Pedestrian,40
+Chandigarh,2007,Three Wheeler,2
+Chandigarh,2007,Truck/Lorry,0
+Chandigarh,2007,Two Wheeler,69
+Chandigarh,2008,Bicycle,23
+Chandigarh,2008,Bus,2
+Chandigarh,2008,Car,5
+Chandigarh,2008,Jeep,0
+Chandigarh,2008,Other Motor Vehicles,0
+Chandigarh,2008,Others,5
+Chandigarh,2008,Pedestrian,43
+Chandigarh,2008,Three Wheeler,5
+Chandigarh,2008,Truck/Lorry,0
+Chandigarh,2008,Two Wheeler,63
+Chandigarh,2009,Bicycle,25
+Chandigarh,2009,Bus,4
+Chandigarh,2009,Car,3
+Chandigarh,2009,Jeep,0
+Chandigarh,2009,Other Motor Vehicles,0
+Chandigarh,2009,Others,6
+Chandigarh,2009,Pedestrian,58
+Chandigarh,2009,Three Wheeler,4
+Chandigarh,2009,Truck/Lorry,0
+Chandigarh,2009,Two Wheeler,71
+Chandigarh,2010,Bicycle,25
+Chandigarh,2010,Bus,0
+Chandigarh,2010,Car,7
+Chandigarh,2010,Jeep,0
+Chandigarh,2010,Other Motor Vehicles,0
+Chandigarh,2010,Others,4
+Chandigarh,2010,Pedestrian,52
+Chandigarh,2010,Three Wheeler,2
+Chandigarh,2010,Truck/Lorry,0
+Chandigarh,2010,Two Wheeler,48
+Chandigarh,2011,Bicycle,22
+Chandigarh,2011,Bus,0
+Chandigarh,2011,Car,8
+Chandigarh,2011,Jeep,0
+Chandigarh,2011,Other Motor Vehicles,0
+Chandigarh,2011,Others,7
+Chandigarh,2011,Pedestrian,47
+Chandigarh,2011,Three Wheeler,2
+Chandigarh,2011,Truck/Lorry,0
+Chandigarh,2011,Two Wheeler,50
+Chandigarh,2012,Bicycle,22
+Chandigarh,2012,Bus,0
+Chandigarh,2012,Car,5
+Chandigarh,2012,Jeep,1
+Chandigarh,2012,Other Motor Vehicles,1
+Chandigarh,2012,Others,4
+Chandigarh,2012,Pedestrian,32
+Chandigarh,2012,Three Wheeler,5
+Chandigarh,2012,Truck/Lorry,0
+Chandigarh,2012,Two Wheeler,44
+Chandigarh,2013,Bicycle,29
+Chandigarh,2013,Bus,0
+Chandigarh,2013,Car,5
+Chandigarh,2013,Jeep,0
+Chandigarh,2013,Other Motor Vehicles,2
+Chandigarh,2013,Others,7
+Chandigarh,2013,Pedestrian,41
+Chandigarh,2013,Three Wheeler,5
+Chandigarh,2013,Truck/Lorry,0
+Chandigarh,2013,Two Wheeler,33
+Chandigarh,2014,Bicycle,18
+Chandigarh,2014,Bus,3
+Chandigarh,2014,Car,5
+Chandigarh,2014,Jeep,0
+Chandigarh,2014,Other Motor Vehicles,0
+Chandigarh,2014,Others,2
+Chandigarh,2014,Pedestrian,46
+Chandigarh,2014,Three Wheeler,6
+Chandigarh,2014,Truck/Lorry,0
+Chandigarh,2014,Two Wheeler,51
+Chhattisgarh,2001,Bicycle,41
+Chhattisgarh,2001,Bus,83
+Chhattisgarh,2001,Car,36
+Chhattisgarh,2001,Jeep,167
+Chhattisgarh,2001,Other Motor Vehicles,83
+Chhattisgarh,2001,Others,140
+Chhattisgarh,2001,Pedestrian,65
+Chhattisgarh,2001,Three Wheeler,11
+Chhattisgarh,2001,Truck/Lorry,491
+Chhattisgarh,2001,Two Wheeler,223
+Chhattisgarh,2002,Bicycle,138
+Chhattisgarh,2002,Bus,114
+Chhattisgarh,2002,Car,41
+Chhattisgarh,2002,Jeep,199
+Chhattisgarh,2002,Other Motor Vehicles,67
+Chhattisgarh,2002,Others,327
+Chhattisgarh,2002,Pedestrian,155
+Chhattisgarh,2002,Three Wheeler,15
+Chhattisgarh,2002,Truck/Lorry,424
+Chhattisgarh,2002,Two Wheeler,344
+Chhattisgarh,2003,Bicycle,73
+Chhattisgarh,2003,Bus,154
+Chhattisgarh,2003,Car,61
+Chhattisgarh,2003,Jeep,231
+Chhattisgarh,2003,Other Motor Vehicles,70
+Chhattisgarh,2003,Others,341
+Chhattisgarh,2003,Pedestrian,142
+Chhattisgarh,2003,Three Wheeler,13
+Chhattisgarh,2003,Truck/Lorry,617
+Chhattisgarh,2003,Two Wheeler,333
+Chhattisgarh,2004,Bicycle,78
+Chhattisgarh,2004,Bus,109
+Chhattisgarh,2004,Car,47
+Chhattisgarh,2004,Jeep,222
+Chhattisgarh,2004,Other Motor Vehicles,79
+Chhattisgarh,2004,Others,494
+Chhattisgarh,2004,Pedestrian,201
+Chhattisgarh,2004,Three Wheeler,29
+Chhattisgarh,2004,Truck/Lorry,546
+Chhattisgarh,2004,Two Wheeler,445
+Chhattisgarh,2005,Bicycle,156
+Chhattisgarh,2005,Bus,204
+Chhattisgarh,2005,Car,85
+Chhattisgarh,2005,Jeep,240
+Chhattisgarh,2005,Other Motor Vehicles,96
+Chhattisgarh,2005,Others,332
+Chhattisgarh,2005,Pedestrian,206
+Chhattisgarh,2005,Three Wheeler,15
+Chhattisgarh,2005,Truck/Lorry,534
+Chhattisgarh,2005,Two Wheeler,457
+Chhattisgarh,2006,Bicycle,159
+Chhattisgarh,2006,Bus,170
+Chhattisgarh,2006,Car,111
+Chhattisgarh,2006,Jeep,197
+Chhattisgarh,2006,Other Motor Vehicles,80
+Chhattisgarh,2006,Others,483
+Chhattisgarh,2006,Pedestrian,136
+Chhattisgarh,2006,Three Wheeler,31
+Chhattisgarh,2006,Truck/Lorry,766
+Chhattisgarh,2006,Two Wheeler,441
+Chhattisgarh,2007,Bicycle,79
+Chhattisgarh,2007,Bus,188
+Chhattisgarh,2007,Car,136
+Chhattisgarh,2007,Jeep,200
+Chhattisgarh,2007,Other Motor Vehicles,90
+Chhattisgarh,2007,Others,766
+Chhattisgarh,2007,Pedestrian,166
+Chhattisgarh,2007,Three Wheeler,28
+Chhattisgarh,2007,Truck/Lorry,719
+Chhattisgarh,2007,Two Wheeler,560
+Chhattisgarh,2008,Bicycle,84
+Chhattisgarh,2008,Bus,169
+Chhattisgarh,2008,Car,119
+Chhattisgarh,2008,Jeep,208
+Chhattisgarh,2008,Other Motor Vehicles,103
+Chhattisgarh,2008,Others,701
+Chhattisgarh,2008,Pedestrian,213
+Chhattisgarh,2008,Three Wheeler,29
+Chhattisgarh,2008,Truck/Lorry,790
+Chhattisgarh,2008,Two Wheeler,827
+Chhattisgarh,2009,Bicycle,133
+Chhattisgarh,2009,Bus,179
+Chhattisgarh,2009,Car,157
+Chhattisgarh,2009,Jeep,273
+Chhattisgarh,2009,Other Motor Vehicles,132
+Chhattisgarh,2009,Others,684
+Chhattisgarh,2009,Pedestrian,199
+Chhattisgarh,2009,Three Wheeler,50
+Chhattisgarh,2009,Truck/Lorry,637
+Chhattisgarh,2009,Two Wheeler,714
+Chhattisgarh,2010,Bicycle,160
+Chhattisgarh,2010,Bus,251
+Chhattisgarh,2010,Car,165
+Chhattisgarh,2010,Jeep,271
+Chhattisgarh,2010,Other Motor Vehicles,144
+Chhattisgarh,2010,Others,531
+Chhattisgarh,2010,Pedestrian,223
+Chhattisgarh,2010,Three Wheeler,50
+Chhattisgarh,2010,Truck/Lorry,698
+Chhattisgarh,2010,Two Wheeler,395
+Chhattisgarh,2011,Bicycle,130
+Chhattisgarh,2011,Bus,179
+Chhattisgarh,2011,Car,166
+Chhattisgarh,2011,Jeep,302
+Chhattisgarh,2011,Other Motor Vehicles,190
+Chhattisgarh,2011,Others,425
+Chhattisgarh,2011,Pedestrian,240
+Chhattisgarh,2011,Three Wheeler,85
+Chhattisgarh,2011,Truck/Lorry,816
+Chhattisgarh,2011,Two Wheeler,921
+Chhattisgarh,2012,Bicycle,64
+Chhattisgarh,2012,Bus,147
+Chhattisgarh,2012,Car,139
+Chhattisgarh,2012,Jeep,220
+Chhattisgarh,2012,Other Motor Vehicles,91
+Chhattisgarh,2012,Others,758
+Chhattisgarh,2012,Pedestrian,189
+Chhattisgarh,2012,Three Wheeler,24
+Chhattisgarh,2012,Truck/Lorry,800
+Chhattisgarh,2012,Two Wheeler,735
+Chhattisgarh,2013,Bicycle,53
+Chhattisgarh,2013,Bus,208
+Chhattisgarh,2013,Car,182
+Chhattisgarh,2013,Jeep,259
+Chhattisgarh,2013,Other Motor Vehicles,82
+Chhattisgarh,2013,Others,894
+Chhattisgarh,2013,Pedestrian,131
+Chhattisgarh,2013,Three Wheeler,57
+Chhattisgarh,2013,Truck/Lorry,656
+Chhattisgarh,2013,Two Wheeler,955
+Chhattisgarh,2014,Bicycle,12
+Chhattisgarh,2014,Bus,197
+Chhattisgarh,2014,Car,463
+Chhattisgarh,2014,Jeep,149
+Chhattisgarh,2014,Other Motor Vehicles,748
+Chhattisgarh,2014,Others,32
+Chhattisgarh,2014,Pedestrian,63
+Chhattisgarh,2014,Three Wheeler,36
+Chhattisgarh,2014,Truck/Lorry,1167
+Chhattisgarh,2014,Two Wheeler,1118
+D & N Haveli,2001,Bicycle,4
+D & N Haveli,2001,Bus,1
+D & N Haveli,2001,Car,1
+D & N Haveli,2001,Jeep,0
+D & N Haveli,2001,Other Motor Vehicles,3
+D & N Haveli,2001,Others,1
+D & N Haveli,2001,Pedestrian,11
+D & N Haveli,2001,Three Wheeler,3
+D & N Haveli,2001,Truck/Lorry,7
+D & N Haveli,2001,Two Wheeler,6
+D & N Haveli,2002,Bicycle,2
+D & N Haveli,2002,Bus,1
+D & N Haveli,2002,Car,2
+D & N Haveli,2002,Jeep,0
+D & N Haveli,2002,Other Motor Vehicles,0
+D & N Haveli,2002,Others,3
+D & N Haveli,2002,Pedestrian,12
+D & N Haveli,2002,Three Wheeler,4
+D & N Haveli,2002,Truck/Lorry,1
+D & N Haveli,2002,Two Wheeler,7
+D & N Haveli,2003,Bicycle,3
+D & N Haveli,2003,Bus,3
+D & N Haveli,2003,Car,2
+D & N Haveli,2003,Jeep,4
+D & N Haveli,2003,Other Motor Vehicles,5
+D & N Haveli,2003,Others,3
+D & N Haveli,2003,Pedestrian,5
+D & N Haveli,2003,Three Wheeler,3
+D & N Haveli,2003,Truck/Lorry,2
+D & N Haveli,2003,Two Wheeler,4
+D & N Haveli,2004,Bicycle,6
+D & N Haveli,2004,Bus,3
+D & N Haveli,2004,Car,0
+D & N Haveli,2004,Jeep,0
+D & N Haveli,2004,Other Motor Vehicles,4
+D & N Haveli,2004,Others,9
+D & N Haveli,2004,Pedestrian,12
+D & N Haveli,2004,Three Wheeler,4
+D & N Haveli,2004,Truck/Lorry,4
+D & N Haveli,2004,Two Wheeler,12
+D & N Haveli,2005,Bicycle,0
+D & N Haveli,2005,Bus,0
+D & N Haveli,2005,Car,4
+D & N Haveli,2005,Jeep,6
+D & N Haveli,2005,Other Motor Vehicles,3
+D & N Haveli,2005,Others,7
+D & N Haveli,2005,Pedestrian,0
+D & N Haveli,2005,Three Wheeler,2
+D & N Haveli,2005,Truck/Lorry,20
+D & N Haveli,2005,Two Wheeler,13
+D & N Haveli,2006,Bicycle,0
+D & N Haveli,2006,Bus,7
+D & N Haveli,2006,Car,0
+D & N Haveli,2006,Jeep,0
+D & N Haveli,2006,Other Motor Vehicles,5
+D & N Haveli,2006,Others,5
+D & N Haveli,2006,Pedestrian,0
+D & N Haveli,2006,Three Wheeler,2
+D & N Haveli,2006,Truck/Lorry,17
+D & N Haveli,2006,Two Wheeler,9
+D & N Haveli,2007,Bicycle,0
+D & N Haveli,2007,Bus,3
+D & N Haveli,2007,Car,2
+D & N Haveli,2007,Jeep,1
+D & N Haveli,2007,Other Motor Vehicles,11
+D & N Haveli,2007,Others,8
+D & N Haveli,2007,Pedestrian,0
+D & N Haveli,2007,Three Wheeler,6
+D & N Haveli,2007,Truck/Lorry,16
+D & N Haveli,2007,Two Wheeler,19
+D & N Haveli,2008,Bicycle,0
+D & N Haveli,2008,Bus,4
+D & N Haveli,2008,Car,2
+D & N Haveli,2008,Jeep,0
+D & N Haveli,2008,Other Motor Vehicles,11
+D & N Haveli,2008,Others,5
+D & N Haveli,2008,Pedestrian,4
+D & N Haveli,2008,Three Wheeler,3
+D & N Haveli,2008,Truck/Lorry,11
+D & N Haveli,2008,Two Wheeler,25
+D & N Haveli,2009,Bicycle,5
+D & N Haveli,2009,Bus,0
+D & N Haveli,2009,Car,4
+D & N Haveli,2009,Jeep,0
+D & N Haveli,2009,Other Motor Vehicles,0
+D & N Haveli,2009,Others,1
+D & N Haveli,2009,Pedestrian,11
+D & N Haveli,2009,Three Wheeler,2
+D & N Haveli,2009,Truck/Lorry,0
+D & N Haveli,2009,Two Wheeler,22
+D & N Haveli,2010,Bicycle,2
+D & N Haveli,2010,Bus,1
+D & N Haveli,2010,Car,2
+D & N Haveli,2010,Jeep,2
+D & N Haveli,2010,Other Motor Vehicles,0
+D & N Haveli,2010,Others,7
+D & N Haveli,2010,Pedestrian,11
+D & N Haveli,2010,Three Wheeler,2
+D & N Haveli,2010,Truck/Lorry,1
+D & N Haveli,2010,Two Wheeler,34
+D & N Haveli,2011,Bicycle,3
+D & N Haveli,2011,Bus,0
+D & N Haveli,2011,Car,4
+D & N Haveli,2011,Jeep,0
+D & N Haveli,2011,Other Motor Vehicles,0
+D & N Haveli,2011,Others,7
+D & N Haveli,2011,Pedestrian,16
+D & N Haveli,2011,Three Wheeler,3
+D & N Haveli,2011,Truck/Lorry,2
+D & N Haveli,2011,Two Wheeler,28
+D & N Haveli,2012,Bicycle,0
+D & N Haveli,2012,Bus,3
+D & N Haveli,2012,Car,6
+D & N Haveli,2012,Jeep,0
+D & N Haveli,2012,Other Motor Vehicles,8
+D & N Haveli,2012,Others,10
+D & N Haveli,2012,Pedestrian,0
+D & N Haveli,2012,Three Wheeler,0
+D & N Haveli,2012,Truck/Lorry,9
+D & N Haveli,2012,Two Wheeler,17
+D & N Haveli,2013,Bicycle,0
+D & N Haveli,2013,Bus,1
+D & N Haveli,2013,Car,3
+D & N Haveli,2013,Jeep,3
+D & N Haveli,2013,Other Motor Vehicles,5
+D & N Haveli,2013,Others,11
+D & N Haveli,2013,Pedestrian,0
+D & N Haveli,2013,Three Wheeler,0
+D & N Haveli,2013,Truck/Lorry,13
+D & N Haveli,2013,Two Wheeler,13
+D&N Haveli,2014,Bicycle,0
+D&N Haveli,2014,Bus,4
+D&N Haveli,2014,Car,2
+D&N Haveli,2014,Jeep,4
+D&N Haveli,2014,Other Motor Vehicles,15
+D&N Haveli,2014,Others,0
+D&N Haveli,2014,Pedestrian,0
+D&N Haveli,2014,Three Wheeler,2
+D&N Haveli,2014,Truck/Lorry,18
+D&N Haveli,2014,Two Wheeler,14
+Daman & Diu,2001,Bicycle,3
+Daman & Diu,2001,Bus,0
+Daman & Diu,2001,Car,0
+Daman & Diu,2001,Jeep,0
+Daman & Diu,2001,Other Motor Vehicles,0
+Daman & Diu,2001,Others,1
+Daman & Diu,2001,Pedestrian,2
+Daman & Diu,2001,Three Wheeler,1
+Daman & Diu,2001,Truck/Lorry,0
+Daman & Diu,2001,Two Wheeler,1
+Daman & Diu,2002,Bicycle,1
+Daman & Diu,2002,Bus,0
+Daman & Diu,2002,Car,1
+Daman & Diu,2002,Jeep,0
+Daman & Diu,2002,Other Motor Vehicles,0
+Daman & Diu,2002,Others,0
+Daman & Diu,2002,Pedestrian,4
+Daman & Diu,2002,Three Wheeler,0
+Daman & Diu,2002,Truck/Lorry,0
+Daman & Diu,2002,Two Wheeler,12
+Daman & Diu,2003,Bicycle,4
+Daman & Diu,2003,Bus,0
+Daman & Diu,2003,Car,0
+Daman & Diu,2003,Jeep,1
+Daman & Diu,2003,Other Motor Vehicles,0
+Daman & Diu,2003,Others,0
+Daman & Diu,2003,Pedestrian,6
+Daman & Diu,2003,Three Wheeler,1
+Daman & Diu,2003,Truck/Lorry,0
+Daman & Diu,2003,Two Wheeler,7
+Daman & Diu,2004,Bicycle,0
+Daman & Diu,2004,Bus,0
+Daman & Diu,2004,Car,3
+Daman & Diu,2004,Jeep,0
+Daman & Diu,2004,Other Motor Vehicles,3
+Daman & Diu,2004,Others,2
+Daman & Diu,2004,Pedestrian,1
+Daman & Diu,2004,Three Wheeler,3
+Daman & Diu,2004,Truck/Lorry,6
+Daman & Diu,2004,Two Wheeler,6
+Daman & Diu,2005,Bicycle,0
+Daman & Diu,2005,Bus,0
+Daman & Diu,2005,Car,5
+Daman & Diu,2005,Jeep,0
+Daman & Diu,2005,Other Motor Vehicles,2
+Daman & Diu,2005,Others,2
+Daman & Diu,2005,Pedestrian,2
+Daman & Diu,2005,Three Wheeler,0
+Daman & Diu,2005,Truck/Lorry,2
+Daman & Diu,2005,Two Wheeler,11
+Daman & Diu,2006,Bicycle,5
+Daman & Diu,2006,Bus,1
+Daman & Diu,2006,Car,0
+Daman & Diu,2006,Jeep,0
+Daman & Diu,2006,Other Motor Vehicles,0
+Daman & Diu,2006,Others,1
+Daman & Diu,2006,Pedestrian,6
+Daman & Diu,2006,Three Wheeler,2
+Daman & Diu,2006,Truck/Lorry,0
+Daman & Diu,2006,Two Wheeler,12
+Daman & Diu,2007,Bicycle,1
+Daman & Diu,2007,Bus,1
+Daman & Diu,2007,Car,1
+Daman & Diu,2007,Jeep,0
+Daman & Diu,2007,Other Motor Vehicles,0
+Daman & Diu,2007,Others,1
+Daman & Diu,2007,Pedestrian,9
+Daman & Diu,2007,Three Wheeler,2
+Daman & Diu,2007,Truck/Lorry,0
+Daman & Diu,2007,Two Wheeler,14
+Daman & Diu,2008,Bicycle,6
+Daman & Diu,2008,Bus,0
+Daman & Diu,2008,Car,2
+Daman & Diu,2008,Jeep,0
+Daman & Diu,2008,Other Motor Vehicles,0
+Daman & Diu,2008,Others,3
+Daman & Diu,2008,Pedestrian,0
+Daman & Diu,2008,Three Wheeler,2
+Daman & Diu,2008,Truck/Lorry,0
+Daman & Diu,2008,Two Wheeler,8
+Daman & Diu,2009,Bicycle,0
+Daman & Diu,2009,Bus,0
+Daman & Diu,2009,Car,2
+Daman & Diu,2009,Jeep,0
+Daman & Diu,2009,Other Motor Vehicles,0
+Daman & Diu,2009,Others,0
+Daman & Diu,2009,Pedestrian,0
+Daman & Diu,2009,Three Wheeler,0
+Daman & Diu,2009,Truck/Lorry,0
+Daman & Diu,2009,Two Wheeler,11
+Daman & Diu,2010,Bicycle,3
+Daman & Diu,2010,Bus,0
+Daman & Diu,2010,Car,0
+Daman & Diu,2010,Jeep,0
+Daman & Diu,2010,Other Motor Vehicles,0
+Daman & Diu,2010,Others,0
+Daman & Diu,2010,Pedestrian,3
+Daman & Diu,2010,Three Wheeler,5
+Daman & Diu,2010,Truck/Lorry,1
+Daman & Diu,2010,Two Wheeler,11
+Daman & Diu,2011,Bicycle,0
+Daman & Diu,2011,Bus,2
+Daman & Diu,2011,Car,2
+Daman & Diu,2011,Jeep,2
+Daman & Diu,2011,Other Motor Vehicles,2
+Daman & Diu,2011,Others,3
+Daman & Diu,2011,Pedestrian,5
+Daman & Diu,2011,Three Wheeler,1
+Daman & Diu,2011,Truck/Lorry,3
+Daman & Diu,2011,Two Wheeler,1
+Daman & Diu,2012,Bicycle,1
+Daman & Diu,2012,Bus,1
+Daman & Diu,2012,Car,3
+Daman & Diu,2012,Jeep,0
+Daman & Diu,2012,Other Motor Vehicles,0
+Daman & Diu,2012,Others,1
+Daman & Diu,2012,Pedestrian,7
+Daman & Diu,2012,Three Wheeler,0
+Daman & Diu,2012,Truck/Lorry,0
+Daman & Diu,2012,Two Wheeler,16
+Daman & Diu,2013,Bicycle,0
+Daman & Diu,2013,Bus,0
+Daman & Diu,2013,Car,5
+Daman & Diu,2013,Jeep,0
+Daman & Diu,2013,Other Motor Vehicles,2
+Daman & Diu,2013,Others,4
+Daman & Diu,2013,Pedestrian,0
+Daman & Diu,2013,Three Wheeler,0
+Daman & Diu,2013,Truck/Lorry,5
+Daman & Diu,2013,Two Wheeler,15
+Daman & Diu,2014,Bicycle,0
+Daman & Diu,2014,Bus,1
+Daman & Diu,2014,Car,0
+Daman & Diu,2014,Jeep,0
+Daman & Diu,2014,Other Motor Vehicles,0
+Daman & Diu,2014,Others,0
+Daman & Diu,2014,Pedestrian,2
+Daman & Diu,2014,Three Wheeler,1
+Daman & Diu,2014,Truck/Lorry,3
+Daman & Diu,2014,Two Wheeler,8
+Delhi,2001,Bicycle,147
+Delhi,2001,Bus,229
+Delhi,2001,Car,118
+Delhi,2001,Jeep,13
+Delhi,2001,Other Motor Vehicles,112
+Delhi,2001,Others,154
+Delhi,2001,Pedestrian,557
+Delhi,2001,Three Wheeler,64
+Delhi,2001,Truck/Lorry,152
+Delhi,2001,Two Wheeler,354
+Delhi,2002,Bicycle,153
+Delhi,2002,Bus,137
+Delhi,2002,Car,104
+Delhi,2002,Jeep,20
+Delhi,2002,Other Motor Vehicles,93
+Delhi,2002,Others,84
+Delhi,2002,Pedestrian,595
+Delhi,2002,Three Wheeler,75
+Delhi,2002,Truck/Lorry,107
+Delhi,2002,Two Wheeler,400
+Delhi,2003,Bicycle,166
+Delhi,2003,Bus,185
+Delhi,2003,Car,107
+Delhi,2003,Jeep,18
+Delhi,2003,Other Motor Vehicles,110
+Delhi,2003,Others,246
+Delhi,2003,Pedestrian,490
+Delhi,2003,Three Wheeler,52
+Delhi,2003,Truck/Lorry,140
+Delhi,2003,Two Wheeler,402
+Delhi,2004,Bicycle,135
+Delhi,2004,Bus,177
+Delhi,2004,Car,131
+Delhi,2004,Jeep,24
+Delhi,2004,Other Motor Vehicles,89
+Delhi,2004,Others,157
+Delhi,2004,Pedestrian,639
+Delhi,2004,Three Wheeler,93
+Delhi,2004,Truck/Lorry,143
+Delhi,2004,Two Wheeler,373
+Delhi,2005,Bicycle,120
+Delhi,2005,Bus,173
+Delhi,2005,Car,123
+Delhi,2005,Jeep,16
+Delhi,2005,Other Motor Vehicles,94
+Delhi,2005,Others,310
+Delhi,2005,Pedestrian,485
+Delhi,2005,Three Wheeler,84
+Delhi,2005,Truck/Lorry,147
+Delhi,2005,Two Wheeler,471
+Delhi,2006,Bicycle,92
+Delhi,2006,Bus,162
+Delhi,2006,Car,154
+Delhi,2006,Jeep,24
+Delhi,2006,Other Motor Vehicles,105
+Delhi,2006,Others,199
+Delhi,2006,Pedestrian,692
+Delhi,2006,Three Wheeler,76
+Delhi,2006,Truck/Lorry,138
+Delhi,2006,Two Wheeler,525
+Delhi,2007,Bicycle,108
+Delhi,2007,Bus,170
+Delhi,2007,Car,177
+Delhi,2007,Jeep,20
+Delhi,2007,Other Motor Vehicles,95
+Delhi,2007,Others,255
+Delhi,2007,Pedestrian,563
+Delhi,2007,Three Wheeler,71
+Delhi,2007,Truck/Lorry,130
+Delhi,2007,Two Wheeler,533
+Delhi,2008,Bicycle,69
+Delhi,2008,Bus,133
+Delhi,2008,Car,151
+Delhi,2008,Jeep,10
+Delhi,2008,Other Motor Vehicles,110
+Delhi,2008,Others,230
+Delhi,2008,Pedestrian,589
+Delhi,2008,Three Wheeler,79
+Delhi,2008,Truck/Lorry,173
+Delhi,2008,Two Wheeler,554
+Delhi,2009,Bicycle,146
+Delhi,2009,Bus,81
+Delhi,2009,Car,140
+Delhi,2009,Jeep,15
+Delhi,2009,Other Motor Vehicles,74
+Delhi,2009,Others,167
+Delhi,2009,Pedestrian,500
+Delhi,2009,Three Wheeler,60
+Delhi,2009,Truck/Lorry,131
+Delhi,2009,Two Wheeler,713
+Delhi,2010,Bicycle,105
+Delhi,2010,Bus,98
+Delhi,2010,Car,218
+Delhi,2010,Jeep,19
+Delhi,2010,Other Motor Vehicles,96
+Delhi,2010,Others,200
+Delhi,2010,Pedestrian,534
+Delhi,2010,Three Wheeler,87
+Delhi,2010,Truck/Lorry,149
+Delhi,2010,Two Wheeler,664
+Delhi,2011,Bicycle,76
+Delhi,2011,Bus,92
+Delhi,2011,Car,186
+Delhi,2011,Jeep,19
+Delhi,2011,Other Motor Vehicles,89
+Delhi,2011,Others,195
+Delhi,2011,Pedestrian,603
+Delhi,2011,Three Wheeler,64
+Delhi,2011,Truck/Lorry,141
+Delhi,2011,Two Wheeler,642
+Delhi,2012,Bicycle,78
+Delhi,2012,Bus,65
+Delhi,2012,Car,205
+Delhi,2012,Jeep,12
+Delhi,2012,Other Motor Vehicles,99
+Delhi,2012,Others,219
+Delhi,2012,Pedestrian,501
+Delhi,2012,Three Wheeler,67
+Delhi,2012,Truck/Lorry,131
+Delhi,2012,Two Wheeler,489
+Delhi,2013,Bicycle,43
+Delhi,2013,Bus,102
+Delhi,2013,Car,286
+Delhi,2013,Jeep,20
+Delhi,2013,Other Motor Vehicles,75
+Delhi,2013,Others,267
+Delhi,2013,Pedestrian,352
+Delhi,2013,Three Wheeler,51
+Delhi,2013,Truck/Lorry,205
+Delhi,2013,Two Wheeler,430
+Delhi,2014,Bicycle,5
+Delhi,2014,Bus,120
+Delhi,2014,Car,385
+Delhi,2014,Jeep,10
+Delhi,2014,Other Motor Vehicles,203
+Delhi,2014,Others,97
+Delhi,2014,Pedestrian,77
+Delhi,2014,Three Wheeler,80
+Delhi,2014,Truck/Lorry,345
+Delhi,2014,Two Wheeler,308
+Goa,2001,Bicycle,8
+Goa,2001,Bus,16
+Goa,2001,Car,10
+Goa,2001,Jeep,5
+Goa,2001,Other Motor Vehicles,9
+Goa,2001,Others,10
+Goa,2001,Pedestrian,42
+Goa,2001,Three Wheeler,7
+Goa,2001,Truck/Lorry,27
+Goa,2001,Two Wheeler,93
+Goa,2002,Bicycle,3
+Goa,2002,Bus,6
+Goa,2002,Car,4
+Goa,2002,Jeep,1
+Goa,2002,Other Motor Vehicles,2
+Goa,2002,Others,143
+Goa,2002,Pedestrian,22
+Goa,2002,Three Wheeler,19
+Goa,2002,Truck/Lorry,2
+Goa,2002,Two Wheeler,39
+Goa,2003,Bicycle,8
+Goa,2003,Bus,15
+Goa,2003,Car,7
+Goa,2003,Jeep,3
+Goa,2003,Other Motor Vehicles,12
+Goa,2003,Others,9
+Goa,2003,Pedestrian,42
+Goa,2003,Three Wheeler,15
+Goa,2003,Truck/Lorry,19
+Goa,2003,Two Wheeler,101
+Goa,2004,Bicycle,11
+Goa,2004,Bus,11
+Goa,2004,Car,21
+Goa,2004,Jeep,6
+Goa,2004,Other Motor Vehicles,8
+Goa,2004,Others,8
+Goa,2004,Pedestrian,69
+Goa,2004,Three Wheeler,11
+Goa,2004,Truck/Lorry,21
+Goa,2004,Two Wheeler,153
+Goa,2005,Bicycle,8
+Goa,2005,Bus,3
+Goa,2005,Car,17
+Goa,2005,Jeep,5
+Goa,2005,Other Motor Vehicles,6
+Goa,2005,Others,1
+Goa,2005,Pedestrian,56
+Goa,2005,Three Wheeler,7
+Goa,2005,Truck/Lorry,18
+Goa,2005,Two Wheeler,137
+Goa,2006,Bicycle,14
+Goa,2006,Bus,10
+Goa,2006,Car,17
+Goa,2006,Jeep,4
+Goa,2006,Other Motor Vehicles,9
+Goa,2006,Others,6
+Goa,2006,Pedestrian,74
+Goa,2006,Three Wheeler,31
+Goa,2006,Truck/Lorry,18
+Goa,2006,Two Wheeler,127
+Goa,2007,Bicycle,12
+Goa,2007,Bus,7
+Goa,2007,Car,12
+Goa,2007,Jeep,6
+Goa,2007,Other Motor Vehicles,11
+Goa,2007,Others,7
+Goa,2007,Pedestrian,68
+Goa,2007,Three Wheeler,2
+Goa,2007,Truck/Lorry,22
+Goa,2007,Two Wheeler,193
+Goa,2008,Bicycle,12
+Goa,2008,Bus,23
+Goa,2008,Car,14
+Goa,2008,Jeep,19
+Goa,2008,Other Motor Vehicles,11
+Goa,2008,Others,10
+Goa,2008,Pedestrian,57
+Goa,2008,Three Wheeler,15
+Goa,2008,Truck/Lorry,23
+Goa,2008,Two Wheeler,149
+Goa,2009,Bicycle,7
+Goa,2009,Bus,1
+Goa,2009,Car,19
+Goa,2009,Jeep,5
+Goa,2009,Other Motor Vehicles,7
+Goa,2009,Others,10
+Goa,2009,Pedestrian,65
+Goa,2009,Three Wheeler,4
+Goa,2009,Truck/Lorry,26
+Goa,2009,Two Wheeler,180
+Goa,2010,Bicycle,5
+Goa,2010,Bus,11
+Goa,2010,Car,18
+Goa,2010,Jeep,8
+Goa,2010,Other Motor Vehicles,2
+Goa,2010,Others,5
+Goa,2010,Pedestrian,88
+Goa,2010,Three Wheeler,2
+Goa,2010,Truck/Lorry,12
+Goa,2010,Two Wheeler,191
+Goa,2011,Bicycle,15
+Goa,2011,Bus,8
+Goa,2011,Car,15
+Goa,2011,Jeep,8
+Goa,2011,Other Motor Vehicles,5
+Goa,2011,Others,7
+Goa,2011,Pedestrian,97
+Goa,2011,Three Wheeler,3
+Goa,2011,Truck/Lorry,17
+Goa,2011,Two Wheeler,163
+Goa,2012,Bicycle,2
+Goa,2012,Bus,15
+Goa,2012,Car,27
+Goa,2012,Jeep,1
+Goa,2012,Other Motor Vehicles,2
+Goa,2012,Others,9
+Goa,2012,Pedestrian,50
+Goa,2012,Three Wheeler,13
+Goa,2012,Truck/Lorry,10
+Goa,2012,Two Wheeler,173
+Goa,2013,Bicycle,11
+Goa,2013,Bus,0
+Goa,2013,Car,11
+Goa,2013,Jeep,2
+Goa,2013,Other Motor Vehicles,4
+Goa,2013,Others,5
+Goa,2013,Pedestrian,56
+Goa,2013,Three Wheeler,1
+Goa,2013,Truck/Lorry,4
+Goa,2013,Two Wheeler,175
+Goa,2014,Bicycle,4
+Goa,2014,Bus,13
+Goa,2014,Car,48
+Goa,2014,Jeep,1
+Goa,2014,Other Motor Vehicles,10
+Goa,2014,Others,3
+Goa,2014,Pedestrian,21
+Goa,2014,Three Wheeler,2
+Goa,2014,Truck/Lorry,29
+Goa,2014,Two Wheeler,167
+Gujarat,2001,Bicycle,176
+Gujarat,2001,Bus,385
+Gujarat,2001,Car,261
+Gujarat,2001,Jeep,510
+Gujarat,2001,Other Motor Vehicles,301
+Gujarat,2001,Others,307
+Gujarat,2001,Pedestrian,609
+Gujarat,2001,Three Wheeler,275
+Gujarat,2001,Truck/Lorry,1032
+Gujarat,2001,Two Wheeler,615
+Gujarat,2002,Bicycle,145
+Gujarat,2002,Bus,299
+Gujarat,2002,Car,265
+Gujarat,2002,Jeep,526
+Gujarat,2002,Other Motor Vehicles,376
+Gujarat,2002,Others,313
+Gujarat,2002,Pedestrian,621
+Gujarat,2002,Three Wheeler,349
+Gujarat,2002,Truck/Lorry,1170
+Gujarat,2002,Two Wheeler,651
+Gujarat,2003,Bicycle,161
+Gujarat,2003,Bus,371
+Gujarat,2003,Car,346
+Gujarat,2003,Jeep,573
+Gujarat,2003,Other Motor Vehicles,334
+Gujarat,2003,Others,340
+Gujarat,2003,Pedestrian,562
+Gujarat,2003,Three Wheeler,352
+Gujarat,2003,Truck/Lorry,1128
+Gujarat,2003,Two Wheeler,646
+Gujarat,2004,Bicycle,157
+Gujarat,2004,Bus,276
+Gujarat,2004,Car,379
+Gujarat,2004,Jeep,621
+Gujarat,2004,Other Motor Vehicles,298
+Gujarat,2004,Others,322
+Gujarat,2004,Pedestrian,579
+Gujarat,2004,Three Wheeler,439
+Gujarat,2004,Truck/Lorry,1063
+Gujarat,2004,Two Wheeler,814
+Gujarat,2005,Bicycle,133
+Gujarat,2005,Bus,348
+Gujarat,2005,Car,376
+Gujarat,2005,Jeep,614
+Gujarat,2005,Other Motor Vehicles,429
+Gujarat,2005,Others,244
+Gujarat,2005,Pedestrian,598
+Gujarat,2005,Three Wheeler,444
+Gujarat,2005,Truck/Lorry,1177
+Gujarat,2005,Two Wheeler,901
+Gujarat,2006,Bicycle,142
+Gujarat,2006,Bus,402
+Gujarat,2006,Car,374
+Gujarat,2006,Jeep,719
+Gujarat,2006,Other Motor Vehicles,391
+Gujarat,2006,Others,357
+Gujarat,2006,Pedestrian,496
+Gujarat,2006,Three Wheeler,507
+Gujarat,2006,Truck/Lorry,1261
+Gujarat,2006,Two Wheeler,950
+Gujarat,2007,Bicycle,154
+Gujarat,2007,Bus,493
+Gujarat,2007,Car,427
+Gujarat,2007,Jeep,780
+Gujarat,2007,Other Motor Vehicles,483
+Gujarat,2007,Others,328
+Gujarat,2007,Pedestrian,540
+Gujarat,2007,Three Wheeler,488
+Gujarat,2007,Truck/Lorry,1543
+Gujarat,2007,Two Wheeler,1057
+Gujarat,2008,Bicycle,161
+Gujarat,2008,Bus,491
+Gujarat,2008,Car,476
+Gujarat,2008,Jeep,800
+Gujarat,2008,Other Motor Vehicles,436
+Gujarat,2008,Others,327
+Gujarat,2008,Pedestrian,640
+Gujarat,2008,Three Wheeler,497
+Gujarat,2008,Truck/Lorry,1456
+Gujarat,2008,Two Wheeler,1102
+Gujarat,2009,Bicycle,155
+Gujarat,2009,Bus,405
+Gujarat,2009,Car,659
+Gujarat,2009,Jeep,944
+Gujarat,2009,Other Motor Vehicles,495
+Gujarat,2009,Others,430
+Gujarat,2009,Pedestrian,627
+Gujarat,2009,Three Wheeler,555
+Gujarat,2009,Truck/Lorry,1384
+Gujarat,2009,Two Wheeler,1260
+Gujarat,2010,Bicycle,163
+Gujarat,2010,Bus,486
+Gujarat,2010,Car,740
+Gujarat,2010,Jeep,803
+Gujarat,2010,Other Motor Vehicles,472
+Gujarat,2010,Others,488
+Gujarat,2010,Pedestrian,691
+Gujarat,2010,Three Wheeler,660
+Gujarat,2010,Truck/Lorry,1478
+Gujarat,2010,Two Wheeler,1403
+Gujarat,2011,Bicycle,183
+Gujarat,2011,Bus,598
+Gujarat,2011,Car,816
+Gujarat,2011,Jeep,810
+Gujarat,2011,Other Motor Vehicles,487
+Gujarat,2011,Others,573
+Gujarat,2011,Pedestrian,625
+Gujarat,2011,Three Wheeler,737
+Gujarat,2011,Truck/Lorry,1710
+Gujarat,2011,Two Wheeler,1467
+Gujarat,2012,Bicycle,100
+Gujarat,2012,Bus,513
+Gujarat,2012,Car,913
+Gujarat,2012,Jeep,793
+Gujarat,2012,Other Motor Vehicles,620
+Gujarat,2012,Others,508
+Gujarat,2012,Pedestrian,493
+Gujarat,2012,Three Wheeler,707
+Gujarat,2012,Truck/Lorry,1657
+Gujarat,2012,Two Wheeler,1551
+Gujarat,2013,Bicycle,104
+Gujarat,2013,Bus,470
+Gujarat,2013,Car,815
+Gujarat,2013,Jeep,738
+Gujarat,2013,Other Motor Vehicles,547
+Gujarat,2013,Others,580
+Gujarat,2013,Pedestrian,628
+Gujarat,2013,Three Wheeler,585
+Gujarat,2013,Truck/Lorry,1415
+Gujarat,2013,Two Wheeler,1576
+Gujarat,2014,Bicycle,65
+Gujarat,2014,Bus,440
+Gujarat,2014,Car,1390
+Gujarat,2014,Jeep,505
+Gujarat,2014,Other Motor Vehicles,630
+Gujarat,2014,Others,106
+Gujarat,2014,Pedestrian,383
+Gujarat,2014,Three Wheeler,599
+Gujarat,2014,Truck/Lorry,1927
+Gujarat,2014,Two Wheeler,1812
+Haryana,2001,Bicycle,167
+Haryana,2001,Bus,236
+Haryana,2001,Car,250
+Haryana,2001,Jeep,229
+Haryana,2001,Other Motor Vehicles,132
+Haryana,2001,Others,340
+Haryana,2001,Pedestrian,279
+Haryana,2001,Three Wheeler,114
+Haryana,2001,Truck/Lorry,563
+Haryana,2001,Two Wheeler,258
+Haryana,2002,Bicycle,58
+Haryana,2002,Bus,181
+Haryana,2002,Car,164
+Haryana,2002,Jeep,212
+Haryana,2002,Other Motor Vehicles,298
+Haryana,2002,Others,302
+Haryana,2002,Pedestrian,237
+Haryana,2002,Three Wheeler,99
+Haryana,2002,Truck/Lorry,552
+Haryana,2002,Two Wheeler,331
+Haryana,2003,Bicycle,97
+Haryana,2003,Bus,179
+Haryana,2003,Car,233
+Haryana,2003,Jeep,322
+Haryana,2003,Other Motor Vehicles,105
+Haryana,2003,Others,332
+Haryana,2003,Pedestrian,289
+Haryana,2003,Three Wheeler,121
+Haryana,2003,Truck/Lorry,813
+Haryana,2003,Two Wheeler,422
+Haryana,2004,Bicycle,73
+Haryana,2004,Bus,260
+Haryana,2004,Car,301
+Haryana,2004,Jeep,304
+Haryana,2004,Other Motor Vehicles,229
+Haryana,2004,Others,420
+Haryana,2004,Pedestrian,296
+Haryana,2004,Three Wheeler,111
+Haryana,2004,Truck/Lorry,918
+Haryana,2004,Two Wheeler,341
+Haryana,2005,Bicycle,78
+Haryana,2005,Bus,195
+Haryana,2005,Car,349
+Haryana,2005,Jeep,279
+Haryana,2005,Other Motor Vehicles,170
+Haryana,2005,Others,691
+Haryana,2005,Pedestrian,300
+Haryana,2005,Three Wheeler,133
+Haryana,2005,Truck/Lorry,602
+Haryana,2005,Two Wheeler,485
+Haryana,2006,Bicycle,199
+Haryana,2006,Bus,271
+Haryana,2006,Car,523
+Haryana,2006,Jeep,446
+Haryana,2006,Other Motor Vehicles,248
+Haryana,2006,Others,623
+Haryana,2006,Pedestrian,350
+Haryana,2006,Three Wheeler,283
+Haryana,2006,Truck/Lorry,752
+Haryana,2006,Two Wheeler,725
+Haryana,2007,Bicycle,99
+Haryana,2007,Bus,263
+Haryana,2007,Car,673
+Haryana,2007,Jeep,489
+Haryana,2007,Other Motor Vehicles,282
+Haryana,2007,Others,390
+Haryana,2007,Pedestrian,412
+Haryana,2007,Three Wheeler,266
+Haryana,2007,Truck/Lorry,721
+Haryana,2007,Two Wheeler,781
+Haryana,2008,Bicycle,124
+Haryana,2008,Bus,305
+Haryana,2008,Car,641
+Haryana,2008,Jeep,473
+Haryana,2008,Other Motor Vehicles,347
+Haryana,2008,Others,495
+Haryana,2008,Pedestrian,461
+Haryana,2008,Three Wheeler,294
+Haryana,2008,Truck/Lorry,892
+Haryana,2008,Two Wheeler,648
+Haryana,2009,Bicycle,113
+Haryana,2009,Bus,407
+Haryana,2009,Car,522
+Haryana,2009,Jeep,418
+Haryana,2009,Other Motor Vehicles,299
+Haryana,2009,Others,591
+Haryana,2009,Pedestrian,659
+Haryana,2009,Three Wheeler,252
+Haryana,2009,Truck/Lorry,767
+Haryana,2009,Two Wheeler,838
+Haryana,2010,Bicycle,120
+Haryana,2010,Bus,405
+Haryana,2010,Car,577
+Haryana,2010,Jeep,404
+Haryana,2010,Other Motor Vehicles,386
+Haryana,2010,Others,853
+Haryana,2010,Pedestrian,604
+Haryana,2010,Three Wheeler,206
+Haryana,2010,Truck/Lorry,722
+Haryana,2010,Two Wheeler,729
+Haryana,2011,Bicycle,96
+Haryana,2011,Bus,238
+Haryana,2011,Car,566
+Haryana,2011,Jeep,420
+Haryana,2011,Other Motor Vehicles,283
+Haryana,2011,Others,546
+Haryana,2011,Pedestrian,698
+Haryana,2011,Three Wheeler,180
+Haryana,2011,Truck/Lorry,729
+Haryana,2011,Two Wheeler,925
+Haryana,2012,Bicycle,100
+Haryana,2012,Bus,267
+Haryana,2012,Car,586
+Haryana,2012,Jeep,449
+Haryana,2012,Other Motor Vehicles,242
+Haryana,2012,Others,489
+Haryana,2012,Pedestrian,602
+Haryana,2012,Three Wheeler,285
+Haryana,2012,Truck/Lorry,673
+Haryana,2012,Two Wheeler,905
+Haryana,2013,Bicycle,73
+Haryana,2013,Bus,243
+Haryana,2013,Car,593
+Haryana,2013,Jeep,366
+Haryana,2013,Other Motor Vehicles,256
+Haryana,2013,Others,561
+Haryana,2013,Pedestrian,622
+Haryana,2013,Three Wheeler,218
+Haryana,2013,Truck/Lorry,709
+Haryana,2013,Two Wheeler,906
+Haryana,2014,Bicycle,110
+Haryana,2014,Bus,250
+Haryana,2014,Car,855
+Haryana,2014,Jeep,247
+Haryana,2014,Other Motor Vehicles,335
+Haryana,2014,Others,191
+Haryana,2014,Pedestrian,506
+Haryana,2014,Three Wheeler,266
+Haryana,2014,Truck/Lorry,1330
+Haryana,2014,Two Wheeler,785
+Himachal Pradesh,2001,Bicycle,2
+Himachal Pradesh,2001,Bus,168
+Himachal Pradesh,2001,Car,87
+Himachal Pradesh,2001,Jeep,91
+Himachal Pradesh,2001,Other Motor Vehicles,80
+Himachal Pradesh,2001,Others,61
+Himachal Pradesh,2001,Pedestrian,39
+Himachal Pradesh,2001,Three Wheeler,6
+Himachal Pradesh,2001,Truck/Lorry,175
+Himachal Pradesh,2001,Two Wheeler,54
+Himachal Pradesh,2002,Bicycle,4
+Himachal Pradesh,2002,Bus,207
+Himachal Pradesh,2002,Car,95
+Himachal Pradesh,2002,Jeep,88
+Himachal Pradesh,2002,Other Motor Vehicles,74
+Himachal Pradesh,2002,Others,96
+Himachal Pradesh,2002,Pedestrian,15
+Himachal Pradesh,2002,Three Wheeler,8
+Himachal Pradesh,2002,Truck/Lorry,175
+Himachal Pradesh,2002,Two Wheeler,76
+Himachal Pradesh,2003,Bicycle,10
+Himachal Pradesh,2003,Bus,141
+Himachal Pradesh,2003,Car,107
+Himachal Pradesh,2003,Jeep,111
+Himachal Pradesh,2003,Other Motor Vehicles,91
+Himachal Pradesh,2003,Others,40
+Himachal Pradesh,2003,Pedestrian,50
+Himachal Pradesh,2003,Three Wheeler,8
+Himachal Pradesh,2003,Truck/Lorry,142
+Himachal Pradesh,2003,Two Wheeler,77
+Himachal Pradesh,2004,Bicycle,4
+Himachal Pradesh,2004,Bus,222
+Himachal Pradesh,2004,Car,158
+Himachal Pradesh,2004,Jeep,110
+Himachal Pradesh,2004,Other Motor Vehicles,109
+Himachal Pradesh,2004,Others,61
+Himachal Pradesh,2004,Pedestrian,18
+Himachal Pradesh,2004,Three Wheeler,9
+Himachal Pradesh,2004,Truck/Lorry,153
+Himachal Pradesh,2004,Two Wheeler,90
+Himachal Pradesh,2005,Bicycle,1
+Himachal Pradesh,2005,Bus,144
+Himachal Pradesh,2005,Car,133
+Himachal Pradesh,2005,Jeep,165
+Himachal Pradesh,2005,Other Motor Vehicles,34
+Himachal Pradesh,2005,Others,107
+Himachal Pradesh,2005,Pedestrian,24
+Himachal Pradesh,2005,Three Wheeler,9
+Himachal Pradesh,2005,Truck/Lorry,154
+Himachal Pradesh,2005,Two Wheeler,83
+Himachal Pradesh,2006,Bicycle,3
+Himachal Pradesh,2006,Bus,149
+Himachal Pradesh,2006,Car,167
+Himachal Pradesh,2006,Jeep,136
+Himachal Pradesh,2006,Other Motor Vehicles,78
+Himachal Pradesh,2006,Others,133
+Himachal Pradesh,2006,Pedestrian,14
+Himachal Pradesh,2006,Three Wheeler,19
+Himachal Pradesh,2006,Truck/Lorry,101
+Himachal Pradesh,2006,Two Wheeler,90
+Himachal Pradesh,2007,Bicycle,3
+Himachal Pradesh,2007,Bus,170
+Himachal Pradesh,2007,Car,140
+Himachal Pradesh,2007,Jeep,174
+Himachal Pradesh,2007,Other Motor Vehicles,42
+Himachal Pradesh,2007,Others,178
+Himachal Pradesh,2007,Pedestrian,16
+Himachal Pradesh,2007,Three Wheeler,0
+Himachal Pradesh,2007,Truck/Lorry,162
+Himachal Pradesh,2007,Two Wheeler,112
+Himachal Pradesh,2008,Bicycle,2
+Himachal Pradesh,2008,Bus,137
+Himachal Pradesh,2008,Car,116
+Himachal Pradesh,2008,Jeep,128
+Himachal Pradesh,2008,Other Motor Vehicles,49
+Himachal Pradesh,2008,Others,108
+Himachal Pradesh,2008,Pedestrian,43
+Himachal Pradesh,2008,Three Wheeler,4
+Himachal Pradesh,2008,Truck/Lorry,117
+Himachal Pradesh,2008,Two Wheeler,94
+Himachal Pradesh,2009,Bicycle,1
+Himachal Pradesh,2009,Bus,230
+Himachal Pradesh,2009,Car,175
+Himachal Pradesh,2009,Jeep,157
+Himachal Pradesh,2009,Other Motor Vehicles,90
+Himachal Pradesh,2009,Others,113
+Himachal Pradesh,2009,Pedestrian,26
+Himachal Pradesh,2009,Three Wheeler,2
+Himachal Pradesh,2009,Truck/Lorry,189
+Himachal Pradesh,2009,Two Wheeler,129
+Himachal Pradesh,2010,Bicycle,0
+Himachal Pradesh,2010,Bus,126
+Himachal Pradesh,2010,Car,229
+Himachal Pradesh,2010,Jeep,97
+Himachal Pradesh,2010,Other Motor Vehicles,107
+Himachal Pradesh,2010,Others,147
+Himachal Pradesh,2010,Pedestrian,20
+Himachal Pradesh,2010,Three Wheeler,9
+Himachal Pradesh,2010,Truck/Lorry,230
+Himachal Pradesh,2010,Two Wheeler,134
+Himachal Pradesh,2011,Bicycle,0
+Himachal Pradesh,2011,Bus,137
+Himachal Pradesh,2011,Car,279
+Himachal Pradesh,2011,Jeep,131
+Himachal Pradesh,2011,Other Motor Vehicles,72
+Himachal Pradesh,2011,Others,135
+Himachal Pradesh,2011,Pedestrian,23
+Himachal Pradesh,2011,Three Wheeler,8
+Himachal Pradesh,2011,Truck/Lorry,151
+Himachal Pradesh,2011,Two Wheeler,147
+Himachal Pradesh,2012,Bicycle,0
+Himachal Pradesh,2012,Bus,188
+Himachal Pradesh,2012,Car,311
+Himachal Pradesh,2012,Jeep,114
+Himachal Pradesh,2012,Other Motor Vehicles,38
+Himachal Pradesh,2012,Others,120
+Himachal Pradesh,2012,Pedestrian,17
+Himachal Pradesh,2012,Three Wheeler,8
+Himachal Pradesh,2012,Truck/Lorry,135
+Himachal Pradesh,2012,Two Wheeler,178
+Himachal Pradesh,2013,Bicycle,1
+Himachal Pradesh,2013,Bus,166
+Himachal Pradesh,2013,Car,276
+Himachal Pradesh,2013,Jeep,135
+Himachal Pradesh,2013,Other Motor Vehicles,46
+Himachal Pradesh,2013,Others,119
+Himachal Pradesh,2013,Pedestrian,21
+Himachal Pradesh,2013,Three Wheeler,4
+Himachal Pradesh,2013,Truck/Lorry,136
+Himachal Pradesh,2013,Two Wheeler,152
+Himachal Pradesh,2014,Bicycle,1
+Himachal Pradesh,2014,Bus,308
+Himachal Pradesh,2014,Car,455
+Himachal Pradesh,2014,Jeep,118
+Himachal Pradesh,2014,Other Motor Vehicles,142
+Himachal Pradesh,2014,Others,1
+Himachal Pradesh,2014,Pedestrian,10
+Himachal Pradesh,2014,Three Wheeler,2
+Himachal Pradesh,2014,Truck/Lorry,205
+Himachal Pradesh,2014,Two Wheeler,161
+Jammu & Kashmir,2001,Bicycle,42
+Jammu & Kashmir,2001,Bus,262
+Jammu & Kashmir,2001,Car,56
+Jammu & Kashmir,2001,Jeep,36
+Jammu & Kashmir,2001,Other Motor Vehicles,100
+Jammu & Kashmir,2001,Others,191
+Jammu & Kashmir,2001,Pedestrian,0
+Jammu & Kashmir,2001,Three Wheeler,6
+Jammu & Kashmir,2001,Truck/Lorry,203
+Jammu & Kashmir,2001,Two Wheeler,49
+Jammu & Kashmir,2002,Bicycle,1
+Jammu & Kashmir,2002,Bus,193
+Jammu & Kashmir,2002,Car,95
+Jammu & Kashmir,2002,Jeep,24
+Jammu & Kashmir,2002,Other Motor Vehicles,70
+Jammu & Kashmir,2002,Others,203
+Jammu & Kashmir,2002,Pedestrian,34
+Jammu & Kashmir,2002,Three Wheeler,11
+Jammu & Kashmir,2002,Truck/Lorry,202
+Jammu & Kashmir,2002,Two Wheeler,55
+Jammu & Kashmir,2003,Bicycle,2
+Jammu & Kashmir,2003,Bus,186
+Jammu & Kashmir,2003,Car,47
+Jammu & Kashmir,2003,Jeep,15
+Jammu & Kashmir,2003,Other Motor Vehicles,63
+Jammu & Kashmir,2003,Others,208
+Jammu & Kashmir,2003,Pedestrian,48
+Jammu & Kashmir,2003,Three Wheeler,4
+Jammu & Kashmir,2003,Truck/Lorry,204
+Jammu & Kashmir,2003,Two Wheeler,78
+Jammu & Kashmir,2004,Bicycle,8
+Jammu & Kashmir,2004,Bus,265
+Jammu & Kashmir,2004,Car,50
+Jammu & Kashmir,2004,Jeep,49
+Jammu & Kashmir,2004,Other Motor Vehicles,68
+Jammu & Kashmir,2004,Others,239
+Jammu & Kashmir,2004,Pedestrian,24
+Jammu & Kashmir,2004,Three Wheeler,11
+Jammu & Kashmir,2004,Truck/Lorry,178
+Jammu & Kashmir,2004,Two Wheeler,77
+Jammu & Kashmir,2005,Bicycle,0
+Jammu & Kashmir,2005,Bus,231
+Jammu & Kashmir,2005,Car,71
+Jammu & Kashmir,2005,Jeep,27
+Jammu & Kashmir,2005,Other Motor Vehicles,70
+Jammu & Kashmir,2005,Others,159
+Jammu & Kashmir,2005,Pedestrian,17
+Jammu & Kashmir,2005,Three Wheeler,16
+Jammu & Kashmir,2005,Truck/Lorry,197
+Jammu & Kashmir,2005,Two Wheeler,69
+Jammu & Kashmir,2006,Bicycle,13
+Jammu & Kashmir,2006,Bus,342
+Jammu & Kashmir,2006,Car,114
+Jammu & Kashmir,2006,Jeep,11
+Jammu & Kashmir,2006,Other Motor Vehicles,80
+Jammu & Kashmir,2006,Others,172
+Jammu & Kashmir,2006,Pedestrian,26
+Jammu & Kashmir,2006,Three Wheeler,45
+Jammu & Kashmir,2006,Truck/Lorry,196
+Jammu & Kashmir,2006,Two Wheeler,93
+Jammu & Kashmir,2007,Bicycle,1
+Jammu & Kashmir,2007,Bus,211
+Jammu & Kashmir,2007,Car,135
+Jammu & Kashmir,2007,Jeep,16
+Jammu & Kashmir,2007,Other Motor Vehicles,104
+Jammu & Kashmir,2007,Others,161
+Jammu & Kashmir,2007,Pedestrian,51
+Jammu & Kashmir,2007,Three Wheeler,10
+Jammu & Kashmir,2007,Truck/Lorry,164
+Jammu & Kashmir,2007,Two Wheeler,99
+Jammu & Kashmir,2008,Bicycle,2
+Jammu & Kashmir,2008,Bus,177
+Jammu & Kashmir,2008,Car,101
+Jammu & Kashmir,2008,Jeep,42
+Jammu & Kashmir,2008,Other Motor Vehicles,52
+Jammu & Kashmir,2008,Others,269
+Jammu & Kashmir,2008,Pedestrian,5
+Jammu & Kashmir,2008,Three Wheeler,13
+Jammu & Kashmir,2008,Truck/Lorry,175
+Jammu & Kashmir,2008,Two Wheeler,145
+Jammu & Kashmir,2009,Bicycle,16
+Jammu & Kashmir,2009,Bus,253
+Jammu & Kashmir,2009,Car,125
+Jammu & Kashmir,2009,Jeep,33
+Jammu & Kashmir,2009,Other Motor Vehicles,83
+Jammu & Kashmir,2009,Others,209
+Jammu & Kashmir,2009,Pedestrian,62
+Jammu & Kashmir,2009,Three Wheeler,28
+Jammu & Kashmir,2009,Truck/Lorry,229
+Jammu & Kashmir,2009,Two Wheeler,133
+Jammu & Kashmir,2010,Bicycle,6
+Jammu & Kashmir,2010,Bus,139
+Jammu & Kashmir,2010,Car,135
+Jammu & Kashmir,2010,Jeep,16
+Jammu & Kashmir,2010,Other Motor Vehicles,79
+Jammu & Kashmir,2010,Others,245
+Jammu & Kashmir,2010,Pedestrian,37
+Jammu & Kashmir,2010,Three Wheeler,20
+Jammu & Kashmir,2010,Truck/Lorry,211
+Jammu & Kashmir,2010,Two Wheeler,141
+Jammu & Kashmir,2011,Bicycle,5
+Jammu & Kashmir,2011,Bus,178
+Jammu & Kashmir,2011,Car,111
+Jammu & Kashmir,2011,Jeep,18
+Jammu & Kashmir,2011,Other Motor Vehicles,78
+Jammu & Kashmir,2011,Others,337
+Jammu & Kashmir,2011,Pedestrian,74
+Jammu & Kashmir,2011,Three Wheeler,14
+Jammu & Kashmir,2011,Truck/Lorry,179
+Jammu & Kashmir,2011,Two Wheeler,146
+Jammu & Kashmir,2012,Bicycle,11
+Jammu & Kashmir,2012,Bus,157
+Jammu & Kashmir,2012,Car,184
+Jammu & Kashmir,2012,Jeep,64
+Jammu & Kashmir,2012,Other Motor Vehicles,181
+Jammu & Kashmir,2012,Others,374
+Jammu & Kashmir,2012,Pedestrian,54
+Jammu & Kashmir,2012,Three Wheeler,8
+Jammu & Kashmir,2012,Truck/Lorry,228
+Jammu & Kashmir,2012,Two Wheeler,165
+Jammu & Kashmir,2013,Bicycle,3
+Jammu & Kashmir,2013,Bus,94
+Jammu & Kashmir,2013,Car,116
+Jammu & Kashmir,2013,Jeep,35
+Jammu & Kashmir,2013,Other Motor Vehicles,84
+Jammu & Kashmir,2013,Others,268
+Jammu & Kashmir,2013,Pedestrian,83
+Jammu & Kashmir,2013,Three Wheeler,18
+Jammu & Kashmir,2013,Truck/Lorry,136
+Jammu & Kashmir,2013,Two Wheeler,155
+Jammu & Kashmir,2014,Bicycle,0
+Jammu & Kashmir,2014,Bus,181
+Jammu & Kashmir,2014,Car,168
+Jammu & Kashmir,2014,Jeep,6
+Jammu & Kashmir,2014,Other Motor Vehicles,140
+Jammu & Kashmir,2014,Others,35
+Jammu & Kashmir,2014,Pedestrian,44
+Jammu & Kashmir,2014,Three Wheeler,16
+Jammu & Kashmir,2014,Truck/Lorry,152
+Jammu & Kashmir,2014,Two Wheeler,235
+Jharkhand,2001,Bicycle,1
+Jharkhand,2001,Bus,170
+Jharkhand,2001,Car,29
+Jharkhand,2001,Jeep,61
+Jharkhand,2001,Other Motor Vehicles,11
+Jharkhand,2001,Others,150
+Jharkhand,2001,Pedestrian,43
+Jharkhand,2001,Three Wheeler,9
+Jharkhand,2001,Truck/Lorry,10
+Jharkhand,2001,Two Wheeler,33
+Jharkhand,2002,Bicycle,3
+Jharkhand,2002,Bus,182
+Jharkhand,2002,Car,32
+Jharkhand,2002,Jeep,76
+Jharkhand,2002,Other Motor Vehicles,28
+Jharkhand,2002,Others,20
+Jharkhand,2002,Pedestrian,50
+Jharkhand,2002,Three Wheeler,12
+Jharkhand,2002,Truck/Lorry,12
+Jharkhand,2002,Two Wheeler,39
+Jharkhand,2003,Bicycle,4
+Jharkhand,2003,Bus,183
+Jharkhand,2003,Car,34
+Jharkhand,2003,Jeep,71
+Jharkhand,2003,Other Motor Vehicles,27
+Jharkhand,2003,Others,21
+Jharkhand,2003,Pedestrian,47
+Jharkhand,2003,Three Wheeler,13
+Jharkhand,2003,Truck/Lorry,14
+Jharkhand,2003,Two Wheeler,40
+Jharkhand,2004,Bicycle,10
+Jharkhand,2004,Bus,202
+Jharkhand,2004,Car,46
+Jharkhand,2004,Jeep,88
+Jharkhand,2004,Other Motor Vehicles,45
+Jharkhand,2004,Others,25
+Jharkhand,2004,Pedestrian,78
+Jharkhand,2004,Three Wheeler,19
+Jharkhand,2004,Truck/Lorry,28
+Jharkhand,2004,Two Wheeler,73
+Jharkhand,2005,Bicycle,36
+Jharkhand,2005,Bus,158
+Jharkhand,2005,Car,80
+Jharkhand,2005,Jeep,129
+Jharkhand,2005,Other Motor Vehicles,62
+Jharkhand,2005,Others,90
+Jharkhand,2005,Pedestrian,89
+Jharkhand,2005,Three Wheeler,50
+Jharkhand,2005,Truck/Lorry,467
+Jharkhand,2005,Two Wheeler,121
+Jharkhand,2006,Bicycle,40
+Jharkhand,2006,Bus,232
+Jharkhand,2006,Car,83
+Jharkhand,2006,Jeep,178
+Jharkhand,2006,Other Motor Vehicles,108
+Jharkhand,2006,Others,86
+Jharkhand,2006,Pedestrian,121
+Jharkhand,2006,Three Wheeler,48
+Jharkhand,2006,Truck/Lorry,365
+Jharkhand,2006,Two Wheeler,406
+Jharkhand,2007,Bicycle,40
+Jharkhand,2007,Bus,243
+Jharkhand,2007,Car,117
+Jharkhand,2007,Jeep,246
+Jharkhand,2007,Other Motor Vehicles,130
+Jharkhand,2007,Others,141
+Jharkhand,2007,Pedestrian,112
+Jharkhand,2007,Three Wheeler,95
+Jharkhand,2007,Truck/Lorry,374
+Jharkhand,2007,Two Wheeler,262
+Jharkhand,2008,Bicycle,55
+Jharkhand,2008,Bus,171
+Jharkhand,2008,Car,111
+Jharkhand,2008,Jeep,181
+Jharkhand,2008,Other Motor Vehicles,116
+Jharkhand,2008,Others,56
+Jharkhand,2008,Pedestrian,99
+Jharkhand,2008,Three Wheeler,62
+Jharkhand,2008,Truck/Lorry,486
+Jharkhand,2008,Two Wheeler,237
+Jharkhand,2009,Bicycle,31
+Jharkhand,2009,Bus,190
+Jharkhand,2009,Car,133
+Jharkhand,2009,Jeep,151
+Jharkhand,2009,Other Motor Vehicles,125
+Jharkhand,2009,Others,130
+Jharkhand,2009,Pedestrian,100
+Jharkhand,2009,Three Wheeler,51
+Jharkhand,2009,Truck/Lorry,569
+Jharkhand,2009,Two Wheeler,546
+Jharkhand,2010,Bicycle,135
+Jharkhand,2010,Bus,298
+Jharkhand,2010,Car,104
+Jharkhand,2010,Jeep,178
+Jharkhand,2010,Other Motor Vehicles,161
+Jharkhand,2010,Others,175
+Jharkhand,2010,Pedestrian,126
+Jharkhand,2010,Three Wheeler,95
+Jharkhand,2010,Truck/Lorry,472
+Jharkhand,2010,Two Wheeler,396
+Jharkhand,2011,Bicycle,111
+Jharkhand,2011,Bus,211
+Jharkhand,2011,Car,171
+Jharkhand,2011,Jeep,131
+Jharkhand,2011,Other Motor Vehicles,92
+Jharkhand,2011,Others,193
+Jharkhand,2011,Pedestrian,228
+Jharkhand,2011,Three Wheeler,130
+Jharkhand,2011,Truck/Lorry,367
+Jharkhand,2011,Two Wheeler,419
+Jharkhand,2012,Bicycle,59
+Jharkhand,2012,Bus,313
+Jharkhand,2012,Car,182
+Jharkhand,2012,Jeep,158
+Jharkhand,2012,Other Motor Vehicles,122
+Jharkhand,2012,Others,251
+Jharkhand,2012,Pedestrian,127
+Jharkhand,2012,Three Wheeler,113
+Jharkhand,2012,Truck/Lorry,630
+Jharkhand,2012,Two Wheeler,557
+Jharkhand,2013,Bicycle,48
+Jharkhand,2013,Bus,245
+Jharkhand,2013,Car,165
+Jharkhand,2013,Jeep,108
+Jharkhand,2013,Other Motor Vehicles,267
+Jharkhand,2013,Others,215
+Jharkhand,2013,Pedestrian,114
+Jharkhand,2013,Three Wheeler,100
+Jharkhand,2013,Truck/Lorry,560
+Jharkhand,2013,Two Wheeler,824
+Jharkhand,2014,Bicycle,18
+Jharkhand,2014,Bus,232
+Jharkhand,2014,Car,171
+Jharkhand,2014,Jeep,63
+Jharkhand,2014,Other Motor Vehicles,130
+Jharkhand,2014,Others,562
+Jharkhand,2014,Pedestrian,8
+Jharkhand,2014,Three Wheeler,137
+Jharkhand,2014,Truck/Lorry,424
+Jharkhand,2014,Two Wheeler,801
+Karnataka,2001,Bicycle,68
+Karnataka,2001,Bus,814
+Karnataka,2001,Car,326
+Karnataka,2001,Jeep,268
+Karnataka,2001,Other Motor Vehicles,702
+Karnataka,2001,Others,536
+Karnataka,2001,Pedestrian,394
+Karnataka,2001,Three Wheeler,152
+Karnataka,2001,Truck/Lorry,1629
+Karnataka,2001,Two Wheeler,906
+Karnataka,2002,Bicycle,138
+Karnataka,2002,Bus,740
+Karnataka,2002,Car,381
+Karnataka,2002,Jeep,244
+Karnataka,2002,Other Motor Vehicles,645
+Karnataka,2002,Others,830
+Karnataka,2002,Pedestrian,552
+Karnataka,2002,Three Wheeler,238
+Karnataka,2002,Truck/Lorry,1502
+Karnataka,2002,Two Wheeler,1081
+Karnataka,2003,Bicycle,100
+Karnataka,2003,Bus,732
+Karnataka,2003,Car,383
+Karnataka,2003,Jeep,330
+Karnataka,2003,Other Motor Vehicles,707
+Karnataka,2003,Others,609
+Karnataka,2003,Pedestrian,558
+Karnataka,2003,Three Wheeler,255
+Karnataka,2003,Truck/Lorry,1423
+Karnataka,2003,Two Wheeler,1075
+Karnataka,2004,Bicycle,147
+Karnataka,2004,Bus,697
+Karnataka,2004,Car,402
+Karnataka,2004,Jeep,288
+Karnataka,2004,Other Motor Vehicles,571
+Karnataka,2004,Others,777
+Karnataka,2004,Pedestrian,745
+Karnataka,2004,Three Wheeler,273
+Karnataka,2004,Truck/Lorry,1377
+Karnataka,2004,Two Wheeler,1204
+Karnataka,2005,Bicycle,151
+Karnataka,2005,Bus,678
+Karnataka,2005,Car,427
+Karnataka,2005,Jeep,298
+Karnataka,2005,Other Motor Vehicles,582
+Karnataka,2005,Others,620
+Karnataka,2005,Pedestrian,1010
+Karnataka,2005,Three Wheeler,262
+Karnataka,2005,Truck/Lorry,1253
+Karnataka,2005,Two Wheeler,1595
+Karnataka,2006,Bicycle,150
+Karnataka,2006,Bus,861
+Karnataka,2006,Car,485
+Karnataka,2006,Jeep,328
+Karnataka,2006,Other Motor Vehicles,592
+Karnataka,2006,Others,1144
+Karnataka,2006,Pedestrian,809
+Karnataka,2006,Three Wheeler,439
+Karnataka,2006,Truck/Lorry,1514
+Karnataka,2006,Two Wheeler,1617
+Karnataka,2007,Bicycle,93
+Karnataka,2007,Bus,969
+Karnataka,2007,Car,521
+Karnataka,2007,Jeep,368
+Karnataka,2007,Other Motor Vehicles,741
+Karnataka,2007,Others,1263
+Karnataka,2007,Pedestrian,692
+Karnataka,2007,Three Wheeler,491
+Karnataka,2007,Truck/Lorry,1693
+Karnataka,2007,Two Wheeler,1931
+Karnataka,2008,Bicycle,93
+Karnataka,2008,Bus,1025
+Karnataka,2008,Car,572
+Karnataka,2008,Jeep,396
+Karnataka,2008,Other Motor Vehicles,626
+Karnataka,2008,Others,1311
+Karnataka,2008,Pedestrian,591
+Karnataka,2008,Three Wheeler,543
+Karnataka,2008,Truck/Lorry,1732
+Karnataka,2008,Two Wheeler,1925
+Karnataka,2009,Bicycle,56
+Karnataka,2009,Bus,1050
+Karnataka,2009,Car,843
+Karnataka,2009,Jeep,355
+Karnataka,2009,Other Motor Vehicles,539
+Karnataka,2009,Others,1175
+Karnataka,2009,Pedestrian,503
+Karnataka,2009,Three Wheeler,512
+Karnataka,2009,Truck/Lorry,1897
+Karnataka,2009,Two Wheeler,1784
+Karnataka,2010,Bicycle,65
+Karnataka,2010,Bus,835
+Karnataka,2010,Car,619
+Karnataka,2010,Jeep,394
+Karnataka,2010,Other Motor Vehicles,505
+Karnataka,2010,Others,1897
+Karnataka,2010,Pedestrian,945
+Karnataka,2010,Three Wheeler,472
+Karnataka,2010,Truck/Lorry,1595
+Karnataka,2010,Two Wheeler,2247
+Karnataka,2011,Bicycle,70
+Karnataka,2011,Bus,767
+Karnataka,2011,Car,702
+Karnataka,2011,Jeep,331
+Karnataka,2011,Other Motor Vehicles,481
+Karnataka,2011,Others,1616
+Karnataka,2011,Pedestrian,837
+Karnataka,2011,Three Wheeler,409
+Karnataka,2011,Truck/Lorry,1413
+Karnataka,2011,Two Wheeler,2332
+Karnataka,2012,Bicycle,70
+Karnataka,2012,Bus,984
+Karnataka,2012,Car,873
+Karnataka,2012,Jeep,358
+Karnataka,2012,Other Motor Vehicles,631
+Karnataka,2012,Others,1588
+Karnataka,2012,Pedestrian,510
+Karnataka,2012,Three Wheeler,471
+Karnataka,2012,Truck/Lorry,1402
+Karnataka,2012,Two Wheeler,2561
+Karnataka,2013,Bicycle,27
+Karnataka,2013,Bus,939
+Karnataka,2013,Car,832
+Karnataka,2013,Jeep,349
+Karnataka,2013,Other Motor Vehicles,591
+Karnataka,2013,Others,1922
+Karnataka,2013,Pedestrian,611
+Karnataka,2013,Three Wheeler,404
+Karnataka,2013,Truck/Lorry,1214
+Karnataka,2013,Two Wheeler,2155
+Karnataka,2014,Bicycle,60
+Karnataka,2014,Bus,882
+Karnataka,2014,Car,1556
+Karnataka,2014,Jeep,409
+Karnataka,2014,Other Motor Vehicles,847
+Karnataka,2014,Others,281
+Karnataka,2014,Pedestrian,551
+Karnataka,2014,Three Wheeler,520
+Karnataka,2014,Truck/Lorry,1827
+Karnataka,2014,Two Wheeler,3511
+Kerala,2001,Bicycle,68
+Kerala,2001,Bus,476
+Kerala,2001,Car,225
+Kerala,2001,Jeep,222
+Kerala,2001,Other Motor Vehicles,84
+Kerala,2001,Others,59
+Kerala,2001,Pedestrian,607
+Kerala,2001,Three Wheeler,194
+Kerala,2001,Truck/Lorry,176
+Kerala,2001,Two Wheeler,596
+Kerala,2002,Bicycle,98
+Kerala,2002,Bus,291
+Kerala,2002,Car,235
+Kerala,2002,Jeep,177
+Kerala,2002,Other Motor Vehicles,92
+Kerala,2002,Others,70
+Kerala,2002,Pedestrian,654
+Kerala,2002,Three Wheeler,269
+Kerala,2002,Truck/Lorry,228
+Kerala,2002,Two Wheeler,759
+Kerala,2003,Bicycle,85
+Kerala,2003,Bus,343
+Kerala,2003,Car,217
+Kerala,2003,Jeep,195
+Kerala,2003,Other Motor Vehicles,129
+Kerala,2003,Others,77
+Kerala,2003,Pedestrian,728
+Kerala,2003,Three Wheeler,203
+Kerala,2003,Truck/Lorry,194
+Kerala,2003,Two Wheeler,763
+Kerala,2004,Bicycle,119
+Kerala,2004,Bus,288
+Kerala,2004,Car,247
+Kerala,2004,Jeep,152
+Kerala,2004,Other Motor Vehicles,97
+Kerala,2004,Others,47
+Kerala,2004,Pedestrian,880
+Kerala,2004,Three Wheeler,216
+Kerala,2004,Truck/Lorry,294
+Kerala,2004,Two Wheeler,814
+Kerala,2005,Bicycle,46
+Kerala,2005,Bus,458
+Kerala,2005,Car,330
+Kerala,2005,Jeep,138
+Kerala,2005,Other Motor Vehicles,102
+Kerala,2005,Others,84
+Kerala,2005,Pedestrian,810
+Kerala,2005,Three Wheeler,293
+Kerala,2005,Truck/Lorry,45
+Kerala,2005,Two Wheeler,855
+Kerala,2006,Bicycle,102
+Kerala,2006,Bus,382
+Kerala,2006,Car,310
+Kerala,2006,Jeep,141
+Kerala,2006,Other Motor Vehicles,200
+Kerala,2006,Others,56
+Kerala,2006,Pedestrian,883
+Kerala,2006,Three Wheeler,289
+Kerala,2006,Truck/Lorry,231
+Kerala,2006,Two Wheeler,1033
+Kerala,2007,Bicycle,139
+Kerala,2007,Bus,324
+Kerala,2007,Car,339
+Kerala,2007,Jeep,143
+Kerala,2007,Other Motor Vehicles,123
+Kerala,2007,Others,55
+Kerala,2007,Pedestrian,1028
+Kerala,2007,Three Wheeler,267
+Kerala,2007,Truck/Lorry,133
+Kerala,2007,Two Wheeler,1251
+Kerala,2008,Bicycle,180
+Kerala,2008,Bus,148
+Kerala,2008,Car,335
+Kerala,2008,Jeep,100
+Kerala,2008,Other Motor Vehicles,99
+Kerala,2008,Others,20
+Kerala,2008,Pedestrian,1295
+Kerala,2008,Three Wheeler,306
+Kerala,2008,Truck/Lorry,50
+Kerala,2008,Two Wheeler,1401
+Kerala,2009,Bicycle,152
+Kerala,2009,Bus,149
+Kerala,2009,Car,295
+Kerala,2009,Jeep,92
+Kerala,2009,Other Motor Vehicles,99
+Kerala,2009,Others,9
+Kerala,2009,Pedestrian,1201
+Kerala,2009,Three Wheeler,286
+Kerala,2009,Truck/Lorry,99
+Kerala,2009,Two Wheeler,1443
+Kerala,2010,Bicycle,136
+Kerala,2010,Bus,250
+Kerala,2010,Car,354
+Kerala,2010,Jeep,107
+Kerala,2010,Other Motor Vehicles,91
+Kerala,2010,Others,30
+Kerala,2010,Pedestrian,1099
+Kerala,2010,Three Wheeler,282
+Kerala,2010,Truck/Lorry,182
+Kerala,2010,Two Wheeler,1419
+Kerala,2011,Bicycle,142
+Kerala,2011,Bus,151
+Kerala,2011,Car,305
+Kerala,2011,Jeep,57
+Kerala,2011,Other Motor Vehicles,84
+Kerala,2011,Others,41
+Kerala,2011,Pedestrian,1360
+Kerala,2011,Three Wheeler,240
+Kerala,2011,Truck/Lorry,52
+Kerala,2011,Two Wheeler,1713
+Kerala,2012,Bicycle,134
+Kerala,2012,Bus,183
+Kerala,2012,Car,319
+Kerala,2012,Jeep,47
+Kerala,2012,Other Motor Vehicles,84
+Kerala,2012,Others,49
+Kerala,2012,Pedestrian,1345
+Kerala,2012,Three Wheeler,288
+Kerala,2012,Truck/Lorry,156
+Kerala,2012,Two Wheeler,1681
+Kerala,2013,Bicycle,125
+Kerala,2013,Bus,165
+Kerala,2013,Car,292
+Kerala,2013,Jeep,82
+Kerala,2013,Other Motor Vehicles,55
+Kerala,2013,Others,24
+Kerala,2013,Pedestrian,1303
+Kerala,2013,Three Wheeler,275
+Kerala,2013,Truck/Lorry,120
+Kerala,2013,Two Wheeler,1817
+Kerala,2014,Bicycle,77
+Kerala,2014,Bus,361
+Kerala,2014,Car,547
+Kerala,2014,Jeep,76
+Kerala,2014,Other Motor Vehicles,65
+Kerala,2014,Others,27
+Kerala,2014,Pedestrian,835
+Kerala,2014,Three Wheeler,247
+Kerala,2014,Truck/Lorry,300
+Kerala,2014,Two Wheeler,1465
+Lakshadweep,2001,Bicycle,0
+Lakshadweep,2001,Bus,0
+Lakshadweep,2001,Car,0
+Lakshadweep,2001,Jeep,0
+Lakshadweep,2001,Other Motor Vehicles,0
+Lakshadweep,2001,Others,0
+Lakshadweep,2001,Pedestrian,0
+Lakshadweep,2001,Three Wheeler,0
+Lakshadweep,2001,Truck/Lorry,0
+Lakshadweep,2001,Two Wheeler,1
+Lakshadweep,2002,Bicycle,0
+Lakshadweep,2002,Bus,0
+Lakshadweep,2002,Car,0
+Lakshadweep,2002,Jeep,0
+Lakshadweep,2002,Other Motor Vehicles,0
+Lakshadweep,2002,Others,0
+Lakshadweep,2002,Pedestrian,0
+Lakshadweep,2002,Three Wheeler,0
+Lakshadweep,2002,Truck/Lorry,0
+Lakshadweep,2002,Two Wheeler,0
+Lakshadweep,2003,Bicycle,0
+Lakshadweep,2003,Bus,0
+Lakshadweep,2003,Car,0
+Lakshadweep,2003,Jeep,0
+Lakshadweep,2003,Other Motor Vehicles,0
+Lakshadweep,2003,Others,0
+Lakshadweep,2003,Pedestrian,0
+Lakshadweep,2003,Three Wheeler,0
+Lakshadweep,2003,Truck/Lorry,0
+Lakshadweep,2003,Two Wheeler,1
+Lakshadweep,2004,Bicycle,0
+Lakshadweep,2004,Bus,0
+Lakshadweep,2004,Car,0
+Lakshadweep,2004,Jeep,0
+Lakshadweep,2004,Other Motor Vehicles,0
+Lakshadweep,2004,Others,0
+Lakshadweep,2004,Pedestrian,0
+Lakshadweep,2004,Three Wheeler,0
+Lakshadweep,2004,Truck/Lorry,0
+Lakshadweep,2004,Two Wheeler,0
+Lakshadweep,2005,Bicycle,0
+Lakshadweep,2005,Bus,0
+Lakshadweep,2005,Car,0
+Lakshadweep,2005,Jeep,0
+Lakshadweep,2005,Other Motor Vehicles,0
+Lakshadweep,2005,Others,0
+Lakshadweep,2005,Pedestrian,0
+Lakshadweep,2005,Three Wheeler,0
+Lakshadweep,2005,Truck/Lorry,0
+Lakshadweep,2005,Two Wheeler,0
+Lakshadweep,2006,Bicycle,0
+Lakshadweep,2006,Bus,0
+Lakshadweep,2006,Car,0
+Lakshadweep,2006,Jeep,0
+Lakshadweep,2006,Other Motor Vehicles,0
+Lakshadweep,2006,Others,0
+Lakshadweep,2006,Pedestrian,0
+Lakshadweep,2006,Three Wheeler,0
+Lakshadweep,2006,Truck/Lorry,0
+Lakshadweep,2006,Two Wheeler,1
+Lakshadweep,2007,Bicycle,0
+Lakshadweep,2007,Bus,0
+Lakshadweep,2007,Car,0
+Lakshadweep,2007,Jeep,0
+Lakshadweep,2007,Other Motor Vehicles,0
+Lakshadweep,2007,Others,0
+Lakshadweep,2007,Pedestrian,0
+Lakshadweep,2007,Three Wheeler,0
+Lakshadweep,2007,Truck/Lorry,0
+Lakshadweep,2007,Two Wheeler,0
+Lakshadweep,2008,Bicycle,0
+Lakshadweep,2008,Bus,0
+Lakshadweep,2008,Car,0
+Lakshadweep,2008,Jeep,0
+Lakshadweep,2008,Other Motor Vehicles,0
+Lakshadweep,2008,Others,0
+Lakshadweep,2008,Pedestrian,0
+Lakshadweep,2008,Three Wheeler,0
+Lakshadweep,2008,Truck/Lorry,0
+Lakshadweep,2008,Two Wheeler,0
+Lakshadweep,2009,Bicycle,0
+Lakshadweep,2009,Bus,0
+Lakshadweep,2009,Car,0
+Lakshadweep,2009,Jeep,0
+Lakshadweep,2009,Other Motor Vehicles,0
+Lakshadweep,2009,Others,0
+Lakshadweep,2009,Pedestrian,0
+Lakshadweep,2009,Three Wheeler,0
+Lakshadweep,2009,Truck/Lorry,0
+Lakshadweep,2009,Two Wheeler,2
+Lakshadweep,2010,Bicycle,0
+Lakshadweep,2010,Bus,0
+Lakshadweep,2010,Car,0
+Lakshadweep,2010,Jeep,0
+Lakshadweep,2010,Other Motor Vehicles,0
+Lakshadweep,2010,Others,0
+Lakshadweep,2010,Pedestrian,0
+Lakshadweep,2010,Three Wheeler,0
+Lakshadweep,2010,Truck/Lorry,0
+Lakshadweep,2010,Two Wheeler,0
+Lakshadweep,2011,Bicycle,0
+Lakshadweep,2011,Bus,0
+Lakshadweep,2011,Car,0
+Lakshadweep,2011,Jeep,0
+Lakshadweep,2011,Other Motor Vehicles,0
+Lakshadweep,2011,Others,0
+Lakshadweep,2011,Pedestrian,0
+Lakshadweep,2011,Three Wheeler,0
+Lakshadweep,2011,Truck/Lorry,0
+Lakshadweep,2011,Two Wheeler,0
+Lakshadweep,2012,Bicycle,0
+Lakshadweep,2012,Bus,0
+Lakshadweep,2012,Car,0
+Lakshadweep,2012,Jeep,0
+Lakshadweep,2012,Other Motor Vehicles,0
+Lakshadweep,2012,Others,0
+Lakshadweep,2012,Pedestrian,0
+Lakshadweep,2012,Three Wheeler,0
+Lakshadweep,2012,Truck/Lorry,0
+Lakshadweep,2012,Two Wheeler,0
+Lakshadweep,2013,Bicycle,0
+Lakshadweep,2013,Bus,0
+Lakshadweep,2013,Car,0
+Lakshadweep,2013,Jeep,0
+Lakshadweep,2013,Other Motor Vehicles,0
+Lakshadweep,2013,Others,0
+Lakshadweep,2013,Pedestrian,0
+Lakshadweep,2013,Three Wheeler,0
+Lakshadweep,2013,Truck/Lorry,0
+Lakshadweep,2013,Two Wheeler,0
+Lakshadweep,2014,Bicycle,0
+Lakshadweep,2014,Bus,0
+Lakshadweep,2014,Car,0
+Lakshadweep,2014,Jeep,0
+Lakshadweep,2014,Other Motor Vehicles,0
+Lakshadweep,2014,Others,0
+Lakshadweep,2014,Pedestrian,0
+Lakshadweep,2014,Three Wheeler,0
+Lakshadweep,2014,Truck/Lorry,0
+Lakshadweep,2014,Two Wheeler,0
+Madhya Pradesh,2001,Bicycle,114
+Madhya Pradesh,2001,Bus,439
+Madhya Pradesh,2001,Car,116
+Madhya Pradesh,2001,Jeep,565
+Madhya Pradesh,2001,Other Motor Vehicles,122
+Madhya Pradesh,2001,Others,462
+Madhya Pradesh,2001,Pedestrian,455
+Madhya Pradesh,2001,Three Wheeler,87
+Madhya Pradesh,2001,Truck/Lorry,1228
+Madhya Pradesh,2001,Two Wheeler,467
+Madhya Pradesh,2002,Bicycle,82
+Madhya Pradesh,2002,Bus,516
+Madhya Pradesh,2002,Car,148
+Madhya Pradesh,2002,Jeep,579
+Madhya Pradesh,2002,Other Motor Vehicles,164
+Madhya Pradesh,2002,Others,624
+Madhya Pradesh,2002,Pedestrian,401
+Madhya Pradesh,2002,Three Wheeler,125
+Madhya Pradesh,2002,Truck/Lorry,1191
+Madhya Pradesh,2002,Two Wheeler,651
+Madhya Pradesh,2003,Bicycle,79
+Madhya Pradesh,2003,Bus,501
+Madhya Pradesh,2003,Car,204
+Madhya Pradesh,2003,Jeep,552
+Madhya Pradesh,2003,Other Motor Vehicles,156
+Madhya Pradesh,2003,Others,620
+Madhya Pradesh,2003,Pedestrian,423
+Madhya Pradesh,2003,Three Wheeler,112
+Madhya Pradesh,2003,Truck/Lorry,1149
+Madhya Pradesh,2003,Two Wheeler,716
+Madhya Pradesh,2004,Bicycle,119
+Madhya Pradesh,2004,Bus,487
+Madhya Pradesh,2004,Car,203
+Madhya Pradesh,2004,Jeep,613
+Madhya Pradesh,2004,Other Motor Vehicles,217
+Madhya Pradesh,2004,Others,737
+Madhya Pradesh,2004,Pedestrian,598
+Madhya Pradesh,2004,Three Wheeler,91
+Madhya Pradesh,2004,Truck/Lorry,1089
+Madhya Pradesh,2004,Two Wheeler,762
+Madhya Pradesh,2005,Bicycle,104
+Madhya Pradesh,2005,Bus,584
+Madhya Pradesh,2005,Car,205
+Madhya Pradesh,2005,Jeep,721
+Madhya Pradesh,2005,Other Motor Vehicles,203
+Madhya Pradesh,2005,Others,680
+Madhya Pradesh,2005,Pedestrian,533
+Madhya Pradesh,2005,Three Wheeler,106
+Madhya Pradesh,2005,Truck/Lorry,1298
+Madhya Pradesh,2005,Two Wheeler,927
+Madhya Pradesh,2006,Bicycle,110
+Madhya Pradesh,2006,Bus,583
+Madhya Pradesh,2006,Car,371
+Madhya Pradesh,2006,Jeep,598
+Madhya Pradesh,2006,Other Motor Vehicles,152
+Madhya Pradesh,2006,Others,814
+Madhya Pradesh,2006,Pedestrian,494
+Madhya Pradesh,2006,Three Wheeler,125
+Madhya Pradesh,2006,Truck/Lorry,1350
+Madhya Pradesh,2006,Two Wheeler,1001
+Madhya Pradesh,2007,Bicycle,83
+Madhya Pradesh,2007,Bus,700
+Madhya Pradesh,2007,Car,341
+Madhya Pradesh,2007,Jeep,647
+Madhya Pradesh,2007,Other Motor Vehicles,195
+Madhya Pradesh,2007,Others,763
+Madhya Pradesh,2007,Pedestrian,617
+Madhya Pradesh,2007,Three Wheeler,158
+Madhya Pradesh,2007,Truck/Lorry,1602
+Madhya Pradesh,2007,Two Wheeler,1240
+Madhya Pradesh,2008,Bicycle,255
+Madhya Pradesh,2008,Bus,729
+Madhya Pradesh,2008,Car,370
+Madhya Pradesh,2008,Jeep,870
+Madhya Pradesh,2008,Other Motor Vehicles,343
+Madhya Pradesh,2008,Others,670
+Madhya Pradesh,2008,Pedestrian,909
+Madhya Pradesh,2008,Three Wheeler,206
+Madhya Pradesh,2008,Truck/Lorry,1368
+Madhya Pradesh,2008,Two Wheeler,1794
+Madhya Pradesh,2009,Bicycle,295
+Madhya Pradesh,2009,Bus,739
+Madhya Pradesh,2009,Car,472
+Madhya Pradesh,2009,Jeep,755
+Madhya Pradesh,2009,Other Motor Vehicles,381
+Madhya Pradesh,2009,Others,898
+Madhya Pradesh,2009,Pedestrian,1196
+Madhya Pradesh,2009,Three Wheeler,135
+Madhya Pradesh,2009,Truck/Lorry,1356
+Madhya Pradesh,2009,Two Wheeler,1813
+Madhya Pradesh,2010,Bicycle,150
+Madhya Pradesh,2010,Bus,631
+Madhya Pradesh,2010,Car,594
+Madhya Pradesh,2010,Jeep,947
+Madhya Pradesh,2010,Other Motor Vehicles,272
+Madhya Pradesh,2010,Others,1023
+Madhya Pradesh,2010,Pedestrian,957
+Madhya Pradesh,2010,Three Wheeler,160
+Madhya Pradesh,2010,Truck/Lorry,1629
+Madhya Pradesh,2010,Two Wheeler,2176
+Madhya Pradesh,2011,Bicycle,168
+Madhya Pradesh,2011,Bus,665
+Madhya Pradesh,2011,Car,601
+Madhya Pradesh,2011,Jeep,810
+Madhya Pradesh,2011,Other Motor Vehicles,336
+Madhya Pradesh,2011,Others,1010
+Madhya Pradesh,2011,Pedestrian,938
+Madhya Pradesh,2011,Three Wheeler,190
+Madhya Pradesh,2011,Truck/Lorry,1617
+Madhya Pradesh,2011,Two Wheeler,1921
+Madhya Pradesh,2012,Bicycle,149
+Madhya Pradesh,2012,Bus,665
+Madhya Pradesh,2012,Car,528
+Madhya Pradesh,2012,Jeep,757
+Madhya Pradesh,2012,Other Motor Vehicles,288
+Madhya Pradesh,2012,Others,1068
+Madhya Pradesh,2012,Pedestrian,1142
+Madhya Pradesh,2012,Three Wheeler,173
+Madhya Pradesh,2012,Truck/Lorry,1518
+Madhya Pradesh,2012,Two Wheeler,2218
+Madhya Pradesh,2013,Bicycle,118
+Madhya Pradesh,2013,Bus,643
+Madhya Pradesh,2013,Car,589
+Madhya Pradesh,2013,Jeep,747
+Madhya Pradesh,2013,Other Motor Vehicles,305
+Madhya Pradesh,2013,Others,860
+Madhya Pradesh,2013,Pedestrian,1352
+Madhya Pradesh,2013,Three Wheeler,237
+Madhya Pradesh,2013,Truck/Lorry,1412
+Madhya Pradesh,2013,Two Wheeler,2714
+Madhya Pradesh,2014,Bicycle,51
+Madhya Pradesh,2014,Bus,694
+Madhya Pradesh,2014,Car,1219
+Madhya Pradesh,2014,Jeep,494
+Madhya Pradesh,2014,Other Motor Vehicles,637
+Madhya Pradesh,2014,Others,177
+Madhya Pradesh,2014,Pedestrian,531
+Madhya Pradesh,2014,Three Wheeler,256
+Madhya Pradesh,2014,Truck/Lorry,2567
+Madhya Pradesh,2014,Two Wheeler,2666
+Maharashtra,2001,Bicycle,322
+Maharashtra,2001,Bus,806
+Maharashtra,2001,Car,657
+Maharashtra,2001,Jeep,1585
+Maharashtra,2001,Other Motor Vehicles,803
+Maharashtra,2001,Others,320
+Maharashtra,2001,Pedestrian,1245
+Maharashtra,2001,Three Wheeler,503
+Maharashtra,2001,Truck/Lorry,2527
+Maharashtra,2001,Two Wheeler,1654
+Maharashtra,2002,Bicycle,366
+Maharashtra,2002,Bus,670
+Maharashtra,2002,Car,675
+Maharashtra,2002,Jeep,1490
+Maharashtra,2002,Other Motor Vehicles,780
+Maharashtra,2002,Others,407
+Maharashtra,2002,Pedestrian,1202
+Maharashtra,2002,Three Wheeler,560
+Maharashtra,2002,Truck/Lorry,2235
+Maharashtra,2002,Two Wheeler,1877
+Maharashtra,2003,Bicycle,303
+Maharashtra,2003,Bus,700
+Maharashtra,2003,Car,711
+Maharashtra,2003,Jeep,1499
+Maharashtra,2003,Other Motor Vehicles,725
+Maharashtra,2003,Others,453
+Maharashtra,2003,Pedestrian,1154
+Maharashtra,2003,Three Wheeler,506
+Maharashtra,2003,Truck/Lorry,2080
+Maharashtra,2003,Two Wheeler,2113
+Maharashtra,2004,Bicycle,264
+Maharashtra,2004,Bus,597
+Maharashtra,2004,Car,671
+Maharashtra,2004,Jeep,1511
+Maharashtra,2004,Other Motor Vehicles,699
+Maharashtra,2004,Others,494
+Maharashtra,2004,Pedestrian,1256
+Maharashtra,2004,Three Wheeler,560
+Maharashtra,2004,Truck/Lorry,2184
+Maharashtra,2004,Two Wheeler,2369
+Maharashtra,2005,Bicycle,237
+Maharashtra,2005,Bus,515
+Maharashtra,2005,Car,673
+Maharashtra,2005,Jeep,1477
+Maharashtra,2005,Other Motor Vehicles,753
+Maharashtra,2005,Others,432
+Maharashtra,2005,Pedestrian,1224
+Maharashtra,2005,Three Wheeler,558
+Maharashtra,2005,Truck/Lorry,2305
+Maharashtra,2005,Two Wheeler,2439
+Maharashtra,2006,Bicycle,295
+Maharashtra,2006,Bus,651
+Maharashtra,2006,Car,882
+Maharashtra,2006,Jeep,1439
+Maharashtra,2006,Other Motor Vehicles,750
+Maharashtra,2006,Others,395
+Maharashtra,2006,Pedestrian,1478
+Maharashtra,2006,Three Wheeler,571
+Maharashtra,2006,Truck/Lorry,2530
+Maharashtra,2006,Two Wheeler,2943
+Maharashtra,2007,Bicycle,312
+Maharashtra,2007,Bus,564
+Maharashtra,2007,Car,885
+Maharashtra,2007,Jeep,1449
+Maharashtra,2007,Other Motor Vehicles,781
+Maharashtra,2007,Others,466
+Maharashtra,2007,Pedestrian,1748
+Maharashtra,2007,Three Wheeler,722
+Maharashtra,2007,Truck/Lorry,2326
+Maharashtra,2007,Two Wheeler,3363
+Maharashtra,2008,Bicycle,293
+Maharashtra,2008,Bus,573
+Maharashtra,2008,Car,962
+Maharashtra,2008,Jeep,1330
+Maharashtra,2008,Other Motor Vehicles,772
+Maharashtra,2008,Others,494
+Maharashtra,2008,Pedestrian,1800
+Maharashtra,2008,Three Wheeler,775
+Maharashtra,2008,Truck/Lorry,2385
+Maharashtra,2008,Two Wheeler,3573
+Maharashtra,2009,Bicycle,278
+Maharashtra,2009,Bus,450
+Maharashtra,2009,Car,980
+Maharashtra,2009,Jeep,1345
+Maharashtra,2009,Other Motor Vehicles,763
+Maharashtra,2009,Others,575
+Maharashtra,2009,Pedestrian,1742
+Maharashtra,2009,Three Wheeler,720
+Maharashtra,2009,Truck/Lorry,2363
+Maharashtra,2009,Two Wheeler,3818
+Maharashtra,2010,Bicycle,268
+Maharashtra,2010,Bus,532
+Maharashtra,2010,Car,1133
+Maharashtra,2010,Jeep,1413
+Maharashtra,2010,Other Motor Vehicles,749
+Maharashtra,2010,Others,529
+Maharashtra,2010,Pedestrian,1984
+Maharashtra,2010,Three Wheeler,783
+Maharashtra,2010,Truck/Lorry,2363
+Maharashtra,2010,Two Wheeler,4309
+Maharashtra,2011,Bicycle,189
+Maharashtra,2011,Bus,685
+Maharashtra,2011,Car,1221
+Maharashtra,2011,Jeep,1180
+Maharashtra,2011,Other Motor Vehicles,968
+Maharashtra,2011,Others,824
+Maharashtra,2011,Pedestrian,1567
+Maharashtra,2011,Three Wheeler,722
+Maharashtra,2011,Truck/Lorry,2255
+Maharashtra,2011,Two Wheeler,4069
+Maharashtra,2012,Bicycle,224
+Maharashtra,2012,Bus,545
+Maharashtra,2012,Car,1246
+Maharashtra,2012,Jeep,1171
+Maharashtra,2012,Other Motor Vehicles,932
+Maharashtra,2012,Others,691
+Maharashtra,2012,Pedestrian,1704
+Maharashtra,2012,Three Wheeler,633
+Maharashtra,2012,Truck/Lorry,2306
+Maharashtra,2012,Two Wheeler,4484
+Maharashtra,2013,Bicycle,214
+Maharashtra,2013,Bus,587
+Maharashtra,2013,Car,1190
+Maharashtra,2013,Jeep,963
+Maharashtra,2013,Other Motor Vehicles,765
+Maharashtra,2013,Others,726
+Maharashtra,2013,Pedestrian,1857
+Maharashtra,2013,Three Wheeler,595
+Maharashtra,2013,Truck/Lorry,1741
+Maharashtra,2013,Two Wheeler,4607
+Maharashtra,2014,Bicycle,149
+Maharashtra,2014,Bus,636
+Maharashtra,2014,Car,1628
+Maharashtra,2014,Jeep,850
+Maharashtra,2014,Other Motor Vehicles,686
+Maharashtra,2014,Others,197
+Maharashtra,2014,Pedestrian,1170
+Maharashtra,2014,Three Wheeler,668
+Maharashtra,2014,Truck/Lorry,2499
+Maharashtra,2014,Two Wheeler,5046
+Manipur,2001,Bicycle,1
+Manipur,2001,Bus,17
+Manipur,2001,Car,2
+Manipur,2001,Jeep,10
+Manipur,2001,Other Motor Vehicles,0
+Manipur,2001,Others,4
+Manipur,2001,Pedestrian,9
+Manipur,2001,Three Wheeler,0
+Manipur,2001,Truck/Lorry,35
+Manipur,2001,Two Wheeler,10
+Manipur,2002,Bicycle,6
+Manipur,2002,Bus,34
+Manipur,2002,Car,0
+Manipur,2002,Jeep,4
+Manipur,2002,Other Motor Vehicles,6
+Manipur,2002,Others,4
+Manipur,2002,Pedestrian,10
+Manipur,2002,Three Wheeler,1
+Manipur,2002,Truck/Lorry,24
+Manipur,2002,Two Wheeler,31
+Manipur,2003,Bicycle,10
+Manipur,2003,Bus,31
+Manipur,2003,Car,4
+Manipur,2003,Jeep,2
+Manipur,2003,Other Motor Vehicles,0
+Manipur,2003,Others,2
+Manipur,2003,Pedestrian,25
+Manipur,2003,Three Wheeler,2
+Manipur,2003,Truck/Lorry,23
+Manipur,2003,Two Wheeler,25
+Manipur,2004,Bicycle,0
+Manipur,2004,Bus,41
+Manipur,2004,Car,2
+Manipur,2004,Jeep,9
+Manipur,2004,Other Motor Vehicles,0
+Manipur,2004,Others,5
+Manipur,2004,Pedestrian,7
+Manipur,2004,Three Wheeler,1
+Manipur,2004,Truck/Lorry,35
+Manipur,2004,Two Wheeler,19
+Manipur,2005,Bicycle,5
+Manipur,2005,Bus,31
+Manipur,2005,Car,4
+Manipur,2005,Jeep,7
+Manipur,2005,Other Motor Vehicles,0
+Manipur,2005,Others,4
+Manipur,2005,Pedestrian,22
+Manipur,2005,Three Wheeler,0
+Manipur,2005,Truck/Lorry,33
+Manipur,2005,Two Wheeler,32
+Manipur,2006,Bicycle,8
+Manipur,2006,Bus,32
+Manipur,2006,Car,1
+Manipur,2006,Jeep,13
+Manipur,2006,Other Motor Vehicles,4
+Manipur,2006,Others,12
+Manipur,2006,Pedestrian,24
+Manipur,2006,Three Wheeler,1
+Manipur,2006,Truck/Lorry,27
+Manipur,2006,Two Wheeler,35
+Manipur,2007,Bicycle,6
+Manipur,2007,Bus,20
+Manipur,2007,Car,2
+Manipur,2007,Jeep,8
+Manipur,2007,Other Motor Vehicles,0
+Manipur,2007,Others,4
+Manipur,2007,Pedestrian,15
+Manipur,2007,Three Wheeler,3
+Manipur,2007,Truck/Lorry,35
+Manipur,2007,Two Wheeler,21
+Manipur,2008,Bicycle,4
+Manipur,2008,Bus,17
+Manipur,2008,Car,4
+Manipur,2008,Jeep,11
+Manipur,2008,Other Motor Vehicles,3
+Manipur,2008,Others,10
+Manipur,2008,Pedestrian,4
+Manipur,2008,Three Wheeler,0
+Manipur,2008,Truck/Lorry,57
+Manipur,2008,Two Wheeler,23
+Manipur,2009,Bicycle,2
+Manipur,2009,Bus,29
+Manipur,2009,Car,6
+Manipur,2009,Jeep,3
+Manipur,2009,Other Motor Vehicles,3
+Manipur,2009,Others,4
+Manipur,2009,Pedestrian,4
+Manipur,2009,Three Wheeler,5
+Manipur,2009,Truck/Lorry,50
+Manipur,2009,Two Wheeler,19
+Manipur,2010,Bicycle,1
+Manipur,2010,Bus,12
+Manipur,2010,Car,7
+Manipur,2010,Jeep,6
+Manipur,2010,Other Motor Vehicles,8
+Manipur,2010,Others,20
+Manipur,2010,Pedestrian,0
+Manipur,2010,Three Wheeler,5
+Manipur,2010,Truck/Lorry,59
+Manipur,2010,Two Wheeler,35
+Manipur,2011,Bicycle,5
+Manipur,2011,Bus,9
+Manipur,2011,Car,11
+Manipur,2011,Jeep,10
+Manipur,2011,Other Motor Vehicles,6
+Manipur,2011,Others,12
+Manipur,2011,Pedestrian,24
+Manipur,2011,Three Wheeler,7
+Manipur,2011,Truck/Lorry,36
+Manipur,2011,Two Wheeler,36
+Manipur,2012,Bicycle,1
+Manipur,2012,Bus,17
+Manipur,2012,Car,6
+Manipur,2012,Jeep,6
+Manipur,2012,Other Motor Vehicles,7
+Manipur,2012,Others,11
+Manipur,2012,Pedestrian,23
+Manipur,2012,Three Wheeler,4
+Manipur,2012,Truck/Lorry,40
+Manipur,2012,Two Wheeler,43
+Manipur,2013,Bicycle,0
+Manipur,2013,Bus,9
+Manipur,2013,Car,8
+Manipur,2013,Jeep,7
+Manipur,2013,Other Motor Vehicles,2
+Manipur,2013,Others,17
+Manipur,2013,Pedestrian,39
+Manipur,2013,Three Wheeler,4
+Manipur,2013,Truck/Lorry,58
+Manipur,2013,Two Wheeler,21
+Manipur,2014,Bicycle,2
+Manipur,2014,Bus,5
+Manipur,2014,Car,42
+Manipur,2014,Jeep,2
+Manipur,2014,Other Motor Vehicles,11
+Manipur,2014,Others,0
+Manipur,2014,Pedestrian,9
+Manipur,2014,Three Wheeler,4
+Manipur,2014,Truck/Lorry,51
+Manipur,2014,Two Wheeler,41
+Meghalaya,2001,Bicycle,1
+Meghalaya,2001,Bus,33
+Meghalaya,2001,Car,11
+Meghalaya,2001,Jeep,6
+Meghalaya,2001,Other Motor Vehicles,4
+Meghalaya,2001,Others,5
+Meghalaya,2001,Pedestrian,6
+Meghalaya,2001,Three Wheeler,4
+Meghalaya,2001,Truck/Lorry,59
+Meghalaya,2001,Two Wheeler,9
+Meghalaya,2002,Bicycle,0
+Meghalaya,2002,Bus,17
+Meghalaya,2002,Car,9
+Meghalaya,2002,Jeep,8
+Meghalaya,2002,Other Motor Vehicles,4
+Meghalaya,2002,Others,5
+Meghalaya,2002,Pedestrian,17
+Meghalaya,2002,Three Wheeler,2
+Meghalaya,2002,Truck/Lorry,52
+Meghalaya,2002,Two Wheeler,11
+Meghalaya,2003,Bicycle,0
+Meghalaya,2003,Bus,39
+Meghalaya,2003,Car,10
+Meghalaya,2003,Jeep,8
+Meghalaya,2003,Other Motor Vehicles,3
+Meghalaya,2003,Others,6
+Meghalaya,2003,Pedestrian,11
+Meghalaya,2003,Three Wheeler,1
+Meghalaya,2003,Truck/Lorry,39
+Meghalaya,2003,Two Wheeler,1
+Meghalaya,2004,Bicycle,0
+Meghalaya,2004,Bus,25
+Meghalaya,2004,Car,12
+Meghalaya,2004,Jeep,9
+Meghalaya,2004,Other Motor Vehicles,10
+Meghalaya,2004,Others,7
+Meghalaya,2004,Pedestrian,18
+Meghalaya,2004,Three Wheeler,7
+Meghalaya,2004,Truck/Lorry,32
+Meghalaya,2004,Two Wheeler,8
+Meghalaya,2005,Bicycle,2
+Meghalaya,2005,Bus,33
+Meghalaya,2005,Car,18
+Meghalaya,2005,Jeep,6
+Meghalaya,2005,Other Motor Vehicles,3
+Meghalaya,2005,Others,2
+Meghalaya,2005,Pedestrian,8
+Meghalaya,2005,Three Wheeler,9
+Meghalaya,2005,Truck/Lorry,37
+Meghalaya,2005,Two Wheeler,4
+Meghalaya,2006,Bicycle,2
+Meghalaya,2006,Bus,22
+Meghalaya,2006,Car,9
+Meghalaya,2006,Jeep,8
+Meghalaya,2006,Other Motor Vehicles,13
+Meghalaya,2006,Others,16
+Meghalaya,2006,Pedestrian,20
+Meghalaya,2006,Three Wheeler,2
+Meghalaya,2006,Truck/Lorry,37
+Meghalaya,2006,Two Wheeler,3
+Meghalaya,2007,Bicycle,2
+Meghalaya,2007,Bus,31
+Meghalaya,2007,Car,8
+Meghalaya,2007,Jeep,17
+Meghalaya,2007,Other Motor Vehicles,5
+Meghalaya,2007,Others,21
+Meghalaya,2007,Pedestrian,19
+Meghalaya,2007,Three Wheeler,1
+Meghalaya,2007,Truck/Lorry,24
+Meghalaya,2007,Two Wheeler,5
+Meghalaya,2008,Bicycle,1
+Meghalaya,2008,Bus,35
+Meghalaya,2008,Car,27
+Meghalaya,2008,Jeep,4
+Meghalaya,2008,Other Motor Vehicles,8
+Meghalaya,2008,Others,4
+Meghalaya,2008,Pedestrian,6
+Meghalaya,2008,Three Wheeler,7
+Meghalaya,2008,Truck/Lorry,54
+Meghalaya,2008,Two Wheeler,3
+Meghalaya,2009,Bicycle,2
+Meghalaya,2009,Bus,45
+Meghalaya,2009,Car,30
+Meghalaya,2009,Jeep,9
+Meghalaya,2009,Other Motor Vehicles,14
+Meghalaya,2009,Others,17
+Meghalaya,2009,Pedestrian,17
+Meghalaya,2009,Three Wheeler,2
+Meghalaya,2009,Truck/Lorry,51
+Meghalaya,2009,Two Wheeler,6
+Meghalaya,2010,Bicycle,1
+Meghalaya,2010,Bus,16
+Meghalaya,2010,Car,18
+Meghalaya,2010,Jeep,14
+Meghalaya,2010,Other Motor Vehicles,18
+Meghalaya,2010,Others,9
+Meghalaya,2010,Pedestrian,17
+Meghalaya,2010,Three Wheeler,5
+Meghalaya,2010,Truck/Lorry,74
+Meghalaya,2010,Two Wheeler,12
+Meghalaya,2011,Bicycle,0
+Meghalaya,2011,Bus,20
+Meghalaya,2011,Car,28
+Meghalaya,2011,Jeep,6
+Meghalaya,2011,Other Motor Vehicles,16
+Meghalaya,2011,Others,13
+Meghalaya,2011,Pedestrian,19
+Meghalaya,2011,Three Wheeler,7
+Meghalaya,2011,Truck/Lorry,98
+Meghalaya,2011,Two Wheeler,22
+Meghalaya,2012,Bicycle,0
+Meghalaya,2012,Bus,50
+Meghalaya,2012,Car,18
+Meghalaya,2012,Jeep,13
+Meghalaya,2012,Other Motor Vehicles,8
+Meghalaya,2012,Others,13
+Meghalaya,2012,Pedestrian,1
+Meghalaya,2012,Three Wheeler,14
+Meghalaya,2012,Truck/Lorry,71
+Meghalaya,2012,Two Wheeler,25
+Meghalaya,2013,Bicycle,3
+Meghalaya,2013,Bus,10
+Meghalaya,2013,Car,34
+Meghalaya,2013,Jeep,12
+Meghalaya,2013,Other Motor Vehicles,11
+Meghalaya,2013,Others,1
+Meghalaya,2013,Pedestrian,13
+Meghalaya,2013,Three Wheeler,13
+Meghalaya,2013,Truck/Lorry,47
+Meghalaya,2013,Two Wheeler,26
+Meghalaya,2014,Bicycle,0
+Meghalaya,2014,Bus,23
+Meghalaya,2014,Car,38
+Meghalaya,2014,Jeep,1
+Meghalaya,2014,Other Motor Vehicles,6
+Meghalaya,2014,Others,0
+Meghalaya,2014,Pedestrian,10
+Meghalaya,2014,Three Wheeler,16
+Meghalaya,2014,Truck/Lorry,40
+Meghalaya,2014,Two Wheeler,37
+Mizoram,2001,Bicycle,0
+Mizoram,2001,Bus,28
+Mizoram,2001,Car,0
+Mizoram,2001,Jeep,5
+Mizoram,2001,Other Motor Vehicles,8
+Mizoram,2001,Others,0
+Mizoram,2001,Pedestrian,0
+Mizoram,2001,Three Wheeler,0
+Mizoram,2001,Truck/Lorry,25
+Mizoram,2001,Two Wheeler,1
+Mizoram,2002,Bicycle,0
+Mizoram,2002,Bus,5
+Mizoram,2002,Car,1
+Mizoram,2002,Jeep,8
+Mizoram,2002,Other Motor Vehicles,0
+Mizoram,2002,Others,8
+Mizoram,2002,Pedestrian,1
+Mizoram,2002,Three Wheeler,5
+Mizoram,2002,Truck/Lorry,19
+Mizoram,2002,Two Wheeler,3
+Mizoram,2003,Bicycle,0
+Mizoram,2003,Bus,6
+Mizoram,2003,Car,10
+Mizoram,2003,Jeep,5
+Mizoram,2003,Other Motor Vehicles,2
+Mizoram,2003,Others,1
+Mizoram,2003,Pedestrian,0
+Mizoram,2003,Three Wheeler,4
+Mizoram,2003,Truck/Lorry,43
+Mizoram,2003,Two Wheeler,5
+Mizoram,2004,Bicycle,0
+Mizoram,2004,Bus,8
+Mizoram,2004,Car,6
+Mizoram,2004,Jeep,8
+Mizoram,2004,Other Motor Vehicles,0
+Mizoram,2004,Others,11
+Mizoram,2004,Pedestrian,0
+Mizoram,2004,Three Wheeler,6
+Mizoram,2004,Truck/Lorry,22
+Mizoram,2004,Two Wheeler,6
+Mizoram,2005,Bicycle,0
+Mizoram,2005,Bus,3
+Mizoram,2005,Car,1
+Mizoram,2005,Jeep,10
+Mizoram,2005,Other Motor Vehicles,4
+Mizoram,2005,Others,4
+Mizoram,2005,Pedestrian,0
+Mizoram,2005,Three Wheeler,0
+Mizoram,2005,Truck/Lorry,21
+Mizoram,2005,Two Wheeler,9
+Mizoram,2006,Bicycle,0
+Mizoram,2006,Bus,13
+Mizoram,2006,Car,2
+Mizoram,2006,Jeep,8
+Mizoram,2006,Other Motor Vehicles,5
+Mizoram,2006,Others,8
+Mizoram,2006,Pedestrian,0
+Mizoram,2006,Three Wheeler,0
+Mizoram,2006,Truck/Lorry,19
+Mizoram,2006,Two Wheeler,9
+Mizoram,2007,Bicycle,0
+Mizoram,2007,Bus,4
+Mizoram,2007,Car,2
+Mizoram,2007,Jeep,13
+Mizoram,2007,Other Motor Vehicles,0
+Mizoram,2007,Others,1
+Mizoram,2007,Pedestrian,0
+Mizoram,2007,Three Wheeler,0
+Mizoram,2007,Truck/Lorry,10
+Mizoram,2007,Two Wheeler,5
+Mizoram,2008,Bicycle,0
+Mizoram,2008,Bus,4
+Mizoram,2008,Car,4
+Mizoram,2008,Jeep,4
+Mizoram,2008,Other Motor Vehicles,2
+Mizoram,2008,Others,26
+Mizoram,2008,Pedestrian,0
+Mizoram,2008,Three Wheeler,1
+Mizoram,2008,Truck/Lorry,29
+Mizoram,2008,Two Wheeler,8
+Mizoram,2009,Bicycle,0
+Mizoram,2009,Bus,9
+Mizoram,2009,Car,10
+Mizoram,2009,Jeep,5
+Mizoram,2009,Other Motor Vehicles,2
+Mizoram,2009,Others,10
+Mizoram,2009,Pedestrian,0
+Mizoram,2009,Three Wheeler,1
+Mizoram,2009,Truck/Lorry,22
+Mizoram,2009,Two Wheeler,4
+Mizoram,2010,Bicycle,0
+Mizoram,2010,Bus,23
+Mizoram,2010,Car,4
+Mizoram,2010,Jeep,5
+Mizoram,2010,Other Motor Vehicles,2
+Mizoram,2010,Others,12
+Mizoram,2010,Pedestrian,0
+Mizoram,2010,Three Wheeler,0
+Mizoram,2010,Truck/Lorry,22
+Mizoram,2010,Two Wheeler,14
+Mizoram,2011,Bicycle,2
+Mizoram,2011,Bus,21
+Mizoram,2011,Car,8
+Mizoram,2011,Jeep,2
+Mizoram,2011,Other Motor Vehicles,0
+Mizoram,2011,Others,5
+Mizoram,2011,Pedestrian,1
+Mizoram,2011,Three Wheeler,0
+Mizoram,2011,Truck/Lorry,30
+Mizoram,2011,Two Wheeler,12
+Mizoram,2012,Bicycle,0
+Mizoram,2012,Bus,4
+Mizoram,2012,Car,10
+Mizoram,2012,Jeep,9
+Mizoram,2012,Other Motor Vehicles,6
+Mizoram,2012,Others,1
+Mizoram,2012,Pedestrian,3
+Mizoram,2012,Three Wheeler,2
+Mizoram,2012,Truck/Lorry,18
+Mizoram,2012,Two Wheeler,24
+Mizoram,2013,Bicycle,0
+Mizoram,2013,Bus,7
+Mizoram,2013,Car,10
+Mizoram,2013,Jeep,5
+Mizoram,2013,Other Motor Vehicles,0
+Mizoram,2013,Others,23
+Mizoram,2013,Pedestrian,2
+Mizoram,2013,Three Wheeler,0
+Mizoram,2013,Truck/Lorry,24
+Mizoram,2013,Two Wheeler,26
+Mizoram,2014,Bicycle,0
+Mizoram,2014,Bus,5
+Mizoram,2014,Car,21
+Mizoram,2014,Jeep,4
+Mizoram,2014,Other Motor Vehicles,10
+Mizoram,2014,Others,0
+Mizoram,2014,Pedestrian,2
+Mizoram,2014,Three Wheeler,0
+Mizoram,2014,Truck/Lorry,32
+Mizoram,2014,Two Wheeler,19
+Nagaland,2001,Bicycle,0
+Nagaland,2001,Bus,15
+Nagaland,2001,Car,7
+Nagaland,2001,Jeep,1
+Nagaland,2001,Other Motor Vehicles,4
+Nagaland,2001,Others,1
+Nagaland,2001,Pedestrian,0
+Nagaland,2001,Three Wheeler,0
+Nagaland,2001,Truck/Lorry,34
+Nagaland,2001,Two Wheeler,3
+Nagaland,2002,Bicycle,1
+Nagaland,2002,Bus,9
+Nagaland,2002,Car,6
+Nagaland,2002,Jeep,2
+Nagaland,2002,Other Motor Vehicles,5
+Nagaland,2002,Others,0
+Nagaland,2002,Pedestrian,1
+Nagaland,2002,Three Wheeler,0
+Nagaland,2002,Truck/Lorry,14
+Nagaland,2002,Two Wheeler,0
+Nagaland,2003,Bicycle,0
+Nagaland,2003,Bus,11
+Nagaland,2003,Car,4
+Nagaland,2003,Jeep,4
+Nagaland,2003,Other Motor Vehicles,7
+Nagaland,2003,Others,0
+Nagaland,2003,Pedestrian,3
+Nagaland,2003,Three Wheeler,1
+Nagaland,2003,Truck/Lorry,30
+Nagaland,2003,Two Wheeler,5
+Nagaland,2004,Bicycle,0
+Nagaland,2004,Bus,21
+Nagaland,2004,Car,3
+Nagaland,2004,Jeep,4
+Nagaland,2004,Other Motor Vehicles,11
+Nagaland,2004,Others,3
+Nagaland,2004,Pedestrian,3
+Nagaland,2004,Three Wheeler,6
+Nagaland,2004,Truck/Lorry,10
+Nagaland,2004,Two Wheeler,2
+Nagaland,2005,Bicycle,0
+Nagaland,2005,Bus,5
+Nagaland,2005,Car,2
+Nagaland,2005,Jeep,5
+Nagaland,2005,Other Motor Vehicles,5
+Nagaland,2005,Others,2
+Nagaland,2005,Pedestrian,0
+Nagaland,2005,Three Wheeler,2
+Nagaland,2005,Truck/Lorry,18
+Nagaland,2005,Two Wheeler,3
+Nagaland,2006,Bicycle,1
+Nagaland,2006,Bus,13
+Nagaland,2006,Car,5
+Nagaland,2006,Jeep,5
+Nagaland,2006,Other Motor Vehicles,3
+Nagaland,2006,Others,2
+Nagaland,2006,Pedestrian,5
+Nagaland,2006,Three Wheeler,3
+Nagaland,2006,Truck/Lorry,18
+Nagaland,2006,Two Wheeler,7
+Nagaland,2007,Bicycle,1
+Nagaland,2007,Bus,38
+Nagaland,2007,Car,8
+Nagaland,2007,Jeep,4
+Nagaland,2007,Other Motor Vehicles,3
+Nagaland,2007,Others,5
+Nagaland,2007,Pedestrian,12
+Nagaland,2007,Three Wheeler,4
+Nagaland,2007,Truck/Lorry,10
+Nagaland,2007,Two Wheeler,7
+Nagaland,2008,Bicycle,4
+Nagaland,2008,Bus,24
+Nagaland,2008,Car,10
+Nagaland,2008,Jeep,4
+Nagaland,2008,Other Motor Vehicles,12
+Nagaland,2008,Others,2
+Nagaland,2008,Pedestrian,12
+Nagaland,2008,Three Wheeler,6
+Nagaland,2008,Truck/Lorry,28
+Nagaland,2008,Two Wheeler,14
+Nagaland,2009,Bicycle,2
+Nagaland,2009,Bus,10
+Nagaland,2009,Car,5
+Nagaland,2009,Jeep,1
+Nagaland,2009,Other Motor Vehicles,1
+Nagaland,2009,Others,2
+Nagaland,2009,Pedestrian,3
+Nagaland,2009,Three Wheeler,2
+Nagaland,2009,Truck/Lorry,21
+Nagaland,2009,Two Wheeler,3
+Nagaland,2010,Bicycle,1
+Nagaland,2010,Bus,8
+Nagaland,2010,Car,3
+Nagaland,2010,Jeep,6
+Nagaland,2010,Other Motor Vehicles,4
+Nagaland,2010,Others,1
+Nagaland,2010,Pedestrian,5
+Nagaland,2010,Three Wheeler,2
+Nagaland,2010,Truck/Lorry,13
+Nagaland,2010,Two Wheeler,1
+Nagaland,2011,Bicycle,0
+Nagaland,2011,Bus,4
+Nagaland,2011,Car,8
+Nagaland,2011,Jeep,7
+Nagaland,2011,Other Motor Vehicles,0
+Nagaland,2011,Others,3
+Nagaland,2011,Pedestrian,0
+Nagaland,2011,Three Wheeler,0
+Nagaland,2011,Truck/Lorry,13
+Nagaland,2011,Two Wheeler,1
+Nagaland,2012,Bicycle,2
+Nagaland,2012,Bus,10
+Nagaland,2012,Car,2
+Nagaland,2012,Jeep,2
+Nagaland,2012,Other Motor Vehicles,2
+Nagaland,2012,Others,1
+Nagaland,2012,Pedestrian,6
+Nagaland,2012,Three Wheeler,5
+Nagaland,2012,Truck/Lorry,21
+Nagaland,2012,Two Wheeler,5
+Nagaland,2013,Bicycle,0
+Nagaland,2013,Bus,4
+Nagaland,2013,Car,14
+Nagaland,2013,Jeep,0
+Nagaland,2013,Other Motor Vehicles,2
+Nagaland,2013,Others,0
+Nagaland,2013,Pedestrian,5
+Nagaland,2013,Three Wheeler,4
+Nagaland,2013,Truck/Lorry,1
+Nagaland,2013,Two Wheeler,5
+Nagaland,2014,Bicycle,0
+Nagaland,2014,Bus,1
+Nagaland,2014,Car,10
+Nagaland,2014,Jeep,0
+Nagaland,2014,Other Motor Vehicles,2
+Nagaland,2014,Others,0
+Nagaland,2014,Pedestrian,0
+Nagaland,2014,Three Wheeler,2
+Nagaland,2014,Truck/Lorry,3
+Nagaland,2014,Two Wheeler,3
+Odisha,2001,Bicycle,39
+Odisha,2001,Bus,278
+Odisha,2001,Car,144
+Odisha,2001,Jeep,192
+Odisha,2001,Other Motor Vehicles,66
+Odisha,2001,Others,184
+Odisha,2001,Pedestrian,57
+Odisha,2001,Three Wheeler,43
+Odisha,2001,Truck/Lorry,643
+Odisha,2001,Two Wheeler,294
+Odisha,2002,Bicycle,50
+Odisha,2002,Bus,297
+Odisha,2002,Car,138
+Odisha,2002,Jeep,164
+Odisha,2002,Other Motor Vehicles,67
+Odisha,2002,Others,255
+Odisha,2002,Pedestrian,76
+Odisha,2002,Three Wheeler,32
+Odisha,2002,Truck/Lorry,674
+Odisha,2002,Two Wheeler,372
+Odisha,2003,Bicycle,40
+Odisha,2003,Bus,250
+Odisha,2003,Car,124
+Odisha,2003,Jeep,232
+Odisha,2003,Other Motor Vehicles,42
+Odisha,2003,Others,326
+Odisha,2003,Pedestrian,80
+Odisha,2003,Three Wheeler,60
+Odisha,2003,Truck/Lorry,800
+Odisha,2003,Two Wheeler,367
+Odisha,2004,Bicycle,37
+Odisha,2004,Bus,294
+Odisha,2004,Car,159
+Odisha,2004,Jeep,217
+Odisha,2004,Other Motor Vehicles,82
+Odisha,2004,Others,225
+Odisha,2004,Pedestrian,84
+Odisha,2004,Three Wheeler,76
+Odisha,2004,Truck/Lorry,919
+Odisha,2004,Two Wheeler,379
+Odisha,2005,Bicycle,39
+Odisha,2005,Bus,280
+Odisha,2005,Car,278
+Odisha,2005,Jeep,184
+Odisha,2005,Other Motor Vehicles,139
+Odisha,2005,Others,306
+Odisha,2005,Pedestrian,57
+Odisha,2005,Three Wheeler,51
+Odisha,2005,Truck/Lorry,1057
+Odisha,2005,Two Wheeler,504
+Odisha,2006,Bicycle,21
+Odisha,2006,Bus,364
+Odisha,2006,Car,253
+Odisha,2006,Jeep,185
+Odisha,2006,Other Motor Vehicles,145
+Odisha,2006,Others,243
+Odisha,2006,Pedestrian,43
+Odisha,2006,Three Wheeler,57
+Odisha,2006,Truck/Lorry,949
+Odisha,2006,Two Wheeler,485
+Odisha,2007,Bicycle,29
+Odisha,2007,Bus,297
+Odisha,2007,Car,279
+Odisha,2007,Jeep,163
+Odisha,2007,Other Motor Vehicles,125
+Odisha,2007,Others,272
+Odisha,2007,Pedestrian,74
+Odisha,2007,Three Wheeler,46
+Odisha,2007,Truck/Lorry,1134
+Odisha,2007,Two Wheeler,639
+Odisha,2008,Bicycle,47
+Odisha,2008,Bus,341
+Odisha,2008,Car,241
+Odisha,2008,Jeep,169
+Odisha,2008,Other Motor Vehicles,144
+Odisha,2008,Others,385
+Odisha,2008,Pedestrian,130
+Odisha,2008,Three Wheeler,81
+Odisha,2008,Truck/Lorry,1051
+Odisha,2008,Two Wheeler,515
+Odisha,2009,Bicycle,49
+Odisha,2009,Bus,401
+Odisha,2009,Car,220
+Odisha,2009,Jeep,211
+Odisha,2009,Other Motor Vehicles,174
+Odisha,2009,Others,495
+Odisha,2009,Pedestrian,147
+Odisha,2009,Three Wheeler,94
+Odisha,2009,Truck/Lorry,1043
+Odisha,2009,Two Wheeler,715
+Odisha,2010,Bicycle,49
+Odisha,2010,Bus,332
+Odisha,2010,Car,325
+Odisha,2010,Jeep,201
+Odisha,2010,Other Motor Vehicles,177
+Odisha,2010,Others,554
+Odisha,2010,Pedestrian,117
+Odisha,2010,Three Wheeler,128
+Odisha,2010,Truck/Lorry,1516
+Odisha,2010,Two Wheeler,706
+Odisha,2011,Bicycle,34
+Odisha,2011,Bus,439
+Odisha,2011,Car,328
+Odisha,2011,Jeep,204
+Odisha,2011,Other Motor Vehicles,277
+Odisha,2011,Others,576
+Odisha,2011,Pedestrian,82
+Odisha,2011,Three Wheeler,109
+Odisha,2011,Truck/Lorry,1161
+Odisha,2011,Two Wheeler,587
+Odisha,2012,Bicycle,64
+Odisha,2012,Bus,313
+Odisha,2012,Car,346
+Odisha,2012,Jeep,144
+Odisha,2012,Other Motor Vehicles,247
+Odisha,2012,Others,396
+Odisha,2012,Pedestrian,119
+Odisha,2012,Three Wheeler,163
+Odisha,2012,Truck/Lorry,1105
+Odisha,2012,Two Wheeler,804
+Odisha,2013,Bicycle,66
+Odisha,2013,Bus,260
+Odisha,2013,Car,357
+Odisha,2013,Jeep,164
+Odisha,2013,Other Motor Vehicles,282
+Odisha,2013,Others,541
+Odisha,2013,Pedestrian,166
+Odisha,2013,Three Wheeler,215
+Odisha,2013,Truck/Lorry,962
+Odisha,2013,Two Wheeler,1049
+Odisha,2014,Bicycle,67
+Odisha,2014,Bus,381
+Odisha,2014,Car,497
+Odisha,2014,Jeep,155
+Odisha,2014,Other Motor Vehicles,213
+Odisha,2014,Others,79
+Odisha,2014,Pedestrian,148
+Odisha,2014,Three Wheeler,226
+Odisha,2014,Truck/Lorry,1111
+Odisha,2014,Two Wheeler,1043
+Puducherry,2001,Bicycle,42
+Puducherry,2001,Bus,8
+Puducherry,2001,Car,2
+Puducherry,2001,Jeep,0
+Puducherry,2001,Other Motor Vehicles,0
+Puducherry,2001,Others,2
+Puducherry,2001,Pedestrian,60
+Puducherry,2001,Three Wheeler,3
+Puducherry,2001,Truck/Lorry,6
+Puducherry,2001,Two Wheeler,47
+Puducherry,2002,Bicycle,43
+Puducherry,2002,Bus,11
+Puducherry,2002,Car,2
+Puducherry,2002,Jeep,1
+Puducherry,2002,Other Motor Vehicles,1
+Puducherry,2002,Others,3
+Puducherry,2002,Pedestrian,70
+Puducherry,2002,Three Wheeler,3
+Puducherry,2002,Truck/Lorry,2
+Puducherry,2002,Two Wheeler,56
+Puducherry,2003,Bicycle,29
+Puducherry,2003,Bus,3
+Puducherry,2003,Car,1
+Puducherry,2003,Jeep,0
+Puducherry,2003,Other Motor Vehicles,1
+Puducherry,2003,Others,3
+Puducherry,2003,Pedestrian,69
+Puducherry,2003,Three Wheeler,2
+Puducherry,2003,Truck/Lorry,8
+Puducherry,2003,Two Wheeler,72
+Puducherry,2004,Bicycle,0
+Puducherry,2004,Bus,35
+Puducherry,2004,Car,13
+Puducherry,2004,Jeep,4
+Puducherry,2004,Other Motor Vehicles,12
+Puducherry,2004,Others,6
+Puducherry,2004,Pedestrian,0
+Puducherry,2004,Three Wheeler,7
+Puducherry,2004,Truck/Lorry,61
+Puducherry,2004,Two Wheeler,42
+Puducherry,2005,Bicycle,0
+Puducherry,2005,Bus,42
+Puducherry,2005,Car,18
+Puducherry,2005,Jeep,2
+Puducherry,2005,Other Motor Vehicles,12
+Puducherry,2005,Others,13
+Puducherry,2005,Pedestrian,0
+Puducherry,2005,Three Wheeler,15
+Puducherry,2005,Truck/Lorry,59
+Puducherry,2005,Two Wheeler,65
+Puducherry,2006,Bicycle,0
+Puducherry,2006,Bus,48
+Puducherry,2006,Car,17
+Puducherry,2006,Jeep,1
+Puducherry,2006,Other Motor Vehicles,9
+Puducherry,2006,Others,10
+Puducherry,2006,Pedestrian,0
+Puducherry,2006,Three Wheeler,18
+Puducherry,2006,Truck/Lorry,54
+Puducherry,2006,Two Wheeler,60
+Puducherry,2007,Bicycle,32
+Puducherry,2007,Bus,15
+Puducherry,2007,Car,7
+Puducherry,2007,Jeep,0
+Puducherry,2007,Other Motor Vehicles,2
+Puducherry,2007,Others,1
+Puducherry,2007,Pedestrian,108
+Puducherry,2007,Three Wheeler,2
+Puducherry,2007,Truck/Lorry,8
+Puducherry,2007,Two Wheeler,80
+Puducherry,2008,Bicycle,0
+Puducherry,2008,Bus,39
+Puducherry,2008,Car,20
+Puducherry,2008,Jeep,1
+Puducherry,2008,Other Motor Vehicles,24
+Puducherry,2008,Others,9
+Puducherry,2008,Pedestrian,0
+Puducherry,2008,Three Wheeler,2
+Puducherry,2008,Truck/Lorry,46
+Puducherry,2008,Two Wheeler,71
+Puducherry,2009,Bicycle,1
+Puducherry,2009,Bus,46
+Puducherry,2009,Car,20
+Puducherry,2009,Jeep,0
+Puducherry,2009,Other Motor Vehicles,23
+Puducherry,2009,Others,22
+Puducherry,2009,Pedestrian,0
+Puducherry,2009,Three Wheeler,3
+Puducherry,2009,Truck/Lorry,33
+Puducherry,2009,Two Wheeler,70
+Puducherry,2010,Bicycle,0
+Puducherry,2010,Bus,44
+Puducherry,2010,Car,34
+Puducherry,2010,Jeep,1
+Puducherry,2010,Other Motor Vehicles,30
+Puducherry,2010,Others,21
+Puducherry,2010,Pedestrian,0
+Puducherry,2010,Three Wheeler,6
+Puducherry,2010,Truck/Lorry,40
+Puducherry,2010,Two Wheeler,63
+Puducherry,2011,Bicycle,0
+Puducherry,2011,Bus,38
+Puducherry,2011,Car,24
+Puducherry,2011,Jeep,0
+Puducherry,2011,Other Motor Vehicles,20
+Puducherry,2011,Others,25
+Puducherry,2011,Pedestrian,0
+Puducherry,2011,Three Wheeler,2
+Puducherry,2011,Truck/Lorry,50
+Puducherry,2011,Two Wheeler,74
+Puducherry,2012,Bicycle,0
+Puducherry,2012,Bus,42
+Puducherry,2012,Car,24
+Puducherry,2012,Jeep,0
+Puducherry,2012,Other Motor Vehicles,28
+Puducherry,2012,Others,31
+Puducherry,2012,Pedestrian,0
+Puducherry,2012,Three Wheeler,0
+Puducherry,2012,Truck/Lorry,44
+Puducherry,2012,Two Wheeler,64
+Puducherry,2013,Bicycle,0
+Puducherry,2013,Bus,40
+Puducherry,2013,Car,23
+Puducherry,2013,Jeep,1
+Puducherry,2013,Other Motor Vehicles,16
+Puducherry,2013,Others,28
+Puducherry,2013,Pedestrian,0
+Puducherry,2013,Three Wheeler,7
+Puducherry,2013,Truck/Lorry,35
+Puducherry,2013,Two Wheeler,78
+Puducherry,2014,Bicycle,4
+Puducherry,2014,Bus,19
+Puducherry,2014,Car,10
+Puducherry,2014,Jeep,0
+Puducherry,2014,Other Motor Vehicles,18
+Puducherry,2014,Others,29
+Puducherry,2014,Pedestrian,36
+Puducherry,2014,Three Wheeler,5
+Puducherry,2014,Truck/Lorry,17
+Puducherry,2014,Two Wheeler,65
+Punjab,2001,Bicycle,62
+Punjab,2001,Bus,258
+Punjab,2001,Car,166
+Punjab,2001,Jeep,117
+Punjab,2001,Other Motor Vehicles,139
+Punjab,2001,Others,90
+Punjab,2001,Pedestrian,70
+Punjab,2001,Three Wheeler,51
+Punjab,2001,Truck/Lorry,319
+Punjab,2001,Two Wheeler,237
+Punjab,2002,Bicycle,239
+Punjab,2002,Bus,245
+Punjab,2002,Car,235
+Punjab,2002,Jeep,121
+Punjab,2002,Other Motor Vehicles,147
+Punjab,2002,Others,83
+Punjab,2002,Pedestrian,71
+Punjab,2002,Three Wheeler,140
+Punjab,2002,Truck/Lorry,324
+Punjab,2002,Two Wheeler,3
+Punjab,2003,Bicycle,55
+Punjab,2003,Bus,214
+Punjab,2003,Car,221
+Punjab,2003,Jeep,98
+Punjab,2003,Other Motor Vehicles,126
+Punjab,2003,Others,83
+Punjab,2003,Pedestrian,40
+Punjab,2003,Three Wheeler,57
+Punjab,2003,Truck/Lorry,393
+Punjab,2003,Two Wheeler,270
+Punjab,2004,Bicycle,94
+Punjab,2004,Bus,228
+Punjab,2004,Car,265
+Punjab,2004,Jeep,88
+Punjab,2004,Other Motor Vehicles,158
+Punjab,2004,Others,150
+Punjab,2004,Pedestrian,71
+Punjab,2004,Three Wheeler,39
+Punjab,2004,Truck/Lorry,355
+Punjab,2004,Two Wheeler,407
+Punjab,2005,Bicycle,414
+Punjab,2005,Bus,215
+Punjab,2005,Car,286
+Punjab,2005,Jeep,84
+Punjab,2005,Other Motor Vehicles,156
+Punjab,2005,Others,93
+Punjab,2005,Pedestrian,0
+Punjab,2005,Three Wheeler,53
+Punjab,2005,Truck/Lorry,321
+Punjab,2005,Two Wheeler,0
+Punjab,2006,Bicycle,81
+Punjab,2006,Bus,200
+Punjab,2006,Car,311
+Punjab,2006,Jeep,101
+Punjab,2006,Other Motor Vehicles,112
+Punjab,2006,Others,262
+Punjab,2006,Pedestrian,76
+Punjab,2006,Three Wheeler,52
+Punjab,2006,Truck/Lorry,380
+Punjab,2006,Two Wheeler,473
+Punjab,2007,Bicycle,93
+Punjab,2007,Bus,238
+Punjab,2007,Car,347
+Punjab,2007,Jeep,106
+Punjab,2007,Other Motor Vehicles,136
+Punjab,2007,Others,230
+Punjab,2007,Pedestrian,113
+Punjab,2007,Three Wheeler,43
+Punjab,2007,Truck/Lorry,366
+Punjab,2007,Two Wheeler,483
+Punjab,2008,Bicycle,86
+Punjab,2008,Bus,210
+Punjab,2008,Car,293
+Punjab,2008,Jeep,92
+Punjab,2008,Other Motor Vehicles,90
+Punjab,2008,Others,274
+Punjab,2008,Pedestrian,131
+Punjab,2008,Three Wheeler,55
+Punjab,2008,Truck/Lorry,337
+Punjab,2008,Two Wheeler,487
+Punjab,2009,Bicycle,85
+Punjab,2009,Bus,217
+Punjab,2009,Car,399
+Punjab,2009,Jeep,129
+Punjab,2009,Other Motor Vehicles,122
+Punjab,2009,Others,244
+Punjab,2009,Pedestrian,156
+Punjab,2009,Three Wheeler,45
+Punjab,2009,Truck/Lorry,388
+Punjab,2009,Two Wheeler,607
+Punjab,2010,Bicycle,69
+Punjab,2010,Bus,196
+Punjab,2010,Car,370
+Punjab,2010,Jeep,102
+Punjab,2010,Other Motor Vehicles,149
+Punjab,2010,Others,334
+Punjab,2010,Pedestrian,78
+Punjab,2010,Three Wheeler,63
+Punjab,2010,Truck/Lorry,272
+Punjab,2010,Two Wheeler,500
+Punjab,2011,Bicycle,154
+Punjab,2011,Bus,441
+Punjab,2011,Car,817
+Punjab,2011,Jeep,318
+Punjab,2011,Other Motor Vehicles,299
+Punjab,2011,Others,542
+Punjab,2011,Pedestrian,242
+Punjab,2011,Three Wheeler,70
+Punjab,2011,Truck/Lorry,838
+Punjab,2011,Two Wheeler,1176
+Punjab,2012,Bicycle,143
+Punjab,2012,Bus,382
+Punjab,2012,Car,777
+Punjab,2012,Jeep,279
+Punjab,2012,Other Motor Vehicles,311
+Punjab,2012,Others,606
+Punjab,2012,Pedestrian,252
+Punjab,2012,Three Wheeler,98
+Punjab,2012,Truck/Lorry,798
+Punjab,2012,Two Wheeler,1149
+Punjab,2013,Bicycle,101
+Punjab,2013,Bus,472
+Punjab,2013,Car,864
+Punjab,2013,Jeep,221
+Punjab,2013,Other Motor Vehicles,290
+Punjab,2013,Others,688
+Punjab,2013,Pedestrian,132
+Punjab,2013,Three Wheeler,96
+Punjab,2013,Truck/Lorry,841
+Punjab,2013,Two Wheeler,883
+Punjab,2014,Bicycle,93
+Punjab,2014,Bus,498
+Punjab,2014,Car,1136
+Punjab,2014,Jeep,149
+Punjab,2014,Other Motor Vehicles,256
+Punjab,2014,Others,134
+Punjab,2014,Pedestrian,188
+Punjab,2014,Three Wheeler,103
+Punjab,2014,Truck/Lorry,927
+Punjab,2014,Two Wheeler,1137
+Rajasthan,2001,Bicycle,116
+Rajasthan,2001,Bus,574
+Rajasthan,2001,Car,252
+Rajasthan,2001,Jeep,1238
+Rajasthan,2001,Other Motor Vehicles,104
+Rajasthan,2001,Others,461
+Rajasthan,2001,Pedestrian,449
+Rajasthan,2001,Three Wheeler,74
+Rajasthan,2001,Truck/Lorry,1385
+Rajasthan,2001,Two Wheeler,534
+Rajasthan,2002,Bicycle,144
+Rajasthan,2002,Bus,646
+Rajasthan,2002,Car,225
+Rajasthan,2002,Jeep,1107
+Rajasthan,2002,Other Motor Vehicles,80
+Rajasthan,2002,Others,589
+Rajasthan,2002,Pedestrian,475
+Rajasthan,2002,Three Wheeler,77
+Rajasthan,2002,Truck/Lorry,1524
+Rajasthan,2002,Two Wheeler,668
+Rajasthan,2003,Bicycle,120
+Rajasthan,2003,Bus,599
+Rajasthan,2003,Car,267
+Rajasthan,2003,Jeep,1135
+Rajasthan,2003,Other Motor Vehicles,95
+Rajasthan,2003,Others,765
+Rajasthan,2003,Pedestrian,549
+Rajasthan,2003,Three Wheeler,120
+Rajasthan,2003,Truck/Lorry,1657
+Rajasthan,2003,Two Wheeler,718
+Rajasthan,2004,Bicycle,215
+Rajasthan,2004,Bus,506
+Rajasthan,2004,Car,369
+Rajasthan,2004,Jeep,1159
+Rajasthan,2004,Other Motor Vehicles,146
+Rajasthan,2004,Others,779
+Rajasthan,2004,Pedestrian,578
+Rajasthan,2004,Three Wheeler,138
+Rajasthan,2004,Truck/Lorry,1578
+Rajasthan,2004,Two Wheeler,1009
+Rajasthan,2005,Bicycle,83
+Rajasthan,2005,Bus,591
+Rajasthan,2005,Car,321
+Rajasthan,2005,Jeep,1178
+Rajasthan,2005,Other Motor Vehicles,132
+Rajasthan,2005,Others,1008
+Rajasthan,2005,Pedestrian,548
+Rajasthan,2005,Three Wheeler,142
+Rajasthan,2005,Truck/Lorry,1837
+Rajasthan,2005,Two Wheeler,953
+Rajasthan,2006,Bicycle,120
+Rajasthan,2006,Bus,619
+Rajasthan,2006,Car,370
+Rajasthan,2006,Jeep,1378
+Rajasthan,2006,Other Motor Vehicles,34
+Rajasthan,2006,Others,936
+Rajasthan,2006,Pedestrian,785
+Rajasthan,2006,Three Wheeler,212
+Rajasthan,2006,Truck/Lorry,1591
+Rajasthan,2006,Two Wheeler,1109
+Rajasthan,2007,Bicycle,112
+Rajasthan,2007,Bus,578
+Rajasthan,2007,Car,399
+Rajasthan,2007,Jeep,1323
+Rajasthan,2007,Other Motor Vehicles,253
+Rajasthan,2007,Others,1415
+Rajasthan,2007,Pedestrian,745
+Rajasthan,2007,Three Wheeler,182
+Rajasthan,2007,Truck/Lorry,1722
+Rajasthan,2007,Two Wheeler,1416
+Rajasthan,2008,Bicycle,105
+Rajasthan,2008,Bus,756
+Rajasthan,2008,Car,541
+Rajasthan,2008,Jeep,1271
+Rajasthan,2008,Other Motor Vehicles,308
+Rajasthan,2008,Others,1234
+Rajasthan,2008,Pedestrian,687
+Rajasthan,2008,Three Wheeler,202
+Rajasthan,2008,Truck/Lorry,1631
+Rajasthan,2008,Two Wheeler,1653
+Rajasthan,2009,Bicycle,103
+Rajasthan,2009,Bus,720
+Rajasthan,2009,Car,504
+Rajasthan,2009,Jeep,1390
+Rajasthan,2009,Other Motor Vehicles,194
+Rajasthan,2009,Others,1714
+Rajasthan,2009,Pedestrian,615
+Rajasthan,2009,Three Wheeler,290
+Rajasthan,2009,Truck/Lorry,1841
+Rajasthan,2009,Two Wheeler,1674
+Rajasthan,2010,Bicycle,132
+Rajasthan,2010,Bus,757
+Rajasthan,2010,Car,647
+Rajasthan,2010,Jeep,1312
+Rajasthan,2010,Other Motor Vehicles,314
+Rajasthan,2010,Others,1257
+Rajasthan,2010,Pedestrian,892
+Rajasthan,2010,Three Wheeler,223
+Rajasthan,2010,Truck/Lorry,1636
+Rajasthan,2010,Two Wheeler,1993
+Rajasthan,2011,Bicycle,133
+Rajasthan,2011,Bus,716
+Rajasthan,2011,Car,752
+Rajasthan,2011,Jeep,1411
+Rajasthan,2011,Other Motor Vehicles,264
+Rajasthan,2011,Others,1184
+Rajasthan,2011,Pedestrian,926
+Rajasthan,2011,Three Wheeler,233
+Rajasthan,2011,Truck/Lorry,1616
+Rajasthan,2011,Two Wheeler,1997
+Rajasthan,2012,Bicycle,119
+Rajasthan,2012,Bus,825
+Rajasthan,2012,Car,791
+Rajasthan,2012,Jeep,1351
+Rajasthan,2012,Other Motor Vehicles,190
+Rajasthan,2012,Others,1276
+Rajasthan,2012,Pedestrian,1082
+Rajasthan,2012,Three Wheeler,182
+Rajasthan,2012,Truck/Lorry,1516
+Rajasthan,2012,Two Wheeler,2196
+Rajasthan,2013,Bicycle,100
+Rajasthan,2013,Bus,683
+Rajasthan,2013,Car,964
+Rajasthan,2013,Jeep,1296
+Rajasthan,2013,Other Motor Vehicles,266
+Rajasthan,2013,Others,1095
+Rajasthan,2013,Pedestrian,1066
+Rajasthan,2013,Three Wheeler,126
+Rajasthan,2013,Truck/Lorry,1640
+Rajasthan,2013,Two Wheeler,2488
+Rajasthan,2014,Bicycle,106
+Rajasthan,2014,Bus,783
+Rajasthan,2014,Car,1320
+Rajasthan,2014,Jeep,1015
+Rajasthan,2014,Other Motor Vehicles,1199
+Rajasthan,2014,Others,84
+Rajasthan,2014,Pedestrian,440
+Rajasthan,2014,Three Wheeler,246
+Rajasthan,2014,Truck/Lorry,2774
+Rajasthan,2014,Two Wheeler,2320
+Sikkim,2001,Bicycle,0
+Sikkim,2001,Bus,0
+Sikkim,2001,Car,3
+Sikkim,2001,Jeep,33
+Sikkim,2001,Other Motor Vehicles,1
+Sikkim,2001,Others,0
+Sikkim,2001,Pedestrian,0
+Sikkim,2001,Three Wheeler,0
+Sikkim,2001,Truck/Lorry,7
+Sikkim,2001,Two Wheeler,1
+Sikkim,2002,Bicycle,0
+Sikkim,2002,Bus,0
+Sikkim,2002,Car,0
+Sikkim,2002,Jeep,34
+Sikkim,2002,Other Motor Vehicles,3
+Sikkim,2002,Others,6
+Sikkim,2002,Pedestrian,3
+Sikkim,2002,Three Wheeler,0
+Sikkim,2002,Truck/Lorry,7
+Sikkim,2002,Two Wheeler,2
+Sikkim,2003,Bicycle,0
+Sikkim,2003,Bus,0
+Sikkim,2003,Car,2
+Sikkim,2003,Jeep,29
+Sikkim,2003,Other Motor Vehicles,0
+Sikkim,2003,Others,0
+Sikkim,2003,Pedestrian,2
+Sikkim,2003,Three Wheeler,0
+Sikkim,2003,Truck/Lorry,5
+Sikkim,2003,Two Wheeler,2
+Sikkim,2004,Bicycle,0
+Sikkim,2004,Bus,0
+Sikkim,2004,Car,0
+Sikkim,2004,Jeep,43
+Sikkim,2004,Other Motor Vehicles,2
+Sikkim,2004,Others,0
+Sikkim,2004,Pedestrian,0
+Sikkim,2004,Three Wheeler,0
+Sikkim,2004,Truck/Lorry,3
+Sikkim,2004,Two Wheeler,3
+Sikkim,2005,Bicycle,0
+Sikkim,2005,Bus,0
+Sikkim,2005,Car,2
+Sikkim,2005,Jeep,50
+Sikkim,2005,Other Motor Vehicles,2
+Sikkim,2005,Others,1
+Sikkim,2005,Pedestrian,2
+Sikkim,2005,Three Wheeler,0
+Sikkim,2005,Truck/Lorry,19
+Sikkim,2005,Two Wheeler,1
+Sikkim,2006,Bicycle,0
+Sikkim,2006,Bus,32
+Sikkim,2006,Car,6
+Sikkim,2006,Jeep,28
+Sikkim,2006,Other Motor Vehicles,0
+Sikkim,2006,Others,0
+Sikkim,2006,Pedestrian,0
+Sikkim,2006,Three Wheeler,0
+Sikkim,2006,Truck/Lorry,22
+Sikkim,2006,Two Wheeler,0
+Sikkim,2007,Bicycle,0
+Sikkim,2007,Bus,13
+Sikkim,2007,Car,6
+Sikkim,2007,Jeep,14
+Sikkim,2007,Other Motor Vehicles,0
+Sikkim,2007,Others,7
+Sikkim,2007,Pedestrian,0
+Sikkim,2007,Three Wheeler,0
+Sikkim,2007,Truck/Lorry,10
+Sikkim,2007,Two Wheeler,2
+Sikkim,2008,Bicycle,0
+Sikkim,2008,Bus,0
+Sikkim,2008,Car,0
+Sikkim,2008,Jeep,0
+Sikkim,2008,Other Motor Vehicles,0
+Sikkim,2008,Others,68
+Sikkim,2008,Pedestrian,0
+Sikkim,2008,Three Wheeler,0
+Sikkim,2008,Truck/Lorry,10
+Sikkim,2008,Two Wheeler,1
+Sikkim,2009,Bicycle,0
+Sikkim,2009,Bus,0
+Sikkim,2009,Car,2
+Sikkim,2009,Jeep,82
+Sikkim,2009,Other Motor Vehicles,0
+Sikkim,2009,Others,1
+Sikkim,2009,Pedestrian,1
+Sikkim,2009,Three Wheeler,0
+Sikkim,2009,Truck/Lorry,1
+Sikkim,2009,Two Wheeler,0
+Sikkim,2010,Bicycle,0
+Sikkim,2010,Bus,0
+Sikkim,2010,Car,5
+Sikkim,2010,Jeep,66
+Sikkim,2010,Other Motor Vehicles,0
+Sikkim,2010,Others,0
+Sikkim,2010,Pedestrian,0
+Sikkim,2010,Three Wheeler,0
+Sikkim,2010,Truck/Lorry,0
+Sikkim,2010,Two Wheeler,0
+Sikkim,2011,Bicycle,0
+Sikkim,2011,Bus,0
+Sikkim,2011,Car,5
+Sikkim,2011,Jeep,97
+Sikkim,2011,Other Motor Vehicles,0
+Sikkim,2011,Others,0
+Sikkim,2011,Pedestrian,0
+Sikkim,2011,Three Wheeler,0
+Sikkim,2011,Truck/Lorry,4
+Sikkim,2011,Two Wheeler,0
+Sikkim,2012,Bicycle,1
+Sikkim,2012,Bus,0
+Sikkim,2012,Car,2
+Sikkim,2012,Jeep,25
+Sikkim,2012,Other Motor Vehicles,2
+Sikkim,2012,Others,0
+Sikkim,2012,Pedestrian,0
+Sikkim,2012,Three Wheeler,0
+Sikkim,2012,Truck/Lorry,13
+Sikkim,2012,Two Wheeler,1
+Sikkim,2013,Bicycle,0
+Sikkim,2013,Bus,0
+Sikkim,2013,Car,13
+Sikkim,2013,Jeep,33
+Sikkim,2013,Other Motor Vehicles,0
+Sikkim,2013,Others,12
+Sikkim,2013,Pedestrian,2
+Sikkim,2013,Three Wheeler,0
+Sikkim,2013,Truck/Lorry,4
+Sikkim,2013,Two Wheeler,4
+Sikkim,2014,Bicycle,0
+Sikkim,2014,Bus,0
+Sikkim,2014,Car,38
+Sikkim,2014,Jeep,0
+Sikkim,2014,Other Motor Vehicles,6
+Sikkim,2014,Others,0
+Sikkim,2014,Pedestrian,0
+Sikkim,2014,Three Wheeler,0
+Sikkim,2014,Truck/Lorry,14
+Sikkim,2014,Two Wheeler,4
+Tamil Nadu,2001,Bicycle,112
+Tamil Nadu,2001,Bus,2245
+Tamil Nadu,2001,Car,712
+Tamil Nadu,2001,Jeep,243
+Tamil Nadu,2001,Other Motor Vehicles,1103
+Tamil Nadu,2001,Others,524
+Tamil Nadu,2001,Pedestrian,180
+Tamil Nadu,2001,Three Wheeler,201
+Tamil Nadu,2001,Truck/Lorry,3206
+Tamil Nadu,2001,Two Wheeler,1045
+Tamil Nadu,2002,Bicycle,183
+Tamil Nadu,2002,Bus,2334
+Tamil Nadu,2002,Car,963
+Tamil Nadu,2002,Jeep,176
+Tamil Nadu,2002,Other Motor Vehicles,1009
+Tamil Nadu,2002,Others,312
+Tamil Nadu,2002,Pedestrian,427
+Tamil Nadu,2002,Three Wheeler,253
+Tamil Nadu,2002,Truck/Lorry,3098
+Tamil Nadu,2002,Two Wheeler,1184
+Tamil Nadu,2003,Bicycle,94
+Tamil Nadu,2003,Bus,2047
+Tamil Nadu,2003,Car,956
+Tamil Nadu,2003,Jeep,169
+Tamil Nadu,2003,Other Motor Vehicles,907
+Tamil Nadu,2003,Others,211
+Tamil Nadu,2003,Pedestrian,484
+Tamil Nadu,2003,Three Wheeler,317
+Tamil Nadu,2003,Truck/Lorry,2872
+Tamil Nadu,2003,Two Wheeler,1218
+Tamil Nadu,2004,Bicycle,163
+Tamil Nadu,2004,Bus,1933
+Tamil Nadu,2004,Car,1060
+Tamil Nadu,2004,Jeep,112
+Tamil Nadu,2004,Other Motor Vehicles,979
+Tamil Nadu,2004,Others,382
+Tamil Nadu,2004,Pedestrian,366
+Tamil Nadu,2004,Three Wheeler,360
+Tamil Nadu,2004,Truck/Lorry,2728
+Tamil Nadu,2004,Two Wheeler,1424
+Tamil Nadu,2005,Bicycle,346
+Tamil Nadu,2005,Bus,3008
+Tamil Nadu,2005,Car,1675
+Tamil Nadu,2005,Jeep,101
+Tamil Nadu,2005,Other Motor Vehicles,1554
+Tamil Nadu,2005,Others,375
+Tamil Nadu,2005,Pedestrian,909
+Tamil Nadu,2005,Three Wheeler,546
+Tamil Nadu,2005,Truck/Lorry,3119
+Tamil Nadu,2005,Two Wheeler,2328
+Tamil Nadu,2006,Bicycle,348
+Tamil Nadu,2006,Bus,2338
+Tamil Nadu,2006,Car,2110
+Tamil Nadu,2006,Jeep,178
+Tamil Nadu,2006,Other Motor Vehicles,326
+Tamil Nadu,2006,Others,0
+Tamil Nadu,2006,Pedestrian,379
+Tamil Nadu,2006,Three Wheeler,554
+Tamil Nadu,2006,Truck/Lorry,2604
+Tamil Nadu,2006,Two Wheeler,2172
+Tamil Nadu,2007,Bicycle,372
+Tamil Nadu,2007,Bus,2561
+Tamil Nadu,2007,Car,2276
+Tamil Nadu,2007,Jeep,190
+Tamil Nadu,2007,Other Motor Vehicles,408
+Tamil Nadu,2007,Others,0
+Tamil Nadu,2007,Pedestrian,434
+Tamil Nadu,2007,Three Wheeler,621
+Tamil Nadu,2007,Truck/Lorry,2794
+Tamil Nadu,2007,Two Wheeler,2380
+Tamil Nadu,2008,Bicycle,811
+Tamil Nadu,2008,Bus,2476
+Tamil Nadu,2008,Car,2054
+Tamil Nadu,2008,Jeep,229
+Tamil Nadu,2008,Other Motor Vehicles,434
+Tamil Nadu,2008,Others,0
+Tamil Nadu,2008,Pedestrian,662
+Tamil Nadu,2008,Three Wheeler,538
+Tamil Nadu,2008,Truck/Lorry,2925
+Tamil Nadu,2008,Two Wheeler,2655
+Tamil Nadu,2009,Bicycle,351
+Tamil Nadu,2009,Bus,2526
+Tamil Nadu,2009,Car,2766
+Tamil Nadu,2009,Jeep,209
+Tamil Nadu,2009,Other Motor Vehicles,782
+Tamil Nadu,2009,Others,143
+Tamil Nadu,2009,Pedestrian,178
+Tamil Nadu,2009,Three Wheeler,498
+Tamil Nadu,2009,Truck/Lorry,3042
+Tamil Nadu,2009,Two Wheeler,3251
+Tamil Nadu,2010,Bicycle,287
+Tamil Nadu,2010,Bus,2553
+Tamil Nadu,2010,Car,1958
+Tamil Nadu,2010,Jeep,197
+Tamil Nadu,2010,Other Motor Vehicles,1496
+Tamil Nadu,2010,Others,411
+Tamil Nadu,2010,Pedestrian,1093
+Tamil Nadu,2010,Three Wheeler,474
+Tamil Nadu,2010,Truck/Lorry,3105
+Tamil Nadu,2010,Two Wheeler,3835
+Tamil Nadu,2011,Bicycle,341
+Tamil Nadu,2011,Bus,2316
+Tamil Nadu,2011,Car,2113
+Tamil Nadu,2011,Jeep,280
+Tamil Nadu,2011,Other Motor Vehicles,1224
+Tamil Nadu,2011,Others,699
+Tamil Nadu,2011,Pedestrian,1048
+Tamil Nadu,2011,Three Wheeler,431
+Tamil Nadu,2011,Truck/Lorry,3108
+Tamil Nadu,2011,Two Wheeler,3862
+Tamil Nadu,2012,Bicycle,559
+Tamil Nadu,2012,Bus,2196
+Tamil Nadu,2012,Car,2531
+Tamil Nadu,2012,Jeep,324
+Tamil Nadu,2012,Other Motor Vehicles,1055
+Tamil Nadu,2012,Others,893
+Tamil Nadu,2012,Pedestrian,734
+Tamil Nadu,2012,Three Wheeler,390
+Tamil Nadu,2012,Truck/Lorry,3027
+Tamil Nadu,2012,Two Wheeler,4466
+Tamil Nadu,2013,Bicycle,348
+Tamil Nadu,2013,Bus,2059
+Tamil Nadu,2013,Car,2403
+Tamil Nadu,2013,Jeep,206
+Tamil Nadu,2013,Other Motor Vehicles,1099
+Tamil Nadu,2013,Others,952
+Tamil Nadu,2013,Pedestrian,729
+Tamil Nadu,2013,Three Wheeler,415
+Tamil Nadu,2013,Truck/Lorry,2885
+Tamil Nadu,2013,Two Wheeler,4467
+Tamil Nadu,2014,Bicycle,54
+Tamil Nadu,2014,Bus,1983
+Tamil Nadu,2014,Car,3121
+Tamil Nadu,2014,Jeep,254
+Tamil Nadu,2014,Other Motor Vehicles,542
+Tamil Nadu,2014,Others,338
+Tamil Nadu,2014,Pedestrian,275
+Tamil Nadu,2014,Three Wheeler,313
+Tamil Nadu,2014,Truck/Lorry,2924
+Tamil Nadu,2014,Two Wheeler,5386
+Telangana,2014,Bicycle,24
+Telangana,2014,Bus,643
+Telangana,2014,Car,931
+Telangana,2014,Jeep,225
+Telangana,2014,Other Motor Vehicles,840
+Telangana,2014,Others,300
+Telangana,2014,Pedestrian,96
+Telangana,2014,Three Wheeler,632
+Telangana,2014,Truck/Lorry,1717
+Telangana,2014,Two Wheeler,1498
+Tripura,2001,Bicycle,0
+Tripura,2001,Bus,20
+Tripura,2001,Car,0
+Tripura,2001,Jeep,97
+Tripura,2001,Other Motor Vehicles,3
+Tripura,2001,Others,0
+Tripura,2001,Pedestrian,0
+Tripura,2001,Three Wheeler,11
+Tripura,2001,Truck/Lorry,40
+Tripura,2001,Two Wheeler,4
+Tripura,2002,Bicycle,4
+Tripura,2002,Bus,21
+Tripura,2002,Car,4
+Tripura,2002,Jeep,49
+Tripura,2002,Other Motor Vehicles,5
+Tripura,2002,Others,10
+Tripura,2002,Pedestrian,18
+Tripura,2002,Three Wheeler,6
+Tripura,2002,Truck/Lorry,33
+Tripura,2002,Two Wheeler,7
+Tripura,2003,Bicycle,0
+Tripura,2003,Bus,20
+Tripura,2003,Car,25
+Tripura,2003,Jeep,25
+Tripura,2003,Other Motor Vehicles,0
+Tripura,2003,Others,45
+Tripura,2003,Pedestrian,0
+Tripura,2003,Three Wheeler,0
+Tripura,2003,Truck/Lorry,25
+Tripura,2003,Two Wheeler,28
+Tripura,2004,Bicycle,1
+Tripura,2004,Bus,18
+Tripura,2004,Car,9
+Tripura,2004,Jeep,63
+Tripura,2004,Other Motor Vehicles,18
+Tripura,2004,Others,37
+Tripura,2004,Pedestrian,0
+Tripura,2004,Three Wheeler,3
+Tripura,2004,Truck/Lorry,28
+Tripura,2004,Two Wheeler,2
+Tripura,2005,Bicycle,2
+Tripura,2005,Bus,21
+Tripura,2005,Car,9
+Tripura,2005,Jeep,48
+Tripura,2005,Other Motor Vehicles,12
+Tripura,2005,Others,49
+Tripura,2005,Pedestrian,0
+Tripura,2005,Three Wheeler,13
+Tripura,2005,Truck/Lorry,41
+Tripura,2005,Two Wheeler,9
+Tripura,2006,Bicycle,1
+Tripura,2006,Bus,2
+Tripura,2006,Car,5
+Tripura,2006,Jeep,74
+Tripura,2006,Other Motor Vehicles,0
+Tripura,2006,Others,22
+Tripura,2006,Pedestrian,7
+Tripura,2006,Three Wheeler,48
+Tripura,2006,Truck/Lorry,27
+Tripura,2006,Two Wheeler,10
+Tripura,2007,Bicycle,0
+Tripura,2007,Bus,30
+Tripura,2007,Car,22
+Tripura,2007,Jeep,52
+Tripura,2007,Other Motor Vehicles,3
+Tripura,2007,Others,19
+Tripura,2007,Pedestrian,14
+Tripura,2007,Three Wheeler,20
+Tripura,2007,Truck/Lorry,43
+Tripura,2007,Two Wheeler,20
+Tripura,2008,Bicycle,0
+Tripura,2008,Bus,10
+Tripura,2008,Car,6
+Tripura,2008,Jeep,53
+Tripura,2008,Other Motor Vehicles,6
+Tripura,2008,Others,27
+Tripura,2008,Pedestrian,10
+Tripura,2008,Three Wheeler,23
+Tripura,2008,Truck/Lorry,61
+Tripura,2008,Two Wheeler,25
+Tripura,2009,Bicycle,8
+Tripura,2009,Bus,14
+Tripura,2009,Car,19
+Tripura,2009,Jeep,28
+Tripura,2009,Other Motor Vehicles,18
+Tripura,2009,Others,1
+Tripura,2009,Pedestrian,59
+Tripura,2009,Three Wheeler,18
+Tripura,2009,Truck/Lorry,32
+Tripura,2009,Two Wheeler,32
+Tripura,2010,Bicycle,9
+Tripura,2010,Bus,17
+Tripura,2010,Car,11
+Tripura,2010,Jeep,55
+Tripura,2010,Other Motor Vehicles,26
+Tripura,2010,Others,10
+Tripura,2010,Pedestrian,10
+Tripura,2010,Three Wheeler,7
+Tripura,2010,Truck/Lorry,48
+Tripura,2010,Two Wheeler,43
+Tripura,2011,Bicycle,6
+Tripura,2011,Bus,23
+Tripura,2011,Car,15
+Tripura,2011,Jeep,45
+Tripura,2011,Other Motor Vehicles,23
+Tripura,2011,Others,8
+Tripura,2011,Pedestrian,13
+Tripura,2011,Three Wheeler,16
+Tripura,2011,Truck/Lorry,49
+Tripura,2011,Two Wheeler,47
+Tripura,2012,Bicycle,3
+Tripura,2012,Bus,17
+Tripura,2012,Car,15
+Tripura,2012,Jeep,50
+Tripura,2012,Other Motor Vehicles,9
+Tripura,2012,Others,86
+Tripura,2012,Pedestrian,25
+Tripura,2012,Three Wheeler,21
+Tripura,2012,Truck/Lorry,0
+Tripura,2012,Two Wheeler,46
+Tripura,2013,Bicycle,0
+Tripura,2013,Bus,28
+Tripura,2013,Car,24
+Tripura,2013,Jeep,36
+Tripura,2013,Other Motor Vehicles,12
+Tripura,2013,Others,18
+Tripura,2013,Pedestrian,0
+Tripura,2013,Three Wheeler,35
+Tripura,2013,Truck/Lorry,35
+Tripura,2013,Two Wheeler,38
+Tripura,2014,Bicycle,1
+Tripura,2014,Bus,10
+Tripura,2014,Car,19
+Tripura,2014,Jeep,29
+Tripura,2014,Other Motor Vehicles,21
+Tripura,2014,Others,6
+Tripura,2014,Pedestrian,11
+Tripura,2014,Three Wheeler,17
+Tripura,2014,Truck/Lorry,37
+Tripura,2014,Two Wheeler,37
+Uttar Pradesh,2001,Bicycle,403
+Uttar Pradesh,2001,Bus,1262
+Uttar Pradesh,2001,Car,692
+Uttar Pradesh,2001,Jeep,1448
+Uttar Pradesh,2001,Other Motor Vehicles,759
+Uttar Pradesh,2001,Others,330
+Uttar Pradesh,2001,Pedestrian,960
+Uttar Pradesh,2001,Three Wheeler,439
+Uttar Pradesh,2001,Truck/Lorry,2140
+Uttar Pradesh,2001,Two Wheeler,763
+Uttar Pradesh,2002,Bicycle,438
+Uttar Pradesh,2002,Bus,1147
+Uttar Pradesh,2002,Car,697
+Uttar Pradesh,2002,Jeep,1425
+Uttar Pradesh,2002,Other Motor Vehicles,786
+Uttar Pradesh,2002,Others,365
+Uttar Pradesh,2002,Pedestrian,768
+Uttar Pradesh,2002,Three Wheeler,355
+Uttar Pradesh,2002,Truck/Lorry,2425
+Uttar Pradesh,2002,Two Wheeler,1039
+Uttar Pradesh,2003,Bicycle,509
+Uttar Pradesh,2003,Bus,958
+Uttar Pradesh,2003,Car,472
+Uttar Pradesh,2003,Jeep,1180
+Uttar Pradesh,2003,Other Motor Vehicles,564
+Uttar Pradesh,2003,Others,279
+Uttar Pradesh,2003,Pedestrian,721
+Uttar Pradesh,2003,Three Wheeler,348
+Uttar Pradesh,2003,Truck/Lorry,1678
+Uttar Pradesh,2003,Two Wheeler,1228
+Uttar Pradesh,2004,Bicycle,680
+Uttar Pradesh,2004,Bus,985
+Uttar Pradesh,2004,Car,642
+Uttar Pradesh,2004,Jeep,1370
+Uttar Pradesh,2004,Other Motor Vehicles,879
+Uttar Pradesh,2004,Others,275
+Uttar Pradesh,2004,Pedestrian,876
+Uttar Pradesh,2004,Three Wheeler,393
+Uttar Pradesh,2004,Truck/Lorry,2543
+Uttar Pradesh,2004,Two Wheeler,1539
+Uttar Pradesh,2005,Bicycle,643
+Uttar Pradesh,2005,Bus,1045
+Uttar Pradesh,2005,Car,720
+Uttar Pradesh,2005,Jeep,1371
+Uttar Pradesh,2005,Other Motor Vehicles,862
+Uttar Pradesh,2005,Others,258
+Uttar Pradesh,2005,Pedestrian,719
+Uttar Pradesh,2005,Three Wheeler,418
+Uttar Pradesh,2005,Truck/Lorry,2251
+Uttar Pradesh,2005,Two Wheeler,1573
+Uttar Pradesh,2006,Bicycle,617
+Uttar Pradesh,2006,Bus,1245
+Uttar Pradesh,2006,Car,1275
+Uttar Pradesh,2006,Jeep,1517
+Uttar Pradesh,2006,Other Motor Vehicles,856
+Uttar Pradesh,2006,Others,326
+Uttar Pradesh,2006,Pedestrian,740
+Uttar Pradesh,2006,Three Wheeler,461
+Uttar Pradesh,2006,Truck/Lorry,2759
+Uttar Pradesh,2006,Two Wheeler,1724
+Uttar Pradesh,2007,Bicycle,717
+Uttar Pradesh,2007,Bus,1329
+Uttar Pradesh,2007,Car,927
+Uttar Pradesh,2007,Jeep,1669
+Uttar Pradesh,2007,Other Motor Vehicles,1029
+Uttar Pradesh,2007,Others,529
+Uttar Pradesh,2007,Pedestrian,937
+Uttar Pradesh,2007,Three Wheeler,582
+Uttar Pradesh,2007,Truck/Lorry,2758
+Uttar Pradesh,2007,Two Wheeler,2078
+Uttar Pradesh,2008,Bicycle,664
+Uttar Pradesh,2008,Bus,1105
+Uttar Pradesh,2008,Car,1104
+Uttar Pradesh,2008,Jeep,1508
+Uttar Pradesh,2008,Other Motor Vehicles,1009
+Uttar Pradesh,2008,Others,257
+Uttar Pradesh,2008,Pedestrian,899
+Uttar Pradesh,2008,Three Wheeler,577
+Uttar Pradesh,2008,Truck/Lorry,2830
+Uttar Pradesh,2008,Two Wheeler,2120
+Uttar Pradesh,2009,Bicycle,804
+Uttar Pradesh,2009,Bus,1370
+Uttar Pradesh,2009,Car,1299
+Uttar Pradesh,2009,Jeep,1738
+Uttar Pradesh,2009,Other Motor Vehicles,1150
+Uttar Pradesh,2009,Others,913
+Uttar Pradesh,2009,Pedestrian,1328
+Uttar Pradesh,2009,Three Wheeler,639
+Uttar Pradesh,2009,Truck/Lorry,2782
+Uttar Pradesh,2009,Two Wheeler,2806
+Uttar Pradesh,2010,Bicycle,779
+Uttar Pradesh,2010,Bus,1564
+Uttar Pradesh,2010,Car,1311
+Uttar Pradesh,2010,Jeep,1650
+Uttar Pradesh,2010,Other Motor Vehicles,1513
+Uttar Pradesh,2010,Others,618
+Uttar Pradesh,2010,Pedestrian,1011
+Uttar Pradesh,2010,Three Wheeler,694
+Uttar Pradesh,2010,Truck/Lorry,3400
+Uttar Pradesh,2010,Two Wheeler,2559
+Uttar Pradesh,2011,Bicycle,811
+Uttar Pradesh,2011,Bus,1367
+Uttar Pradesh,2011,Car,1403
+Uttar Pradesh,2011,Jeep,1313
+Uttar Pradesh,2011,Other Motor Vehicles,1340
+Uttar Pradesh,2011,Others,607
+Uttar Pradesh,2011,Pedestrian,1415
+Uttar Pradesh,2011,Three Wheeler,830
+Uttar Pradesh,2011,Truck/Lorry,3090
+Uttar Pradesh,2011,Two Wheeler,2820
+Uttar Pradesh,2012,Bicycle,611
+Uttar Pradesh,2012,Bus,1784
+Uttar Pradesh,2012,Car,1329
+Uttar Pradesh,2012,Jeep,1483
+Uttar Pradesh,2012,Other Motor Vehicles,1195
+Uttar Pradesh,2012,Others,737
+Uttar Pradesh,2012,Pedestrian,798
+Uttar Pradesh,2012,Three Wheeler,913
+Uttar Pradesh,2012,Truck/Lorry,3571
+Uttar Pradesh,2012,Two Wheeler,2688
+Uttar Pradesh,2013,Bicycle,553
+Uttar Pradesh,2013,Bus,1659
+Uttar Pradesh,2013,Car,1613
+Uttar Pradesh,2013,Jeep,1274
+Uttar Pradesh,2013,Other Motor Vehicles,1376
+Uttar Pradesh,2013,Others,923
+Uttar Pradesh,2013,Pedestrian,1025
+Uttar Pradesh,2013,Three Wheeler,814
+Uttar Pradesh,2013,Truck/Lorry,3319
+Uttar Pradesh,2013,Two Wheeler,3074
+Uttar Pradesh,2014,Bicycle,160
+Uttar Pradesh,2014,Bus,1670
+Uttar Pradesh,2014,Car,2271
+Uttar Pradesh,2014,Jeep,845
+Uttar Pradesh,2014,Other Motor Vehicles,646
+Uttar Pradesh,2014,Others,798
+Uttar Pradesh,2014,Pedestrian,205
+Uttar Pradesh,2014,Three Wheeler,977
+Uttar Pradesh,2014,Truck/Lorry,5710
+Uttar Pradesh,2014,Two Wheeler,3002
+Uttarakhand,2001,Bicycle,7
+Uttarakhand,2001,Bus,149
+Uttarakhand,2001,Car,47
+Uttarakhand,2001,Jeep,147
+Uttarakhand,2001,Other Motor Vehicles,56
+Uttarakhand,2001,Others,68
+Uttarakhand,2001,Pedestrian,36
+Uttarakhand,2001,Three Wheeler,64
+Uttarakhand,2001,Truck/Lorry,119
+Uttarakhand,2001,Two Wheeler,88
+Uttarakhand,2002,Bicycle,7
+Uttarakhand,2002,Bus,150
+Uttarakhand,2002,Car,46
+Uttarakhand,2002,Jeep,108
+Uttarakhand,2002,Other Motor Vehicles,39
+Uttarakhand,2002,Others,52
+Uttarakhand,2002,Pedestrian,48
+Uttarakhand,2002,Three Wheeler,16
+Uttarakhand,2002,Truck/Lorry,176
+Uttarakhand,2002,Two Wheeler,63
+Uttarakhand,2003,Bicycle,4
+Uttarakhand,2003,Bus,105
+Uttarakhand,2003,Car,104
+Uttarakhand,2003,Jeep,164
+Uttarakhand,2003,Other Motor Vehicles,25
+Uttarakhand,2003,Others,66
+Uttarakhand,2003,Pedestrian,28
+Uttarakhand,2003,Three Wheeler,11
+Uttarakhand,2003,Truck/Lorry,159
+Uttarakhand,2003,Two Wheeler,54
+Uttarakhand,2004,Bicycle,9
+Uttarakhand,2004,Bus,236
+Uttarakhand,2004,Car,77
+Uttarakhand,2004,Jeep,107
+Uttarakhand,2004,Other Motor Vehicles,71
+Uttarakhand,2004,Others,84
+Uttarakhand,2004,Pedestrian,19
+Uttarakhand,2004,Three Wheeler,15
+Uttarakhand,2004,Truck/Lorry,229
+Uttarakhand,2004,Two Wheeler,84
+Uttarakhand,2005,Bicycle,8
+Uttarakhand,2005,Bus,196
+Uttarakhand,2005,Car,96
+Uttarakhand,2005,Jeep,110
+Uttarakhand,2005,Other Motor Vehicles,37
+Uttarakhand,2005,Others,106
+Uttarakhand,2005,Pedestrian,38
+Uttarakhand,2005,Three Wheeler,36
+Uttarakhand,2005,Truck/Lorry,185
+Uttarakhand,2005,Two Wheeler,57
+Uttarakhand,2006,Bicycle,9
+Uttarakhand,2006,Bus,181
+Uttarakhand,2006,Car,95
+Uttarakhand,2006,Jeep,95
+Uttarakhand,2006,Other Motor Vehicles,44
+Uttarakhand,2006,Others,162
+Uttarakhand,2006,Pedestrian,26
+Uttarakhand,2006,Three Wheeler,21
+Uttarakhand,2006,Truck/Lorry,248
+Uttarakhand,2006,Two Wheeler,94
+Uttarakhand,2007,Bicycle,3
+Uttarakhand,2007,Bus,208
+Uttarakhand,2007,Car,112
+Uttarakhand,2007,Jeep,115
+Uttarakhand,2007,Other Motor Vehicles,40
+Uttarakhand,2007,Others,137
+Uttarakhand,2007,Pedestrian,29
+Uttarakhand,2007,Three Wheeler,32
+Uttarakhand,2007,Truck/Lorry,215
+Uttarakhand,2007,Two Wheeler,82
+Uttarakhand,2008,Bicycle,9
+Uttarakhand,2008,Bus,228
+Uttarakhand,2008,Car,98
+Uttarakhand,2008,Jeep,126
+Uttarakhand,2008,Other Motor Vehicles,97
+Uttarakhand,2008,Others,107
+Uttarakhand,2008,Pedestrian,44
+Uttarakhand,2008,Three Wheeler,42
+Uttarakhand,2008,Truck/Lorry,214
+Uttarakhand,2008,Two Wheeler,102
+Uttarakhand,2009,Bicycle,17
+Uttarakhand,2009,Bus,135
+Uttarakhand,2009,Car,58
+Uttarakhand,2009,Jeep,109
+Uttarakhand,2009,Other Motor Vehicles,45
+Uttarakhand,2009,Others,148
+Uttarakhand,2009,Pedestrian,45
+Uttarakhand,2009,Three Wheeler,18
+Uttarakhand,2009,Truck/Lorry,181
+Uttarakhand,2009,Two Wheeler,96
+Uttarakhand,2010,Bicycle,24
+Uttarakhand,2010,Bus,103
+Uttarakhand,2010,Car,165
+Uttarakhand,2010,Jeep,79
+Uttarakhand,2010,Other Motor Vehicles,51
+Uttarakhand,2010,Others,85
+Uttarakhand,2010,Pedestrian,63
+Uttarakhand,2010,Three Wheeler,34
+Uttarakhand,2010,Truck/Lorry,117
+Uttarakhand,2010,Two Wheeler,196
+Uttarakhand,2011,Bicycle,13
+Uttarakhand,2011,Bus,53
+Uttarakhand,2011,Car,99
+Uttarakhand,2011,Jeep,36
+Uttarakhand,2011,Other Motor Vehicles,160
+Uttarakhand,2011,Others,161
+Uttarakhand,2011,Pedestrian,23
+Uttarakhand,2011,Three Wheeler,19
+Uttarakhand,2011,Truck/Lorry,183
+Uttarakhand,2011,Two Wheeler,175
+Uttarakhand,2012,Bicycle,21
+Uttarakhand,2012,Bus,121
+Uttarakhand,2012,Car,131
+Uttarakhand,2012,Jeep,63
+Uttarakhand,2012,Other Motor Vehicles,14
+Uttarakhand,2012,Others,80
+Uttarakhand,2012,Pedestrian,75
+Uttarakhand,2012,Three Wheeler,17
+Uttarakhand,2012,Truck/Lorry,127
+Uttarakhand,2012,Two Wheeler,178
+Uttarakhand,2013,Bicycle,30
+Uttarakhand,2013,Bus,87
+Uttarakhand,2013,Car,81
+Uttarakhand,2013,Jeep,80
+Uttarakhand,2013,Other Motor Vehicles,36
+Uttarakhand,2013,Others,136
+Uttarakhand,2013,Pedestrian,40
+Uttarakhand,2013,Three Wheeler,9
+Uttarakhand,2013,Truck/Lorry,97
+Uttarakhand,2013,Two Wheeler,170
+Uttarakhand,2014,Bicycle,0
+Uttarakhand,2014,Bus,102
+Uttarakhand,2014,Car,150
+Uttarakhand,2014,Jeep,31
+Uttarakhand,2014,Other Motor Vehicles,24
+Uttarakhand,2014,Others,22
+Uttarakhand,2014,Pedestrian,5
+Uttarakhand,2014,Three Wheeler,16
+Uttarakhand,2014,Truck/Lorry,113
+Uttarakhand,2014,Two Wheeler,44
+West Bengal,2001,Bicycle,73
+West Bengal,2001,Bus,1192
+West Bengal,2001,Car,373
+West Bengal,2001,Jeep,188
+West Bengal,2001,Other Motor Vehicles,237
+West Bengal,2001,Others,498
+West Bengal,2001,Pedestrian,146
+West Bengal,2001,Three Wheeler,58
+West Bengal,2001,Truck/Lorry,1004
+West Bengal,2001,Two Wheeler,190
+West Bengal,2002,Bicycle,96
+West Bengal,2002,Bus,1098
+West Bengal,2002,Car,321
+West Bengal,2002,Jeep,232
+West Bengal,2002,Other Motor Vehicles,215
+West Bengal,2002,Others,436
+West Bengal,2002,Pedestrian,243
+West Bengal,2002,Three Wheeler,69
+West Bengal,2002,Truck/Lorry,1182
+West Bengal,2002,Two Wheeler,247
+West Bengal,2003,Bicycle,47
+West Bengal,2003,Bus,1052
+West Bengal,2003,Car,301
+West Bengal,2003,Jeep,249
+West Bengal,2003,Other Motor Vehicles,376
+West Bengal,2003,Others,177
+West Bengal,2003,Pedestrian,75
+West Bengal,2003,Three Wheeler,76
+West Bengal,2003,Truck/Lorry,1416
+West Bengal,2003,Two Wheeler,358
+West Bengal,2004,Bicycle,46
+West Bengal,2004,Bus,1004
+West Bengal,2004,Car,488
+West Bengal,2004,Jeep,249
+West Bengal,2004,Other Motor Vehicles,288
+West Bengal,2004,Others,380
+West Bengal,2004,Pedestrian,209
+West Bengal,2004,Three Wheeler,77
+West Bengal,2004,Truck/Lorry,1211
+West Bengal,2004,Two Wheeler,317
+West Bengal,2005,Bicycle,36
+West Bengal,2005,Bus,1113
+West Bengal,2005,Car,364
+West Bengal,2005,Jeep,245
+West Bengal,2005,Other Motor Vehicles,224
+West Bengal,2005,Others,343
+West Bengal,2005,Pedestrian,370
+West Bengal,2005,Three Wheeler,50
+West Bengal,2005,Truck/Lorry,1286
+West Bengal,2005,Two Wheeler,333
+West Bengal,2006,Bicycle,48
+West Bengal,2006,Bus,957
+West Bengal,2006,Car,410
+West Bengal,2006,Jeep,330
+West Bengal,2006,Other Motor Vehicles,414
+West Bengal,2006,Others,8
+West Bengal,2006,Pedestrian,364
+West Bengal,2006,Three Wheeler,53
+West Bengal,2006,Truck/Lorry,1628
+West Bengal,2006,Two Wheeler,345
+West Bengal,2007,Bicycle,102
+West Bengal,2007,Bus,983
+West Bengal,2007,Car,437
+West Bengal,2007,Jeep,257
+West Bengal,2007,Other Motor Vehicles,116
+West Bengal,2007,Others,432
+West Bengal,2007,Pedestrian,482
+West Bengal,2007,Three Wheeler,64
+West Bengal,2007,Truck/Lorry,1543
+West Bengal,2007,Two Wheeler,503
+West Bengal,2008,Bicycle,0
+West Bengal,2008,Bus,952
+West Bengal,2008,Car,478
+West Bengal,2008,Jeep,205
+West Bengal,2008,Other Motor Vehicles,124
+West Bengal,2008,Others,812
+West Bengal,2008,Pedestrian,0
+West Bengal,2008,Three Wheeler,92
+West Bengal,2008,Truck/Lorry,1554
+West Bengal,2008,Two Wheeler,522
+West Bengal,2009,Bicycle,140
+West Bengal,2009,Bus,809
+West Bengal,2009,Car,429
+West Bengal,2009,Jeep,152
+West Bengal,2009,Other Motor Vehicles,230
+West Bengal,2009,Others,571
+West Bengal,2009,Pedestrian,699
+West Bengal,2009,Three Wheeler,91
+West Bengal,2009,Truck/Lorry,1335
+West Bengal,2009,Two Wheeler,558
+West Bengal,2010,Bicycle,161
+West Bengal,2010,Bus,830
+West Bengal,2010,Car,440
+West Bengal,2010,Jeep,199
+West Bengal,2010,Other Motor Vehicles,206
+West Bengal,2010,Others,603
+West Bengal,2010,Pedestrian,626
+West Bengal,2010,Three Wheeler,108
+West Bengal,2010,Truck/Lorry,1618
+West Bengal,2010,Two Wheeler,679
+West Bengal,2011,Bicycle,112
+West Bengal,2011,Bus,856
+West Bengal,2011,Car,503
+West Bengal,2011,Jeep,158
+West Bengal,2011,Other Motor Vehicles,289
+West Bengal,2011,Others,725
+West Bengal,2011,Pedestrian,511
+West Bengal,2011,Three Wheeler,114
+West Bengal,2011,Truck/Lorry,1534
+West Bengal,2011,Two Wheeler,844
+West Bengal,2012,Bicycle,200
+West Bengal,2012,Bus,740
+West Bengal,2012,Car,553
+West Bengal,2012,Jeep,201
+West Bengal,2012,Other Motor Vehicles,236
+West Bengal,2012,Others,746
+West Bengal,2012,Pedestrian,666
+West Bengal,2012,Three Wheeler,104
+West Bengal,2012,Truck/Lorry,1781
+West Bengal,2012,Two Wheeler,995
+West Bengal,2013,Bicycle,285
+West Bengal,2013,Bus,658
+West Bengal,2013,Car,550
+West Bengal,2013,Jeep,248
+West Bengal,2013,Other Motor Vehicles,251
+West Bengal,2013,Others,602
+West Bengal,2013,Pedestrian,771
+West Bengal,2013,Three Wheeler,125
+West Bengal,2013,Truck/Lorry,1387
+West Bengal,2013,Two Wheeler,950
+West Bengal,2014,Bicycle,114
+West Bengal,2014,Bus,659
+West Bengal,2014,Car,781
+West Bengal,2014,Jeep,105
+West Bengal,2014,Other Motor Vehicles,711
+West Bengal,2014,Others,369
+West Bengal,2014,Pedestrian,555
+West Bengal,2014,Three Wheeler,135
+West Bengal,2014,Truck/Lorry,1795
+West Bengal,2014,Two Wheeler,1254
